@@ -1,6 +1,7 @@
 "use client";
 import Link from "next/link";
 import MiniSearch from "minisearch";
+import { useSearchParams } from "next/navigation";
 import { useEffect, useMemo, useState } from "react";
 
 type Doc = {
@@ -48,8 +49,10 @@ const STOP = new Set([
 ]);
 
 export function SearchClient({ docs }: { docs: Doc[] }) {
-  const [query, setQuery] = useState("");
-  const [debounced, setDebounced] = useState("");
+  const params = useSearchParams();
+  const initial = params?.get("q") ?? "";
+  const [query, setQuery] = useState(initial);
+  const [debounced, setDebounced] = useState(initial);
 
   useEffect(() => {
     const t = setTimeout(() => setDebounced(query), 120);

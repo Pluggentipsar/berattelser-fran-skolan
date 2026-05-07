@@ -1,3 +1,4 @@
+import { Suspense } from "react";
 import { getStories } from "@/lib/stories";
 import { SearchClient } from "./search-client";
 
@@ -28,7 +29,9 @@ export default async function SearchPage() {
           stemsökning. Resultaten visar varje träff i sin kontext.
         </p>
       </header>
-      <SearchClient docs={docs} />
+      <Suspense fallback={null}>
+        <SearchClient docs={docs} />
+      </Suspense>
     </div>
   );
 }

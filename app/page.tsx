@@ -3,6 +3,7 @@ import { getStats, getStories, excerpt } from "@/lib/stories";
 import { getCarouselQuotes } from "@/lib/carousel";
 import { QuoteCarousel } from "@/components/quote-carousel";
 import { OptionalImage } from "@/components/optional-image";
+import { SearchTeaser } from "@/components/search-teaser";
 
 export default async function HomePage() {
   const [stats, all, carousel] = await Promise.all([
@@ -86,6 +87,7 @@ function Hero({ stats }: { stats: Awaited<ReturnType<typeof getStats>> }) {
               Ladda ner PDF
             </Link>
           </div>
+          <SearchTeaser total={stats.total} />
         </div>
         <aside className="lg:col-span-4 lg:border-l lg:border-ink/10 lg:pl-10">
           <BigStat
