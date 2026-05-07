@@ -101,7 +101,7 @@ function Hero({ stats }: { stats: Awaited<ReturnType<typeof getStats>> }) {
           <BigStat
             value={`${Math.round(stats.reading_time_minutes / 60)}h`}
             label="att läsa allt"
-            footnote="≈ en lärares arbetsdag"
+            footnote="≈ en lärares reglerade arbetsvecka"
           />
         </aside>
       </div>

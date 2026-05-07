@@ -65,7 +65,7 @@ export function FingerprintBoard(props: Props) {
         <BigStatBox
           label="Lästid"
           value={`${Math.round(props.stats.reading_time_minutes / 60)}h`}
-          sub="≈ en lärares arbetsdag"
+          sub="≈ en lärares reglerade arbetsvecka"
         />
       </section>
 
