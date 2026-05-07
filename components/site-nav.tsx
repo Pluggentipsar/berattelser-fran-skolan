@@ -80,6 +80,7 @@ export function SiteNav() {
     href === "/" ? pathname === "/" : pathname.startsWith(href);
 
   return (
+    <>
     <header className="border-b border-ink/10 bg-paper/95 sticky top-0 backdrop-blur z-30 print:hidden">
       <div className="max-w-wide mx-auto px-4 sm:px-6 py-3.5 flex items-center justify-between gap-4">
         <Link
@@ -220,83 +221,86 @@ export function SiteNav() {
         </div>
       )}
 
-      {/* Mobile drawer */}
-      {mobileOpen && (
-        <div
-          id="mobil-meny"
-          className="lg:hidden fixed inset-0 top-[60px] bg-paper overflow-y-auto z-40"
-        >
-          <nav className="px-5 py-6 pb-20">
-            <div className="grid gap-1 mb-6 pb-5 border-b border-ink/10">
-              {PRIMARY.map((l) => (
-                <Link
-                  key={l.href}
-                  href={l.href}
-                  className={
-                    "font-display text-xl py-2 hover:text-ember " +
-                    (isActive(l.href) ? "text-ember font-semibold" : "text-ink")
-                  }
-                >
-                  {l.label}
-                </Link>
-              ))}
+    </header>
+
+    {/* Mobile drawer — rendered outside <header> so the header's
+        backdrop-blur doesn't trap it in a sub-stacking-context. */}
+    {mobileOpen && (
+      <div
+        id="mobil-meny"
+        className="lg:hidden fixed inset-0 top-[60px] bg-paper overflow-y-auto z-40 print:hidden"
+      >
+        <nav className="px-5 py-6 pb-20">
+          <div className="grid gap-1 mb-6 pb-5 border-b border-ink/10">
+            {PRIMARY.map((l) => (
               <Link
-                href="/om"
+                key={l.href}
+                href={l.href}
                 className={
                   "font-display text-xl py-2 hover:text-ember " +
-                  (isActive("/om") ? "text-ember font-semibold" : "text-ink")
+                  (isActive(l.href) ? "text-ember font-semibold" : "text-ink")
                 }
               >
-                Om sajten
+                {l.label}
               </Link>
-            </div>
-            {MEGA.map((col, i) => (
-              <section key={col.heading} className={i > 0 ? "mt-7" : ""}>
-                <p className="font-sans text-xs uppercase tracking-[0.2em] text-ember mb-1">
-                  {col.heading}
-                </p>
-                <p className="font-serif italic text-sm text-ink-muted mb-3">
-                  {col.tagline}
-                </p>
-                <ul className="grid gap-2">
-                  {col.links.map((l) => (
-                    <li key={l.href}>
-                      <Link
-                        href={l.href}
-                        className={
-                          "block py-2 border-l-2 pl-3 transition-colors " +
-                          (isActive(l.href)
-                            ? "border-ember text-ember"
-                            : "border-ink/10 hover:border-ember")
-                        }
-                      >
-                        <div className="font-display text-base font-semibold">
-                          {l.label}
-                        </div>
-                        {l.desc && (
-                          <div className="font-serif text-xs text-ink-muted leading-snug mt-0.5">
-                            {l.desc}
-                          </div>
-                        )}
-                      </Link>
-                    </li>
-                  ))}
-                </ul>
-              </section>
             ))}
-          </nav>
-        </div>
-      )}
+            <Link
+              href="/om"
+              className={
+                "font-display text-xl py-2 hover:text-ember " +
+                (isActive("/om") ? "text-ember font-semibold" : "text-ink")
+              }
+            >
+              Om sajten
+            </Link>
+          </div>
+          {MEGA.map((col, i) => (
+            <section key={col.heading} className={i > 0 ? "mt-7" : ""}>
+              <p className="font-sans text-xs uppercase tracking-[0.2em] text-ember mb-1">
+                {col.heading}
+              </p>
+              <p className="font-serif italic text-sm text-ink-muted mb-3">
+                {col.tagline}
+              </p>
+              <ul className="grid gap-2">
+                {col.links.map((l) => (
+                  <li key={l.href}>
+                    <Link
+                      href={l.href}
+                      className={
+                        "block py-2 border-l-2 pl-3 transition-colors " +
+                        (isActive(l.href)
+                          ? "border-ember text-ember"
+                          : "border-ink/10 hover:border-ember")
+                      }
+                    >
+                      <div className="font-display text-base font-semibold">
+                        {l.label}
+                      </div>
+                      {l.desc && (
+                        <div className="font-serif text-xs text-ink-muted leading-snug mt-0.5">
+                          {l.desc}
+                        </div>
+                      )}
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </section>
+          ))}
+        </nav>
+      </div>
+    )}
 
-      {/* Desktop backdrop for mega-menu */}
-      {megaOpen && (
-        <button
-          type="button"
-          aria-label="Stäng meny"
-          onClick={() => setMegaOpen(false)}
-          className="hidden lg:block fixed inset-0 top-[64px] bg-ink/30 backdrop-blur-[1px] -z-10 cursor-default"
-        />
-      )}
-    </header>
+    {/* Desktop backdrop for mega-menu */}
+    {megaOpen && (
+      <button
+        type="button"
+        aria-label="Stäng meny"
+        onClick={() => setMegaOpen(false)}
+        className="hidden lg:block fixed inset-0 top-[64px] bg-ink/30 backdrop-blur-[1px] z-20 cursor-default print:hidden"
+      />
+    )}
+    </>
   );
 }
