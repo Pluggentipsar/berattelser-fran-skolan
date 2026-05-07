@@ -59,7 +59,10 @@ const THEMES: Record<Settings["theme"], { bg: string; ink: string; muted: string
 export function BookReader({ items, totalWords }: { items: Item[]; totalWords: number }) {
   const [settings, setSettings] = useState<Settings>(DEFAULTS);
   const [showPanel, setShowPanel] = useState(false);
-  const [tocOpen, setTocOpen] = useState(true);
+  const [tocOpen, setTocOpen] = useState<boolean>(() => {
+    if (typeof window === "undefined") return true;
+    return window.matchMedia("(min-width: 768px)").matches;
+  });
   const [activeIdx, setActiveIdx] = useState(0);
   const [tts, setTts] = useState<{
     playing: boolean;
@@ -157,6 +160,9 @@ export function BookReader({ items, totalWords }: { items: Item[]; totalWords: n
   function jumpTo(id: string) {
     const el = articleRefs.current.get(id);
     if (el) el.scrollIntoView({ behavior: "smooth", block: "start" });
+    if (typeof window !== "undefined" && window.matchMedia("(max-width: 767px)").matches) {
+      setTocOpen(false);
+    }
   }
 
   function speakFrom(idx: number) {
@@ -329,14 +335,23 @@ export function BookReader({ items, totalWords }: { items: Item[]; totalWords: n
       </div>
 
       {/* Body */}
-      <div className="flex-1 flex overflow-hidden">
+      <div className="flex-1 flex overflow-hidden relative">
         {tocOpen && (
-          <Toc
-            sections={sections}
-            activeId={items[activeIdx]?.id}
-            onJump={jumpTo}
-            palette={palette}
-          />
+          <>
+            {/* Mobile backdrop */}
+            <button
+              type="button"
+              aria-label="Stäng kapitellista"
+              onClick={() => setTocOpen(false)}
+              className="md:hidden absolute inset-0 z-10 bg-ink/40 cursor-default"
+            />
+            <Toc
+              sections={sections}
+              activeId={items[activeIdx]?.id}
+              onJump={jumpTo}
+              palette={palette}
+            />
+          </>
         )}
         <main
           ref={scrollContainerRef}
@@ -485,7 +500,7 @@ function Toc({
 
   return (
     <aside
-      className="hidden md:flex md:flex-col w-72 border-r overflow-hidden shrink-0"
+      className="flex flex-col absolute md:static inset-y-0 left-0 z-20 md:z-auto w-72 border-r overflow-hidden shrink-0"
       style={{ borderColor: palette.border, background: palette.bg }}
     >
       <div className="px-4 py-3 border-b shrink-0" style={{ borderColor: palette.border }}>

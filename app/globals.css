@@ -108,6 +108,59 @@
   }
 }
 
+/* ───────── Subtle motion ───────── */
+@layer utilities {
+  /* Page-level entrance: gentle rise + fade. Used on hero sections and grids. */
+  .anim-rise {
+    animation: rise 0.5s cubic-bezier(0.2, 0.7, 0.2, 1) both;
+  }
+  /* Slightly delayed for a staggered feel on adjacent siblings. */
+  .anim-rise-delay-1 { animation-delay: 0.08s; }
+  .anim-rise-delay-2 { animation-delay: 0.16s; }
+  .anim-rise-delay-3 { animation-delay: 0.24s; }
+
+  /* Soft fade only — no movement. For hero typography. */
+  .anim-fade {
+    animation: fade 0.6s ease-out both;
+  }
+
+  /* Underline grow on link hover — used for inline editorial links. */
+  .link-grow {
+    background-image: linear-gradient(currentColor, currentColor);
+    background-size: 0% 1px;
+    background-position: 0% 100%;
+    background-repeat: no-repeat;
+    transition: background-size 200ms ease-out;
+  }
+  .link-grow:hover {
+    background-size: 100% 1px;
+  }
+}
+
+@keyframes rise {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+@keyframes fade {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+/* Smooth scroll on anchor jumps */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Respect reduced-motion preference — kill all animations */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
 /* Print: optimize for letter-style reading */
 @media print {
   @page {

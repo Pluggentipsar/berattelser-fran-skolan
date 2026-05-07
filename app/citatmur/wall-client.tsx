@@ -50,7 +50,7 @@ export function CitationWallClient({ items }: { items: Item[] }) {
 
   return (
     <>
-      <div className="border-y border-ink/10 py-4 mb-10 -mx-6 px-6 sticky top-[60px] bg-paper/95 backdrop-blur z-20">
+      <div className="border-y border-ink/10 py-3 mb-8 -mx-4 px-4 sm:-mx-6 sm:px-6 sticky top-[60px] bg-paper/95 backdrop-blur z-20">
         <div className="flex flex-wrap gap-2 items-center">
           <span className="font-sans text-xs uppercase tracking-wider text-ink-muted mr-2">
             Roll:

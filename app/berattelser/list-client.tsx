@@ -68,14 +68,14 @@ export function StoryListClient({ stories }: { stories: Item[] }) {
                 <h3 className="font-display text-lg font-semibold leading-snug group-hover:text-ember transition-colors">
                   {s.title}
                 </h3>
-                <span className="ml-auto font-sans text-xs text-ink-faint tabular-nums whitespace-nowrap">
+                <span className="ml-auto hidden sm:inline font-sans text-xs text-ink-faint tabular-nums whitespace-nowrap">
                   {s.word_count.toLocaleString("sv-SE")} ord
                 </span>
               </div>
-              <p className="font-serif text-[0.95rem] leading-relaxed text-ink-soft pl-20">
+              <p className="font-serif text-[0.95rem] leading-relaxed text-ink-soft sm:pl-20">
                 {s.excerpt}
               </p>
-              <div className="pl-20 mt-1.5 flex items-baseline gap-3 flex-wrap">
+              <div className="sm:pl-20 mt-1.5 flex items-baseline gap-3 flex-wrap">
                 {s.signature && (
                   <p className="font-serif italic text-sm text-ink-muted">
                     — {s.signature}

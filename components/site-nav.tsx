@@ -45,26 +45,25 @@ const MEGA: { heading: string; tagline: string; links: NavLink[] }[] = [
   },
 ];
 
-const META: NavLink[] = [
-  { href: "/om", label: "Om sajten" },
-];
-
 export function SiteNav() {
-  const [open, setOpen] = useState(false);
+  const [megaOpen, setMegaOpen] = useState(false);
+  const [mobileOpen, setMobileOpen] = useState(false);
   const pathname = usePathname();
   const closeBtnRef = useRef<HTMLButtonElement>(null);
   const triggerRef = useRef<HTMLButtonElement>(null);
+  const open = megaOpen || mobileOpen;
 
-  // Close on route change
   useEffect(() => {
-    setOpen(false);
+    setMegaOpen(false);
+    setMobileOpen(false);
   }, [pathname]);
 
   useEffect(() => {
     if (!open) return;
     const onKey = (e: KeyboardEvent) => {
       if (e.key === "Escape") {
-        setOpen(false);
+        setMegaOpen(false);
+        setMobileOpen(false);
         triggerRef.current?.focus();
       }
     };
@@ -82,11 +81,17 @@ export function SiteNav() {
 
   return (
     <header className="border-b border-ink/10 bg-paper/95 sticky top-0 backdrop-blur z-30 print:hidden">
-      <div className="max-w-wide mx-auto px-6 py-3.5 flex items-center justify-between gap-6">
-        <Link href="/" className="font-display text-lg font-semibold tracking-tight whitespace-nowrap">
+      <div className="max-w-wide mx-auto px-4 sm:px-6 py-3.5 flex items-center justify-between gap-4">
+        <Link
+          href="/"
+          className="font-display text-base sm:text-lg font-semibold tracking-tight whitespace-nowrap shrink-0"
+          onClick={() => setMobileOpen(false)}
+        >
           Berättelser från skolan
         </Link>
-        <nav className="flex items-center gap-5 text-sm font-sans text-ink-soft">
+
+        {/* Desktop nav */}
+        <nav className="hidden lg:flex items-center gap-5 text-sm font-sans text-ink-soft">
           {PRIMARY.map((l) => (
             <Link
               key={l.href}
@@ -101,12 +106,12 @@ export function SiteNav() {
           ))}
           <button
             ref={triggerRef}
-            onClick={() => setOpen((v) => !v)}
-            aria-expanded={open}
+            onClick={() => setMegaOpen((v) => !v)}
+            aria-expanded={megaOpen}
             aria-controls="utforska-meny"
             className={
               "inline-flex items-center gap-1 hover:text-ink transition-colors " +
-              (open ? "text-ink font-medium" : "")
+              (megaOpen ? "text-ink font-medium" : "")
             }
           >
             Utforska
@@ -119,7 +124,7 @@ export function SiteNav() {
               strokeWidth="1.8"
               strokeLinecap="round"
               strokeLinejoin="round"
-              className={"transition-transform " + (open ? "rotate-180" : "")}
+              className={"transition-transform " + (megaOpen ? "rotate-180" : "")}
             >
               <polyline points="2 4 6 8 10 4" />
             </svg>
@@ -135,18 +140,45 @@ export function SiteNav() {
           </Link>
           <ThemeToggle />
         </nav>
+
+        {/* Mobile trigger */}
+        <div className="lg:hidden flex items-center gap-2">
+          <ThemeToggle />
+          <button
+            type="button"
+            onClick={() => setMobileOpen((v) => !v)}
+            aria-expanded={mobileOpen}
+            aria-controls="mobil-meny"
+            aria-label={mobileOpen ? "Stäng meny" : "Öppna meny"}
+            className="w-10 h-10 flex items-center justify-center rounded-full border border-ink/15 hover:border-ink text-ink-soft hover:text-ink transition-colors"
+          >
+            {mobileOpen ? (
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                <line x1="18" y1="6" x2="6" y2="18" />
+                <line x1="6" y1="6" x2="18" y2="18" />
+              </svg>
+            ) : (
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                <line x1="3" y1="12" x2="21" y2="12" />
+                <line x1="3" y1="6" x2="21" y2="6" />
+                <line x1="3" y1="18" x2="21" y2="18" />
+              </svg>
+            )}
+          </button>
+        </div>
       </div>
 
-      {open && (
+      {/* Desktop mega-menu panel */}
+      {megaOpen && (
         <div
           id="utforska-meny"
-          className="absolute left-0 right-0 top-full bg-paper border-b border-ink/10 shadow-xl"
+          className="absolute left-0 right-0 top-full bg-paper border-b border-ink/10 shadow-xl hidden lg:block"
         >
           <button
             type="button"
             aria-label="Stäng meny"
             ref={closeBtnRef}
-            onClick={() => setOpen(false)}
+            onClick={() => setMegaOpen(false)}
             className="absolute top-3 right-6 w-8 h-8 flex items-center justify-center rounded-full border border-ink/15 hover:border-ink hover:text-ember text-sm"
           >
             ×
@@ -168,7 +200,10 @@ export function SiteNav() {
                         className="group block border-l-2 border-ink/10 pl-4 hover:border-ember transition-colors"
                       >
                         <div className="font-display text-base font-semibold text-ink group-hover:text-ember">
-                          {l.label} <span className="text-ember opacity-0 group-hover:opacity-100 transition-opacity">→</span>
+                          {l.label}{" "}
+                          <span className="text-ember opacity-0 group-hover:opacity-100 transition-opacity">
+                            →
+                          </span>
                         </div>
                         {l.desc && (
                           <div className="font-serif text-sm text-ink-muted leading-snug mt-0.5">
@@ -185,12 +220,81 @@ export function SiteNav() {
         </div>
       )}
 
-      {open && (
+      {/* Mobile drawer */}
+      {mobileOpen && (
+        <div
+          id="mobil-meny"
+          className="lg:hidden fixed inset-0 top-[60px] bg-paper overflow-y-auto"
+        >
+          <nav className="px-5 py-6 pb-20">
+            <div className="grid gap-1 mb-6 pb-5 border-b border-ink/10">
+              {PRIMARY.map((l) => (
+                <Link
+                  key={l.href}
+                  href={l.href}
+                  className={
+                    "font-display text-xl py-2 hover:text-ember " +
+                    (isActive(l.href) ? "text-ember font-semibold" : "text-ink")
+                  }
+                >
+                  {l.label}
+                </Link>
+              ))}
+              <Link
+                href="/om"
+                className={
+                  "font-display text-xl py-2 hover:text-ember " +
+                  (isActive("/om") ? "text-ember font-semibold" : "text-ink")
+                }
+              >
+                Om sajten
+              </Link>
+            </div>
+            {MEGA.map((col, i) => (
+              <section key={col.heading} className={i > 0 ? "mt-7" : ""}>
+                <p className="font-sans text-xs uppercase tracking-[0.2em] text-ember mb-1">
+                  {col.heading}
+                </p>
+                <p className="font-serif italic text-sm text-ink-muted mb-3">
+                  {col.tagline}
+                </p>
+                <ul className="grid gap-2">
+                  {col.links.map((l) => (
+                    <li key={l.href}>
+                      <Link
+                        href={l.href}
+                        className={
+                          "block py-2 border-l-2 pl-3 transition-colors " +
+                          (isActive(l.href)
+                            ? "border-ember text-ember"
+                            : "border-ink/10 hover:border-ember")
+                        }
+                      >
+                        <div className="font-display text-base font-semibold">
+                          {l.label}
+                        </div>
+                        {l.desc && (
+                          <div className="font-serif text-xs text-ink-muted leading-snug mt-0.5">
+                            {l.desc}
+                          </div>
+                        )}
+                      </Link>
+                    </li>
+                  ))}
+                </ul>
+              </section>
+            ))}
+          </nav>
+        </div>
+      )}
+
+      {/* Desktop backdrop for mega-menu */}
+      {megaOpen && (
         <button
           type="button"
           aria-label="Stäng meny"
-          onClick={() => setOpen(false)}
-          className="fixed inset-0 top-[64px] bg-ink/30 backdrop-blur-[1px] -z-10 cursor-default"
+          onClick={() => setMegaOpen(false)}
+          className="hidden lg:block fixed inset-0 top-[64px] bg-ink/30 backdrop-blur-[1px] -z-10 cursor-default"
         />
       )}
     </header>

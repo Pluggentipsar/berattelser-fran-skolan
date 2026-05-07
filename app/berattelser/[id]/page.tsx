@@ -172,7 +172,7 @@ export default async function StoryPage({
     <article>
       <ReadingProgress />
       <div className="border-b border-ink/10">
-        <div className="max-w-prose mx-auto px-6 pt-12 pb-10">
+        <div className="max-w-prose mx-auto px-4 sm:px-6 pt-10 sm:pt-12 pb-8 sm:pb-10">
           <Link
             href="/berattelser"
             className="font-sans text-xs uppercase tracking-wider text-ink-muted hover:text-ink"
@@ -216,7 +216,7 @@ export default async function StoryPage({
             />
             <BookmarkButton id={story.id} />
           </div>
-          <h1 className="font-display text-4xl md:text-5xl font-semibold leading-[1.05] tracking-tightest text-ink mb-6">
+          <h1 className="font-display text-3xl sm:text-4xl md:text-5xl font-semibold leading-[1.05] tracking-tightest text-ink mb-6">
             {story.title}
           </h1>
           {(story.meta?.role ||
@@ -256,7 +256,7 @@ export default async function StoryPage({
         </div>
       </div>
 
-      <div className="max-w-prose mx-auto px-6 py-12">
+      <div className="max-w-prose mx-auto px-4 sm:px-6 py-10 sm:py-12">
         {story.meta?.pull_quote && (
           <aside className="mb-12 border-l-2 border-ember pl-6 py-2 -ml-6">
             <p
@@ -300,7 +300,7 @@ export default async function StoryPage({
 
       {prevalence.items.length > 0 && (
         <section className="border-t border-ink/10 print:hidden">
-          <div className="max-w-prose mx-auto px-6 py-12">
+          <div className="max-w-prose mx-auto px-4 sm:px-6 py-10 sm:py-12">
             <h2 className="font-sans text-xs uppercase tracking-[0.2em] text-ember mb-3">
               Hur vanligt är detta?
             </h2>
@@ -334,7 +334,7 @@ export default async function StoryPage({
 
       {similar.length > 0 && (
         <section className="bg-paper-warm border-y border-ink/10 print:hidden">
-          <div className="max-w-prose mx-auto px-6 py-12">
+          <div className="max-w-prose mx-auto px-4 sm:px-6 py-10 sm:py-12">
             <h2 className="font-sans text-xs uppercase tracking-[0.2em] text-ember mb-6">
               Den tysta majoriteten — fler som berättar liknande
             </h2>

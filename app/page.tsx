@@ -30,13 +30,13 @@ export default async function HomePage() {
 function Hero({ stats }: { stats: Awaited<ReturnType<typeof getStats>> }) {
   return (
     <section className="border-b border-ink/10">
-      <div className="max-w-wide mx-auto px-6 py-20 lg:py-28 grid lg:grid-cols-12 gap-12 items-end">
+      <div className="max-w-wide mx-auto px-4 sm:px-6 py-14 sm:py-20 lg:py-28 grid lg:grid-cols-12 gap-12 items-end">
         <div className="lg:col-span-8">
-          <p className="font-sans text-xs uppercase tracking-[0.2em] text-ember mb-6">
+          <p className="font-sans text-xs uppercase tracking-[0.2em] text-ember mb-6 anim-rise">
             En samtidsskildring · Januari 2026
           </p>
           <h1
-            className="font-display tracking-tightest text-[clamp(2.5rem,6vw,5.5rem)] leading-[0.92] text-ink mb-8"
+            className="font-display tracking-tightest text-[clamp(2.5rem,6vw,5.5rem)] leading-[0.92] text-ink mb-8 anim-rise anim-rise-delay-1"
             style={{ fontWeight: 600, fontVariationSettings: '"opsz" 144, "SOFT" 30' }}
           >
             Skolan brinner.
@@ -52,12 +52,12 @@ function Hero({ stats }: { stats: Awaited<ReturnType<typeof getStats>> }) {
               Det här är berättelserna.
             </span>
           </h1>
-          <p className="font-serif text-xl leading-relaxed text-ink-soft max-w-2xl mb-8">
+          <p className="font-serif text-xl leading-relaxed text-ink-soft max-w-2xl mb-8 anim-rise anim-rise-delay-2">
             {stats.total} röster från svenska skolan. Lärare, föräldrar, elever,
             specialpedagoger, rektorer, fritidspersonal. Här finns deras egna ord
             — sökbara, läsbara, inte filtrerade.
           </p>
-          <div className="flex flex-wrap gap-3">
+          <div className="flex flex-wrap gap-3 anim-rise anim-rise-delay-3">
             <Link
               href="/las"
               className="font-sans text-sm font-medium px-5 py-3 bg-ink text-paper rounded-sm hover:bg-ember transition-colors inline-flex items-center gap-2"

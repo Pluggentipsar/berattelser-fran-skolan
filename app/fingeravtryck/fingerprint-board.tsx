@@ -201,7 +201,7 @@ function BarChart({
         const w = (n / peak) * 100;
         const inner = (
           <>
-            <span className="font-sans text-sm text-ink w-44 shrink-0 truncate text-left">
+            <span className="font-sans text-sm text-ink w-32 sm:w-44 shrink-0 truncate text-left">
               {label}
             </span>
             <div className="flex-1 h-5 bg-paper-deep rounded-sm overflow-hidden relative">

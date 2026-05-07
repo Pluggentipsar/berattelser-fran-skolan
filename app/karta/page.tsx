@@ -74,7 +74,25 @@ export default async function MapPage({
           <ThemeMapClient
             coords={coords}
             clusters={clusters ?? []}
-            titles={Object.fromEntries(stories.map((s) => [s.id, s.title]))}
+            stories={stories.map((s) => ({
+              id: s.id,
+              title: s.title,
+              volume: s.volume,
+              chapter: s.chapter,
+              signature: s.signature,
+              body: s.body,
+              meta: s.meta && {
+                role: s.meta.role ?? null,
+                stadium: s.meta.stadium ?? null,
+                sentiment: s.meta.sentiment ?? null,
+                themes: s.meta.themes ?? [],
+                diagnoses_mentioned: s.meta.diagnoses_mentioned ?? [],
+                geo_hint: s.meta.geo_hint ?? null,
+                pull_quote: s.meta.pull_quote ?? null,
+                system_critique: s.meta.system_critique ?? [],
+                concrete_proposals: s.meta.concrete_proposals ?? [],
+              },
+            }))}
           />
         ) : (
           <div className="border border-dashed border-ink/15 rounded-sm p-10 text-center max-w-2xl">
