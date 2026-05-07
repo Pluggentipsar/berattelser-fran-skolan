@@ -157,7 +157,9 @@ export function SwedenMap({
 
   function onPointerDown(e: React.PointerEvent<SVGSVGElement>) {
     if (e.button !== 0) return;
-    (e.currentTarget as Element).setPointerCapture(e.pointerId);
+    // Don't capture the pointer here — it routes click events away from
+    // child <path>/<circle> elements, breaking their onClick handlers.
+    // Drag-pan still works as long as the pointer stays over the SVG.
     dragRef.current = {
       startX: e.clientX,
       startY: e.clientY,
@@ -174,7 +176,9 @@ export function SwedenMap({
     }
     const dx = e.clientX - dragRef.current.startX;
     const dy = e.clientY - dragRef.current.startY;
-    if (Math.abs(dx) + Math.abs(dy) > 3) dragRef.current.moved = true;
+    // Threshold tuned for touch — taps often jitter 5–8 px even when the
+    // user intended a stationary tap. With < 10 px we still treat it as click.
+    if (Math.abs(dx) + Math.abs(dy) > 10) dragRef.current.moved = true;
     const svg = svgRef.current;
     if (!svg) return;
     const rect = svg.getBoundingClientRect();
@@ -187,14 +191,10 @@ export function SwedenMap({
     }));
   }
 
-  function onPointerUp(e: React.PointerEvent<SVGSVGElement>) {
-    try {
-      (e.currentTarget as Element).releasePointerCapture(e.pointerId);
-    } catch {
-      // already released
-    }
+  function onPointerUp() {
     // The drag-vs-click distinction is preserved on each clickable element
-    // via wasDragged() check before they fire their click handler.
+    // via wasDragged() check before they fire their click handler. setTimeout
+    // schedules cleanup *after* the synthetic click event fires.
     setTimeout(() => {
       dragRef.current = null;
     }, 0);

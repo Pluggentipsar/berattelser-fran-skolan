@@ -224,7 +224,7 @@ export function SiteNav() {
       {mobileOpen && (
         <div
           id="mobil-meny"
-          className="lg:hidden fixed inset-0 top-[60px] bg-paper overflow-y-auto"
+          className="lg:hidden fixed inset-0 top-[60px] bg-paper overflow-y-auto z-40"
         >
           <nav className="px-5 py-6 pb-20">
             <div className="grid gap-1 mb-6 pb-5 border-b border-ink/10">
