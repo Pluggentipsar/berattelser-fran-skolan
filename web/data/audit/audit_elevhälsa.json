@@ -1,0 +1,22 @@
+[
+  {"id": "vi-009", "keep": true, "reason": "Lyfter elevhälsan som hörnsten men kritiserar bristande bemanning och handlingskraft."},
+  {"id": "vi-010", "keep": true, "reason": "Punkt 4 kräver att elevhälsan görs till ett faktiskt stöd med tillräcklig bemanning."},
+  {"id": "vi-033", "keep": true, "reason": "Centralt tema är bristen på förebyggande och främjande elevhälsoarbete."},
+  {"id": "vi-037", "keep": true, "reason": "Efterlyser regelbundna avstämningar med elevhälsa och tidiga insatser."},
+  {"id": "vi-049", "keep": true, "reason": "Beskriver skolans bristande hantering av mobbning och psykisk ohälsa kopplat till elevhälsouppdraget."},
+  {"id": "vi-060", "keep": true, "reason": "Beskriver konkret elevhälsoteamets sammansättning och otillräcklighet."},
+  {"id": "vi-065", "keep": true, "reason": "Diskuterar uttryckligen elevhälsans roll och vård- och omsorgsuppdrag."},
+  {"id": "vi-075", "keep": true, "reason": "Skriven av specialpedagog som tar emot elever med psykisk ohälsa, kärnan i elevhälsoarbete."},
+  {"id": "vi-084", "keep": false, "reason": "EHT nämns kort men berättelsen handlar om ensamt lärararbete och inkludering, inte elevhälsa."},
+  {"id": "vi-095", "keep": false, "reason": "Handlar om folkhögskola och psykisk ohälsa men inte om skolans elevhälsa."},
+  {"id": "vi-099", "keep": true, "reason": "Efterlyser uttryckligen utbyggd elevhälsa på högstadiet."},
+  {"id": "vi-105", "keep": true, "reason": "Punkt 3 handlar konkret om elevhälsans professioner och deras närvaro på skolan."},
+  {"id": "vi-115", "keep": false, "reason": "Handlar om pedagogik, kreativitet och lärares villkor, inte om elevhälsa."},
+  {"id": "vi-152", "keep": true, "reason": "Efterlyser utökad elevhälsa för att fånga upp elever i förskoleklass."},
+  {"id": "vi-153", "keep": true, "reason": "Lyfter elevhälsans personal som viktig pusselbit och vill öka kompetenser."},
+  {"id": "vii-115", "keep": false, "reason": "Handlar om psykisk ohälsa och föräldrars arbetsliv, inte om skolans elevhälsa specifikt."},
+  {"id": "vii-117", "keep": false, "reason": "Diskuterar skolan som skyddsfaktor men nämner inte elevhälsoteamets professioner."},
+  {"id": "vii-121", "keep": true, "reason": "Nämner uttryckligen att elevhälsoarbetet faller på lärarna."},
+  {"id": "vii-141", "keep": false, "reason": "Berättelse om enskild elev i sorg och socialtjänst, ingen substantiell diskussion om elevhälsan."},
+  {"id": "vii-145", "keep": true, "reason": "Beskriver elevhälsans aktörer (kurator, specialpedagog) och deras bristande samordning."}
+]

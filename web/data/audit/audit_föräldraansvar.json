@@ -1,0 +1,13 @@
+[
+  {"id": "vi-020", "keep": true, "reason": "Diskuterar nytt föräldraskap och minskad träning av tålamod hos barn."},
+  {"id": "vi-022", "keep": false, "reason": "Handlar om egna skolerfarenheter och barnens diagnoser, inte föräldraansvar."},
+  {"id": "vi-031", "keep": false, "reason": "Fokuserar på skolans brister, inte på föräldrars ansvar."},
+  {"id": "vi-045", "keep": true, "reason": "Tar upp exkludering av föräldraengagemang och föräldrars roll i barns skolgång."},
+  {"id": "vi-052", "keep": true, "reason": "Beskriver hur ansvaret läggs på föräldrar att få skolan att fungera."},
+  {"id": "vi-078", "keep": true, "reason": "Mamman tvingas ta ansvar för allt dottern har rätt till från skolan."},
+  {"id": "vi-122", "keep": false, "reason": "Skildrar skolans bristande stöd, inte frågor om föräldraansvar."},
+  {"id": "vi-131", "keep": true, "reason": "Förälder förväntas stötta upp när skolan inte räcker till."},
+  {"id": "vi-132", "keep": true, "reason": "Lärarperspektiv på vårdnadshavares orimliga krav och ansvarsförskjutning."},
+  {"id": "vi-144", "keep": false, "reason": "Förälderns reflektion riktas mot politiker och skolan, inte föräldraansvar."},
+  {"id": "vii-109", "keep": true, "reason": "Tar uttryckligen upp uppfostran som vårdnadshavares ansvar."}
+]

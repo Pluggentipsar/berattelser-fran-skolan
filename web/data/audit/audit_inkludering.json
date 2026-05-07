@@ -1,0 +1,12 @@
+[
+  {"id": "vi-009", "keep": true, "reason": "Kritiserar uttryckligen inkludering som överordnat mål utan rätt stöd och resurser."},
+  {"id": "vi-010", "keep": true, "reason": "Innehåller direkt önskemål: 'Gör inkludering möjlig – inte symbolisk'."},
+  {"id": "vi-016", "keep": true, "reason": "Diskuterar uppdelning kontra inkludering i anpassad skola och 'gråzonsbarn'."},
+  {"id": "vi-023", "keep": true, "reason": "Essä om normalitet, avvikelse och inkluderande skola som hegemoniskt perspektiv."},
+  {"id": "vi-081", "keep": true, "reason": "Beskriver elever med särskilda behov som ska inkluderas i stora klasser utan resurser."},
+  {"id": "vi-084", "keep": true, "reason": "Säger uttryckligen att 'den inkluderande skolan' inte fungerar i praktiken."},
+  {"id": "vi-099", "keep": false, "reason": "Handlar om spridd nivå och resursbrist men engagerar inte specifikt med inkludering som koncept."},
+  {"id": "vi-104", "keep": true, "reason": "Förälder beskriver exkludering – motpolen till inkludering – som policyfråga."},
+  {"id": "vi-110", "keep": true, "reason": "Skriver explicit att 'ALLA ska vara med innebär en exkludering utan dess like'."},
+  {"id": "vi-135", "keep": false, "reason": "Stark text om autistisk elev men handlar om bemötande och hemmasittande, inte inkludering som policy."}
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "vii-221",
+    "keep": true,
+    "reason": "Beskriver bristande förutsättningar och resurser i skolan, särskilt i utsatta områden."
+  },
+  {
+    "id": "vii-222",
+    "keep": true,
+    "reason": "Tydligt om bristande resurser, tid och mandat för lärare att utföra sitt uppdrag."
+  },
+  {
+    "id": "vii-228",
+    "keep": true,
+    "reason": "Lyfter för stora klasser och otillräckliga strukturella resurser i skolan."
+  },
+  {
+    "id": "vii-230",
+    "keep": true,
+    "reason": "Allegori om kommunal pengabrist och nedskärningar som drabbar elever."
+  },
+  {
+    "id": "vii-232",
+    "keep": true,
+    "reason": "Förälder beskriver hur skolan saknar resurser, personal och elevassistenter."
+  },
+  {
+    "id": "vii-235",
+    "keep": true,
+    "reason": "IM-program organiseras efter knappa resurser; elever saknar tidigt stöd."
+  },
+  {
+    "id": "vii-238",
+    "keep": false,
+    "reason": "Nostalgisk yrkesberättelse om förskola; ingen tydlig betoning på resursbrist."
+  },
+  {
+    "id": "vii-239",
+    "keep": true,
+    "reason": "Lärare saknar praktiska och pedagogiska förutsättningar; mindre klasser efterfrågas."
+  },
+  {
+    "id": "vii-240",
+    "keep": true,
+    "reason": "Beskriver minskad planeringstid och otillräckliga förutsättningar för lärares uppdrag."
+  },
+  {
+    "id": "vii-242",
+    "keep": true,
+    "reason": "Konkret vardagsbild av otillräckliga resurser för elever med stort stödbehov."
+  },
+  {
+    "id": "vii-245",
+    "keep": true,
+    "reason": "Lyfter nedskuren utbildningsbudget, otillräckligt stöd och avsaknad av material."
+  }
+]

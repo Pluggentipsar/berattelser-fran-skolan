@@ -1,0 +1,626 @@
+[
+  {
+    "label": "mindre-klasser-och-grupper",
+    "count": 36
+  },
+  {
+    "label": "fler-vuxna-i-skolan",
+    "count": 23
+  },
+  {
+    "label": "små-undervisningsgrupper-och-resursskolor",
+    "count": 13
+  },
+  {
+    "label": "förstatliga-skolan",
+    "count": 11
+  },
+  {
+    "label": "fler-speciallärare-och-specialpedagoger",
+    "count": 11
+  },
+  {
+    "label": "lagstadgat-tak-för-klasstorlek",
+    "count": 9
+  },
+  {
+    "label": "rätt-stöd-och-anpassningar",
+    "count": 8
+  },
+  {
+    "label": "reformera-eller-slopa-betyg",
+    "count": 8
+  },
+  {
+    "label": "tidiga-insatser",
+    "count": 8
+  },
+  {
+    "label": "mer-resurser-och-finansiering",
+    "count": 8
+  },
+  {
+    "label": "relationellt-ledarskap-och-bemötande",
+    "count": 7
+  },
+  {
+    "label": "reformera-läroplan-och-undervisning",
+    "count": 5
+  },
+  {
+    "label": "NPF-kompetens-och-fortbildning",
+    "count": 5
+  },
+  {
+    "label": "läroplikt-istället-för-skolplikt",
+    "count": 4
+  },
+  {
+    "label": "renodla-läraruppdraget",
+    "count": 4
+  },
+  {
+    "label": "mobilförbud-och-begränsa-skärmar",
+    "count": 4
+  },
+  {
+    "label": "minska-krav-och-stress",
+    "count": 4
+  },
+  {
+    "label": "minska-dokumentation-och-administration",
+    "count": 4
+  },
+  {
+    "label": "tydligare-struktur-och-arbetsro",
+    "count": 4
+  },
+  {
+    "label": "avskaffa-marknadsskola-och-vinstuttag",
+    "count": 3
+  },
+  {
+    "label": "bättre-fysisk-skolmiljö",
+    "count": 3
+  },
+  {
+    "label": "stärk-rektor-och-skolledning",
+    "count": 3
+  },
+  {
+    "label": "likvärdighet-mellan-skolor-och-kommuner",
+    "count": 3
+  },
+  {
+    "label": "helhetssyn-på-elevers-välmående",
+    "count": 3
+  },
+  {
+    "label": "samverkan-skola-hem-vård-soc",
+    "count": 3
+  },
+  {
+    "label": "NPF-anpassad-skola",
+    "count": 3
+  },
+  {
+    "label": "följ-skollagen-och-rättigheter",
+    "count": 3
+  },
+  {
+    "label": "stärk-lärarens-mandat-och-profession",
+    "count": 2
+  },
+  {
+    "label": "mat-och-grundläggande-välmående",
+    "count": 2
+  },
+  {
+    "label": "anpassad-grundskola-och-gymnasium",
+    "count": 2
+  },
+  {
+    "label": "rörelse-och-utlopp",
+    "count": 2
+  },
+  {
+    "label": "skolans-ansvar-inte-elevens",
+    "count": 2
+  },
+  {
+    "label": "stärk-förskolan",
+    "count": 2
+  },
+  {
+    "label": "höj-lärarlönerna",
+    "count": 2
+  },
+  {
+    "label": "lyssna-på-elever-och-vårdnadshavare",
+    "count": 2
+  },
+  {
+    "label": "skolor-i-glesbygd-och-utsatta-områden",
+    "count": 2
+  },
+  {
+    "label": "mer-praktiska-och-estetiska-ämnen",
+    "count": 1
+  },
+  {
+    "label": "distansundervisning-och-flexibla-lösningar",
+    "count": 1
+  },
+  {
+    "label": "nivågruppering-och-flexibel-undervisning",
+    "count": 1
+  },
+  {
+    "label": "klasslärarsystem-och-kontinuitet",
+    "count": 1
+  },
+  {
+    "label": "lärarhälsa-och-arbetsmiljö",
+    "count": 1
+  },
+  {
+    "label": "behöriga-och-utbildade-i-alla-roller",
+    "count": 1
+  },
+  {
+    "label": "diagnosfri-stödmodell",
+    "count": 1
+  },
+  {
+    "label": "kollegialt-samarbete-och-arbetslag",
+    "count": 1
+  },
+  {
+    "label": "lyssna-på-professionen",
+    "count": 1
+  },
+  {
+    "label": "trygghet-och-skydd-mot-våld",
+    "count": 1
+  },
+  {
+    "label": "språkstöd-och-SVA-reform",
+    "count": 1
+  },
+  {
+    "label": "stöd-till-vårdnadshavare",
+    "count": 1
+  },
+  {
+    "label": "bättre-läromedel",
+    "count": 1
+  },
+  {
+    "label": "reformera-skolpeng",
+    "count": 1
+  },
+  {
+    "label": "tillsyn-och-rättssäkerhet",
+    "count": 1
+  },
+  {
+    "label": "personalkontinuitet-och-vikarier",
+    "count": 1
+  },
+  {
+    "label": "politisk-lösning",
+    "count": 1
+  },
+  {
+    "label": "kommuner-skapar-åtgärder-långt-perspektiv",
+    "count": 1
+  },
+  {
+    "label": "reformera-rotröta",
+    "count": 1
+  },
+  {
+    "label": "höja-lärandets-prioritet",
+    "count": 1
+  },
+  {
+    "label": "bevara-folkhögskolan",
+    "count": 1
+  },
+  {
+    "label": "tidsbegränsade-förstelärartjänster",
+    "count": 1
+  },
+  {
+    "label": "låt Legi Lexi stå som digitalt verktyg för Skolverkets bedömningsstöd",
+    "count": 1
+  },
+  {
+    "label": "anställa elever på lov",
+    "count": 1
+  },
+  {
+    "label": "skrota förstelärarsystemet",
+    "count": 1
+  },
+  {
+    "label": "se fritids som en del av utbildningen",
+    "count": 1
+  },
+  {
+    "label": "valfrihet att välja skolform och inriktning",
+    "count": 1
+  },
+  {
+    "label": "definiera begreppet skola",
+    "count": 1
+  },
+  {
+    "label": "läs Markus Heiligs bok",
+    "count": 1
+  },
+  {
+    "label": "skolordstest",
+    "count": 1
+  },
+  {
+    "label": "höjd kvalitet",
+    "count": 1
+  },
+  {
+    "label": "satsa på fritidshemmet",
+    "count": 1
+  },
+  {
+    "label": "medicinering",
+    "count": 1
+  },
+  {
+    "label": "se över lagstiftningen",
+    "count": 1
+  },
+  {
+    "label": "mer anslag till högre utbildning",
+    "count": 1
+  },
+  {
+    "label": "höj barnbidraget",
+    "count": 1
+  },
+  {
+    "label": "tillsätt en framtidsfokusgrupp med framtidsanalytiker, teknikutvecklare och skolfolk",
+    "count": 1
+  },
+  {
+    "label": "skapa parallella alternativa skolmodeller via tävlingar/incitament",
+    "count": 1
+  },
+  {
+    "label": "experimentera med banbrytande skolidéer parallellt med traditionell skola",
+    "count": 1
+  },
+  {
+    "label": "mer autonomi i lärandet",
+    "count": 1
+  },
+  {
+    "label": "titta på Sudbury-skolor, demokratiska skolor, hemskolning, unschooling, SDE-center, agile-learning-centers",
+    "count": 1
+  },
+  {
+    "label": "läs på Facebooks hemmasittargrupper",
+    "count": 1
+  },
+  {
+    "label": "ta verkligheten på allvar",
+    "count": 1
+  },
+  {
+    "label": "lägg ut digitala nationella prov till exam.net eller digiExam",
+    "count": 1
+  },
+  {
+    "label": "titta på Waldorfpedagogiken",
+    "count": 1
+  },
+  {
+    "label": "obligatoriskt fritids även för mellanstadiet",
+    "count": 1
+  },
+  {
+    "label": "samarbete med föreningar och företag",
+    "count": 1
+  },
+  {
+    "label": "öppna idrottsanläggningar och sänk avgifter",
+    "count": 1
+  },
+  {
+    "label": "skolpolitik som vågar tänka nytt och tillåter alternativa lösningar",
+    "count": 1
+  },
+  {
+    "label": "rädda folkhögskolan som utbildningsform",
+    "count": 1
+  },
+  {
+    "label": "skolan ska vila på humanistiska och demokratiska värden",
+    "count": 1
+  },
+  {
+    "label": "bygg ut psykiatrin för unga vuxna",
+    "count": 1
+  },
+  {
+    "label": "ändra det egendomliga systemet",
+    "count": 1
+  },
+  {
+    "label": "gemensam plan för 24 år och håll kursen",
+    "count": 1
+  },
+  {
+    "label": "Sätt in akutåtgärd för att dämpa situationen",
+    "count": 1
+  },
+  {
+    "label": "Skolpolitik som bygger trygghet genom tillit, inte rädsla",
+    "count": 1
+  },
+  {
+    "label": "Mer flexibel skola med fokus på starka, självtänkande individer",
+    "count": 1
+  },
+  {
+    "label": "Reglera studietakten på Komvux",
+    "count": 1
+  },
+  {
+    "label": "Reglera kurspoängen för olika grupper",
+    "count": 1
+  },
+  {
+    "label": "Reglera studieformen med viss tid på plats/realtid",
+    "count": 1
+  },
+  {
+    "label": "Ta fram läslistor och NP för grundläggande vuxenutbildning",
+    "count": 1
+  },
+  {
+    "label": "Behåll det väl beprövade och addera nya rön - \"stark fura\"",
+    "count": 1
+  },
+  {
+    "label": "Implementera kösystem som i andra kommuner i Stockholms län",
+    "count": 1
+  },
+  {
+    "label": "Skydda och säkra folkhögskolans framtid",
+    "count": 1
+  },
+  {
+    "label": "lokala lösningar för enskilda skolor",
+    "count": 1
+  },
+  {
+    "label": "uppmuntra fler elever att läsa ett tredje språk",
+    "count": 1
+  },
+  {
+    "label": "tänk långsiktigt",
+    "count": 1
+  },
+  {
+    "label": "se på systemnivå istället för att skylla på yrkesgrupper",
+    "count": 1
+  },
+  {
+    "label": "forska kring samband mellan tid i förskola och skoltrötthet",
+    "count": 1
+  },
+  {
+    "label": "gemensamt politiskt krafttag",
+    "count": 1
+  },
+  {
+    "label": "folkhögskolan måste få fortsätta sin verksamhet",
+    "count": 1
+  },
+  {
+    "label": "skapa organisatorisk ram",
+    "count": 1
+  },
+  {
+    "label": "vänd den felvända pyramiden rätt",
+    "count": 1
+  },
+  {
+    "label": "plocka skolfrågan ur partipolitiska debatten",
+    "count": 1
+  },
+  {
+    "label": "ändra sättet skolan sköts på",
+    "count": 1
+  },
+  {
+    "label": "premiera engagerade individer i skolan",
+    "count": 1
+  },
+  {
+    "label": "Montessoriskola i Norge som exempel",
+    "count": 1
+  },
+  {
+    "label": "kompetenta beslutsfattare",
+    "count": 1
+  },
+  {
+    "label": "goda förutsättningar för undervisning",
+    "count": 1
+  },
+  {
+    "label": "djurterapi/skolhundsteam",
+    "count": 1
+  },
+  {
+    "label": "besök skolorna på plats",
+    "count": 1
+  },
+  {
+    "label": "låt oss söka och betala på fritid",
+    "count": 1
+  },
+  {
+    "label": "elever lär bäst genom att hjälpa varandra",
+    "count": 1
+  },
+  {
+    "label": "privat samtalsterapeut",
+    "count": 1
+  },
+  {
+    "label": "lärare lånas ut mellan skolor",
+    "count": 1
+  },
+  {
+    "label": "partiöverskridande beslut grundade på vetenskap",
+    "count": 1
+  },
+  {
+    "label": "Supported education",
+    "count": 1
+  },
+  {
+    "label": "MI - motiverande samtal",
+    "count": 1
+  },
+  {
+    "label": "lyssna på magkänslan",
+    "count": 1
+  },
+  {
+    "label": "bevara beprövad kunskap",
+    "count": 1
+  },
+  {
+    "label": "tid",
+    "count": 1
+  },
+  {
+    "label": "förståelse för barns utveckling",
+    "count": 1
+  },
+  {
+    "label": "studie- och yrkesvägledare ska få anpassa lektioner",
+    "count": 1
+  },
+  {
+    "label": "mejl med exakta sidor för E/D",
+    "count": 1
+  },
+  {
+    "label": "sammanställning på ett ställe",
+    "count": 1
+  },
+  {
+    "label": "obligatoriskt gymnasium",
+    "count": 1
+  },
+  {
+    "label": "behåll sfi som social kontaktyta",
+    "count": 1
+  },
+  {
+    "label": "intagningsprov till gymnasiet/högskola",
+    "count": 1
+  },
+  {
+    "label": "djupare orsaksanalys istället för kortsiktiga lösningar",
+    "count": 1
+  },
+  {
+    "label": "behålla fungerande skolskjuts",
+    "count": 1
+  },
+  {
+    "label": "ändra skolsystemet",
+    "count": 1
+  },
+  {
+    "label": "förändra ramen från grunden",
+    "count": 1
+  },
+  {
+    "label": "mer uppdelade klasser så att inte alla som känner varandra hamnar i samma klass",
+    "count": 1
+  },
+  {
+    "label": "få med någon kompis från förra klassen",
+    "count": 1
+  },
+  {
+    "label": "kartläggning och transparens",
+    "count": 1
+  },
+  {
+    "label": "systematiskt kvalitetsarbete",
+    "count": 1
+  },
+  {
+    "label": "rimliga förutsättningar",
+    "count": 1
+  },
+  {
+    "label": "långsiktighet och förutsägbarhet",
+    "count": 1
+  },
+  {
+    "label": "skolutveckling baserad på forskning",
+    "count": 1
+  },
+  {
+    "label": "värdegrundsarbete på fritids",
+    "count": 1
+  },
+  {
+    "label": "höga men rimliga krav",
+    "count": 1
+  },
+  {
+    "label": "evidensbaserade arbetssätt",
+    "count": 1
+  },
+  {
+    "label": "antagningsprov till gymnasiet",
+    "count": 1
+  },
+  {
+    "label": "fokus på lärande",
+    "count": 1
+  },
+  {
+    "label": "lustfyllt lärande",
+    "count": 1
+  },
+  {
+    "label": "samarbete med gymnasium",
+    "count": 1
+  },
+  {
+    "label": "sokratisk dialog med AI-bot",
+    "count": 1
+  },
+  {
+    "label": "klassrumssamtal om hur vi lär oss",
+    "count": 1
+  },
+  {
+    "label": "övning i att ställa egna frågor",
+    "count": 1
+  },
+  {
+    "label": "kompetensutveckling och explicit undervisning om AI",
+    "count": 1
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {"id": "vi-062", "keep": true, "reason": "Pensionerad lärare argumenterar uttryckligen för mer praktik i lärarutbildningen."},
+  {"id": "vi-088", "keep": true, "reason": "Tar upp lärarutbildningens bristande synk med behov samt borttagen ämnesmetodik."},
+  {"id": "vi-090", "keep": true, "reason": "Förskollärarstudent beskriver brister i utbildningen och övergången till yrket."},
+  {"id": "vi-105", "keep": false, "reason": "Skolledare diskuterar arbetsvillkor och resurser, inte lärarutbildning."},
+  {"id": "vi-108", "keep": true, "reason": "Lärarstudent beskriver VFU-handledning som central del av lärarutbildningen."}
+]

@@ -1,0 +1,659 @@
+[
+  {
+    "theme": "anpassningar",
+    "slug": "anpassningar",
+    "batch": 1,
+    "n_batches": 5,
+    "count": 80,
+    "input": "theme_anpassningar_1.json",
+    "output": "audit_anpassningar_1.json"
+  },
+  {
+    "theme": "anpassningar",
+    "slug": "anpassningar",
+    "batch": 2,
+    "n_batches": 5,
+    "count": 80,
+    "input": "theme_anpassningar_2.json",
+    "output": "audit_anpassningar_2.json"
+  },
+  {
+    "theme": "anpassningar",
+    "slug": "anpassningar",
+    "batch": 3,
+    "n_batches": 5,
+    "count": 80,
+    "input": "theme_anpassningar_3.json",
+    "output": "audit_anpassningar_3.json"
+  },
+  {
+    "theme": "anpassningar",
+    "slug": "anpassningar",
+    "batch": 4,
+    "n_batches": 5,
+    "count": 80,
+    "input": "theme_anpassningar_4.json",
+    "output": "audit_anpassningar_4.json"
+  },
+  {
+    "theme": "anpassningar",
+    "slug": "anpassningar",
+    "batch": 5,
+    "n_batches": 5,
+    "count": 4,
+    "input": "theme_anpassningar_5.json",
+    "output": "audit_anpassningar_5.json"
+  },
+  {
+    "theme": "resursbrist",
+    "slug": "resursbrist",
+    "batch": 1,
+    "n_batches": 4,
+    "count": 80,
+    "input": "theme_resursbrist_1.json",
+    "output": "audit_resursbrist_1.json"
+  },
+  {
+    "theme": "resursbrist",
+    "slug": "resursbrist",
+    "batch": 2,
+    "n_batches": 4,
+    "count": 80,
+    "input": "theme_resursbrist_2.json",
+    "output": "audit_resursbrist_2.json"
+  },
+  {
+    "theme": "resursbrist",
+    "slug": "resursbrist",
+    "batch": 3,
+    "n_batches": 4,
+    "count": 80,
+    "input": "theme_resursbrist_3.json",
+    "output": "audit_resursbrist_3.json"
+  },
+  {
+    "theme": "resursbrist",
+    "slug": "resursbrist",
+    "batch": 4,
+    "n_batches": 4,
+    "count": 11,
+    "input": "theme_resursbrist_4.json",
+    "output": "audit_resursbrist_4.json"
+  },
+  {
+    "theme": "NPF-stöd",
+    "slug": "npf-stöd",
+    "batch": 1,
+    "n_batches": 3,
+    "count": 80,
+    "input": "theme_npf-stöd_1.json",
+    "output": "audit_npf-stöd_1.json"
+  },
+  {
+    "theme": "NPF-stöd",
+    "slug": "npf-stöd",
+    "batch": 2,
+    "n_batches": 3,
+    "count": 80,
+    "input": "theme_npf-stöd_2.json",
+    "output": "audit_npf-stöd_2.json"
+  },
+  {
+    "theme": "NPF-stöd",
+    "slug": "npf-stöd",
+    "batch": 3,
+    "n_batches": 3,
+    "count": 71,
+    "input": "theme_npf-stöd_3.json",
+    "output": "audit_npf-stöd_3.json"
+  },
+  {
+    "theme": "psykisk-ohälsa",
+    "slug": "psykisk-ohälsa",
+    "batch": 1,
+    "n_batches": 3,
+    "count": 80,
+    "input": "theme_psykisk-ohälsa_1.json",
+    "output": "audit_psykisk-ohälsa_1.json"
+  },
+  {
+    "theme": "psykisk-ohälsa",
+    "slug": "psykisk-ohälsa",
+    "batch": 2,
+    "n_batches": 3,
+    "count": 80,
+    "input": "theme_psykisk-ohälsa_2.json",
+    "output": "audit_psykisk-ohälsa_2.json"
+  },
+  {
+    "theme": "psykisk-ohälsa",
+    "slug": "psykisk-ohälsa",
+    "batch": 3,
+    "n_batches": 3,
+    "count": 48,
+    "input": "theme_psykisk-ohälsa_3.json",
+    "output": "audit_psykisk-ohälsa_3.json"
+  },
+  {
+    "theme": "lärarbristen",
+    "slug": "lärarbristen",
+    "batch": 1,
+    "n_batches": 2,
+    "count": 80,
+    "input": "theme_lärarbristen_1.json",
+    "output": "audit_lärarbristen_1.json"
+  },
+  {
+    "theme": "lärarbristen",
+    "slug": "lärarbristen",
+    "batch": 2,
+    "n_batches": 2,
+    "count": 59,
+    "input": "theme_lärarbristen_2.json",
+    "output": "audit_lärarbristen_2.json"
+  },
+  {
+    "theme": "hemmasittare",
+    "slug": "hemmasittare",
+    "batch": 1,
+    "n_batches": 2,
+    "count": 80,
+    "input": "theme_hemmasittare_1.json",
+    "output": "audit_hemmasittare_1.json"
+  },
+  {
+    "theme": "hemmasittare",
+    "slug": "hemmasittare",
+    "batch": 2,
+    "n_batches": 2,
+    "count": 51,
+    "input": "theme_hemmasittare_2.json",
+    "output": "audit_hemmasittare_2.json"
+  },
+  {
+    "theme": "specialpedagog",
+    "slug": "specialpedagog",
+    "batch": 1,
+    "n_batches": 2,
+    "count": 80,
+    "input": "theme_specialpedagog_1.json",
+    "output": "audit_specialpedagog_1.json"
+  },
+  {
+    "theme": "specialpedagog",
+    "slug": "specialpedagog",
+    "batch": 2,
+    "n_batches": 2,
+    "count": 15,
+    "input": "theme_specialpedagog_2.json",
+    "output": "audit_specialpedagog_2.json"
+  },
+  {
+    "theme": "betyg",
+    "slug": "betyg",
+    "batch": 1,
+    "n_batches": 2,
+    "count": 80,
+    "input": "theme_betyg_1.json",
+    "output": "audit_betyg_1.json"
+  },
+  {
+    "theme": "betyg",
+    "slug": "betyg",
+    "batch": 2,
+    "n_batches": 2,
+    "count": 9,
+    "input": "theme_betyg_2.json",
+    "output": "audit_betyg_2.json"
+  },
+  {
+    "theme": "rektor-ledarskap",
+    "slug": "rektor-ledarskap",
+    "batch": null,
+    "n_batches": 1,
+    "count": 77,
+    "input": "theme_rektor-ledarskap.json",
+    "output": "audit_rektor-ledarskap.json"
+  },
+  {
+    "theme": "våld-trygghet",
+    "slug": "våld-trygghet",
+    "batch": null,
+    "n_batches": 1,
+    "count": 68,
+    "input": "theme_våld-trygghet.json",
+    "output": "audit_våld-trygghet.json"
+  },
+  {
+    "theme": "marknadsskola",
+    "slug": "marknadsskola",
+    "batch": null,
+    "n_batches": 1,
+    "count": 62,
+    "input": "theme_marknadsskola.json",
+    "output": "audit_marknadsskola.json"
+  },
+  {
+    "theme": "klasstorlek",
+    "slug": "klasstorlek",
+    "batch": null,
+    "n_batches": 1,
+    "count": 33,
+    "input": "theme_klasstorlek.json",
+    "output": "audit_klasstorlek.json"
+  },
+  {
+    "theme": "skolinspektionen",
+    "slug": "skolinspektionen",
+    "batch": null,
+    "n_batches": 1,
+    "count": 32,
+    "input": "theme_skolinspektionen.json",
+    "output": "audit_skolinspektionen.json"
+  },
+  {
+    "theme": "skolpeng",
+    "slug": "skolpeng",
+    "batch": null,
+    "n_batches": 1,
+    "count": 25,
+    "input": "theme_skolpeng.json",
+    "output": "audit_skolpeng.json"
+  },
+  {
+    "theme": "arbetsbelastning",
+    "slug": "arbetsbelastning",
+    "batch": null,
+    "n_batches": 1,
+    "count": 24,
+    "input": "theme_arbetsbelastning.json",
+    "output": "audit_arbetsbelastning.json"
+  },
+  {
+    "theme": "elevhälsa",
+    "slug": "elevhälsa",
+    "batch": null,
+    "n_batches": 1,
+    "count": 20,
+    "input": "theme_elevhälsa.json",
+    "output": "audit_elevhälsa.json"
+  },
+  {
+    "theme": "relationer",
+    "slug": "relationer",
+    "batch": null,
+    "n_batches": 1,
+    "count": 18,
+    "input": "theme_relationer.json",
+    "output": "audit_relationer.json"
+  },
+  {
+    "theme": "dokumentation",
+    "slug": "dokumentation",
+    "batch": null,
+    "n_batches": 1,
+    "count": 13,
+    "input": "theme_dokumentation.json",
+    "output": "audit_dokumentation.json"
+  },
+  {
+    "theme": "lärarrollen",
+    "slug": "lärarrollen",
+    "batch": null,
+    "n_batches": 1,
+    "count": 13,
+    "input": "theme_lärarrollen.json",
+    "output": "audit_lärarrollen.json"
+  },
+  {
+    "theme": "arbetsmiljö",
+    "slug": "arbetsmiljö",
+    "batch": null,
+    "n_batches": 1,
+    "count": 13,
+    "input": "theme_arbetsmiljö.json",
+    "output": "audit_arbetsmiljö.json"
+  },
+  {
+    "theme": "föräldraansvar",
+    "slug": "föräldraansvar",
+    "batch": null,
+    "n_batches": 1,
+    "count": 11,
+    "input": "theme_föräldraansvar.json",
+    "output": "audit_föräldraansvar.json"
+  },
+  {
+    "theme": "resursskola",
+    "slug": "resursskola",
+    "batch": null,
+    "n_batches": 1,
+    "count": 11,
+    "input": "theme_resursskola.json",
+    "output": "audit_resursskola.json"
+  },
+  {
+    "theme": "inkludering",
+    "slug": "inkludering",
+    "batch": null,
+    "n_batches": 1,
+    "count": 10,
+    "input": "theme_inkludering.json",
+    "output": "audit_inkludering.json"
+  },
+  {
+    "theme": "förskola",
+    "slug": "förskola",
+    "batch": null,
+    "n_batches": 1,
+    "count": 10,
+    "input": "theme_förskola.json",
+    "output": "audit_förskola.json"
+  },
+  {
+    "theme": "anpassad-skola",
+    "slug": "anpassad-skola",
+    "batch": null,
+    "n_batches": 1,
+    "count": 9,
+    "input": "theme_anpassad-skola.json",
+    "output": "audit_anpassad-skola.json"
+  },
+  {
+    "theme": "utmattning",
+    "slug": "utmattning",
+    "batch": null,
+    "n_batches": 1,
+    "count": 9,
+    "input": "theme_utmattning.json",
+    "output": "audit_utmattning.json"
+  },
+  {
+    "theme": "lärarlön",
+    "slug": "lärarlön",
+    "batch": null,
+    "n_batches": 1,
+    "count": 8,
+    "input": "theme_lärarlön.json",
+    "output": "audit_lärarlön.json"
+  },
+  {
+    "theme": "skolplikt",
+    "slug": "skolplikt",
+    "batch": null,
+    "n_batches": 1,
+    "count": 8,
+    "input": "theme_skolplikt.json",
+    "output": "audit_skolplikt.json"
+  },
+  {
+    "theme": "tvålärarsystem",
+    "slug": "tvålärarsystem",
+    "batch": null,
+    "n_batches": 1,
+    "count": 8,
+    "input": "theme_tvålärarsystem.json",
+    "output": "audit_tvålärarsystem.json"
+  },
+  {
+    "theme": "skolfrånvaro",
+    "slug": "skolfrånvaro",
+    "batch": null,
+    "n_batches": 1,
+    "count": 8,
+    "input": "theme_skolfrånvaro.json",
+    "output": "audit_skolfrånvaro.json"
+  },
+  {
+    "theme": "språkstöd",
+    "slug": "språkstöd",
+    "batch": null,
+    "n_batches": 1,
+    "count": 8,
+    "input": "theme_språkstöd.json",
+    "output": "audit_språkstöd.json"
+  },
+  {
+    "theme": "systemfel",
+    "slug": "systemfel",
+    "batch": null,
+    "n_batches": 1,
+    "count": 7,
+    "input": "theme_systemfel.json",
+    "output": "audit_systemfel.json"
+  },
+  {
+    "theme": "didaktik",
+    "slug": "didaktik",
+    "batch": null,
+    "n_batches": 1,
+    "count": 7,
+    "input": "theme_didaktik.json",
+    "output": "audit_didaktik.json"
+  },
+  {
+    "theme": "läroplan",
+    "slug": "läroplan",
+    "batch": null,
+    "n_batches": 1,
+    "count": 7,
+    "input": "theme_läroplan.json",
+    "output": "audit_läroplan.json"
+  },
+  {
+    "theme": "fler-vuxna",
+    "slug": "fler-vuxna",
+    "batch": null,
+    "n_batches": 1,
+    "count": 7,
+    "input": "theme_fler-vuxna.json",
+    "output": "audit_fler-vuxna.json"
+  },
+  {
+    "theme": "små-grupper",
+    "slug": "små-grupper",
+    "batch": null,
+    "n_batches": 1,
+    "count": 7,
+    "input": "theme_små-grupper.json",
+    "output": "audit_små-grupper.json"
+  },
+  {
+    "theme": "vikariebrist",
+    "slug": "vikariebrist",
+    "batch": null,
+    "n_batches": 1,
+    "count": 7,
+    "input": "theme_vikariebrist.json",
+    "output": "audit_vikariebrist.json"
+  },
+  {
+    "theme": "läromedel",
+    "slug": "läromedel",
+    "batch": null,
+    "n_batches": 1,
+    "count": 7,
+    "input": "theme_läromedel.json",
+    "output": "audit_läromedel.json"
+  },
+  {
+    "theme": "vardag",
+    "slug": "vardag",
+    "batch": null,
+    "n_batches": 1,
+    "count": 6,
+    "input": "theme_vardag.json",
+    "output": "audit_vardag.json"
+  },
+  {
+    "theme": "samverkan",
+    "slug": "samverkan",
+    "batch": null,
+    "n_batches": 1,
+    "count": 6,
+    "input": "theme_samverkan.json",
+    "output": "audit_samverkan.json"
+  },
+  {
+    "theme": "skolfinansiering",
+    "slug": "skolfinansiering",
+    "batch": null,
+    "n_batches": 1,
+    "count": 6,
+    "input": "theme_skolfinansiering.json",
+    "output": "audit_skolfinansiering.json"
+  },
+  {
+    "theme": "likvärdighet",
+    "slug": "likvärdighet",
+    "batch": null,
+    "n_batches": 1,
+    "count": 6,
+    "input": "theme_likvärdighet.json",
+    "output": "audit_likvärdighet.json"
+  },
+  {
+    "theme": "autism",
+    "slug": "autism",
+    "batch": null,
+    "n_batches": 1,
+    "count": 6,
+    "input": "theme_autism.json",
+    "output": "audit_autism.json"
+  },
+  {
+    "theme": "digitalisering",
+    "slug": "digitalisering",
+    "batch": null,
+    "n_batches": 1,
+    "count": 6,
+    "input": "theme_digitalisering.json",
+    "output": "audit_digitalisering.json"
+  },
+  {
+    "theme": "speciallärare",
+    "slug": "speciallärare",
+    "batch": null,
+    "n_batches": 1,
+    "count": 6,
+    "input": "theme_speciallärare.json",
+    "output": "audit_speciallärare.json"
+  },
+  {
+    "theme": "tid-för-elever",
+    "slug": "tid-för-elever",
+    "batch": null,
+    "n_batches": 1,
+    "count": 6,
+    "input": "theme_tid-för-elever.json",
+    "output": "audit_tid-för-elever.json"
+  },
+  {
+    "theme": "lärarhälsa",
+    "slug": "lärarhälsa",
+    "batch": null,
+    "n_batches": 1,
+    "count": 6,
+    "input": "theme_lärarhälsa.json",
+    "output": "audit_lärarhälsa.json"
+  },
+  {
+    "theme": "fysisk-skolmiljö",
+    "slug": "fysisk-skolmiljö",
+    "batch": null,
+    "n_batches": 1,
+    "count": 5,
+    "input": "theme_fysisk-skolmiljö.json",
+    "output": "audit_fysisk-skolmiljö.json"
+  },
+  {
+    "theme": "stress",
+    "slug": "stress",
+    "batch": null,
+    "n_batches": 1,
+    "count": 5,
+    "input": "theme_stress.json",
+    "output": "audit_stress.json"
+  },
+  {
+    "theme": "lärarlegitimation",
+    "slug": "lärarlegitimation",
+    "batch": null,
+    "n_batches": 1,
+    "count": 5,
+    "input": "theme_lärarlegitimation.json",
+    "output": "audit_lärarlegitimation.json"
+  },
+  {
+    "theme": "socioekonomi",
+    "slug": "socioekonomi",
+    "batch": null,
+    "n_batches": 1,
+    "count": 5,
+    "input": "theme_socioekonomi.json",
+    "output": "audit_socioekonomi.json"
+  },
+  {
+    "theme": "tidiga-insatser",
+    "slug": "tidiga-insatser",
+    "batch": null,
+    "n_batches": 1,
+    "count": 5,
+    "input": "theme_tidiga-insatser.json",
+    "output": "audit_tidiga-insatser.json"
+  },
+  {
+    "theme": "språkstörning",
+    "slug": "språkstörning",
+    "batch": null,
+    "n_batches": 1,
+    "count": 5,
+    "input": "theme_språkstörning.json",
+    "output": "audit_språkstörning.json"
+  },
+  {
+    "theme": "budget-styr",
+    "slug": "budget-styr",
+    "batch": null,
+    "n_batches": 1,
+    "count": 5,
+    "input": "theme_budget-styr.json",
+    "output": "audit_budget-styr.json"
+  },
+  {
+    "theme": "nedskärningar",
+    "slug": "nedskärningar",
+    "batch": null,
+    "n_batches": 1,
+    "count": 5,
+    "input": "theme_nedskärningar.json",
+    "output": "audit_nedskärningar.json"
+  },
+  {
+    "theme": "läraryrkets-attraktivitet",
+    "slug": "läraryrkets-attraktivitet",
+    "batch": null,
+    "n_batches": 1,
+    "count": 5,
+    "input": "theme_läraryrkets-attraktivitet.json",
+    "output": "audit_läraryrkets-attraktivitet.json"
+  },
+  {
+    "theme": "tillsynsmyndigheter",
+    "slug": "tillsynsmyndigheter",
+    "batch": null,
+    "n_batches": 1,
+    "count": 5,
+    "input": "theme_tillsynsmyndigheter.json",
+    "output": "audit_tillsynsmyndigheter.json"
+  },
+  {
+    "theme": "lärarutbildning",
+    "slug": "lärarutbildning",
+    "batch": null,
+    "n_batches": 1,
+    "count": 5,
+    "input": "theme_lärarutbildning.json",
+    "output": "audit_lärarutbildning.json"
+  }
+]

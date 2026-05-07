@@ -1,0 +1,7 @@
+[
+  {"id": "vi-038", "keep": false, "reason": "Skildrar lärarens utmattning och kaotisk arbetsmiljö, men diskuterar inte yrkets attraktivitet eller status."},
+  {"id": "vi-061", "keep": true, "reason": "Tar uttryckligen upp lön, utbildning och åtgärder för att göra läraryrket mer attraktivt."},
+  {"id": "vi-080", "keep": true, "reason": "Beskriver varför läraren inte vill stanna i yrket – direkt kopplat till yrkets attraktivitet och rekrytering."},
+  {"id": "vi-093", "keep": true, "reason": "Lärare lämnar yrket på grund av lön, hot och dåliga villkor – tydligt om attraktivitet."},
+  {"id": "vi-136", "keep": true, "reason": "Handlar om fritidspedagogers låga status, brist på respekt och erkännande inom skolan."}
+]

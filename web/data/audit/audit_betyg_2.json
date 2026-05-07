@@ -1,0 +1,11 @@
+[
+  {"id": "vii-176", "keep": true, "reason": "Diskuterar tydligt F-betyg som systemfel och hinder för gymnasieintag."},
+  {"id": "vii-181", "keep": true, "reason": "Läraren refererar uttryckligen till tre betygssystem och skoldebatten kring betyg."},
+  {"id": "vii-193", "keep": true, "reason": "SYV argumenterar för att avskaffa betygssystemet helt."},
+  {"id": "vii-195", "keep": true, "reason": "Föräldern fokuserar på E/D-betyg och att F kanske gett mer hjälp."},
+  {"id": "vii-211", "keep": true, "reason": "F-varningar och kunskapskrav är centrala i berättelsen om hemmasittande."},
+  {"id": "vii-224", "keep": true, "reason": "Nämner feedback för högre betyg och kunskapskrav som barn inte når."},
+  {"id": "vii-230", "keep": false, "reason": "Saga om resursbrist och kunskap, men inga konkreta betygsfrågor diskuteras."},
+  {"id": "vii-237", "keep": true, "reason": "Beskriver höga betyg, IG/G/VG/MVG-systemet och fokus på betyg/bedömning."},
+  {"id": "vii-240", "keep": true, "reason": "Djupgående analys av gamla relativa betygssystemet jämfört med dagens kunskapskrav."}
+]

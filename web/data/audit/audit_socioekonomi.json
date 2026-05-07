@@ -1,0 +1,27 @@
+[
+  {
+    "id": "vi-025",
+    "keep": true,
+    "reason": "Familjens sämre ekonomi anges uttryckligen som orsak till mobbningen."
+  },
+  {
+    "id": "vi-051",
+    "keep": false,
+    "reason": "Handlar om autism och anpassad pedagogik; ekonomisk utsatthet nämns endast i förbigående."
+  },
+  {
+    "id": "vii-117",
+    "keep": true,
+    "reason": "Behandlar barn i social och ekonomisk utsatthet och skolans kompensatoriska uppdrag."
+  },
+  {
+    "id": "vii-124",
+    "keep": true,
+    "reason": "Beskriver arbete i socioekonomiskt utsatt område och vikten av satsningar där."
+  },
+  {
+    "id": "vii-129",
+    "keep": false,
+    "reason": "Skildrar speciallärares arbetsdag utan tydligt fokus på socioekonomiska faktorer."
+  }
+]

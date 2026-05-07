@@ -1,0 +1,9 @@
+[
+  {"id": "vi-035", "keep": true, "reason": "Beskriver konkret brist på läromedel: pengarna räckte bara till en mattebok per elev."},
+  {"id": "vi-058", "keep": true, "reason": "Hela texten handlar om bristen på läromedel och konsekvenserna för undervisningen."},
+  {"id": "vi-081", "keep": true, "reason": "Lyfter att alla elever borde ha rätt till lika många läromedel."},
+  {"id": "vi-113", "keep": false, "reason": "Handlar om digitalt bedömningsverktyg (Legi Lexi) och sva-resurser, inte läromedel."},
+  {"id": "vi-117", "keep": true, "reason": "Nämner uttryckligen begränsade pengar för att köpa in läromedel och anpassat material."},
+  {"id": "vi-153", "keep": false, "reason": "Tar upp förstatligande, klasstorlek och elevhälsa men inte läromedel."},
+  {"id": "vii-139", "keep": true, "reason": "Beskriver att färdiga läromedel saknas inom anpassad grundskola och måste skapas själv."}
+]

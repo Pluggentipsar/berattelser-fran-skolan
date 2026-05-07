@@ -1,0 +1,10 @@
+[
+  {"id": "vi-021", "keep": true, "reason": "Behandlar SVA-undervisning och språkstöd via tvålärarsystem för flerspråkiga elever."},
+  {"id": "vi-072", "keep": true, "reason": "Diskuterar bristfällig svenska hos flerspråkiga barn och behov av språkstörningsskola."},
+  {"id": "vi-092", "keep": false, "reason": "Fokus på NPF-elever och resursskolor; tolkbehov nämns endast i förbigående."},
+  {"id": "vi-103", "keep": true, "reason": "Handlar direkt om SFI-undervisning och språkinlärning för nyanlända."},
+  {"id": "vi-137", "keep": true, "reason": "Lyfter rätten till språkträning som central fråga."},
+  {"id": "vii-116", "keep": true, "reason": "Kärnfullt om studiehandledning, modersmål och skolspråk för flerspråkiga elever."},
+  {"id": "vii-140", "keep": true, "reason": "Hela texten handlar om modersmålsundervisningens villkor och språkutveckling."},
+  {"id": "vii-146", "keep": false, "reason": "Generell text om läraryrket och resursbrist; språkstöd behandlas inte meningsfullt."}
+]

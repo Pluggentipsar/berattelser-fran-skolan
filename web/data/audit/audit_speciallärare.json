@@ -1,0 +1,8 @@
+[
+  {"id": "vi-089", "keep": true, "reason": "Författaren är speciallärare och beskriver bristen på speciallärartjänster och konsekvenserna."},
+  {"id": "vi-117", "keep": true, "reason": "Diskuterar speciallärare i anpassad skola och låg lön/få behöriga speciallärare."},
+  {"id": "vi-133", "keep": true, "reason": "Berättelsen handlar om önskan att bli speciallärare och rollens funktion."},
+  {"id": "vi-140", "keep": true, "reason": "Författaren arbetar som speciallärare och beskriver yrkesvardagen."},
+  {"id": "vi-146", "keep": true, "reason": "Författaren är speciallärare och skildrar arbetsbörda och rollens villkor."},
+  {"id": "vii-146", "keep": false, "reason": "Endast en kort bisats om att pengarna inte räcker till speciallärare; ej meningsfullt diskuterat."}
+]

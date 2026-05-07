@@ -1,0 +1,77 @@
+[
+  {
+    "id": "vii-190",
+    "keep": false,
+    "reason": "Berättelsen handlar om förälderns kamp; specialpedagog nämns inte."
+  },
+  {
+    "id": "vii-192",
+    "keep": true,
+    "reason": "Berättaren agerar i specialpedagogisk handledarroll med lärare."
+  },
+  {
+    "id": "vii-201",
+    "keep": true,
+    "reason": "Författaren är vidareutbildad inom specialpedagogik och diskuterar stöd."
+  },
+  {
+    "id": "vii-203",
+    "keep": true,
+    "reason": "Specialpedagogen på gymnasiet förklarar stödprocessen."
+  },
+  {
+    "id": "vii-205",
+    "keep": true,
+    "reason": "Författaren arbetar som speciallärare och specialpedagog."
+  },
+  {
+    "id": "vii-208",
+    "keep": false,
+    "reason": "Skolsocialt team beskrivs, inte specialpedagogisk roll."
+  },
+  {
+    "id": "vii-212",
+    "keep": true,
+    "reason": "Specialpedagogisk inriktning på gymnasiet är central i berättelsen."
+  },
+  {
+    "id": "vii-225",
+    "keep": false,
+    "reason": "Berättelsen om dotterns skolgång nämner inte specialpedagog."
+  },
+  {
+    "id": "vii-227",
+    "keep": false,
+    "reason": "Lärares möte med rektor och skolpsykolog; ingen specialpedagog."
+  },
+  {
+    "id": "vii-228",
+    "keep": true,
+    "reason": "Författaren har erfarenhet som specialpedagog och skriver utifrån rollen."
+  },
+  {
+    "id": "vii-232",
+    "keep": true,
+    "reason": "Brist på specialpedagoger lyfts uttryckligen som problem."
+  },
+  {
+    "id": "vii-235",
+    "keep": false,
+    "reason": "Berättelsen om IM nämner inte specialpedagogrollen."
+  },
+  {
+    "id": "vii-238",
+    "keep": false,
+    "reason": "Förskollärar- och barnskötarperspektiv utan specialpedagogfokus."
+  },
+  {
+    "id": "vii-240",
+    "keep": false,
+    "reason": "Lärare diskuterar läroplansreform; specialpedagog saknas."
+  },
+  {
+    "id": "vii-244",
+    "keep": false,
+    "reason": "Förälder skriver om särbegåvad elev utan specialpedagogfokus."
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {"id": "vi-108", "keep": true, "reason": "Beskriver lärare som jobbar trots propp i lungan p.g.a. stress – tydlig lärarhälsa."},
+  {"id": "vi-112", "keep": false, "reason": "Handlar om elevers utsatthet och broderns död, inte om lärarens egen hälsa."},
+  {"id": "vi-115", "keep": true, "reason": "Tar upp hållbara arbetsvillkor, återhämtning och coaching för lärare."},
+  {"id": "vi-142", "keep": true, "reason": "Detaljerad berättelse om utbrändhet, sjukskrivning och kollaps som lärare."},
+  {"id": "vi-147", "keep": true, "reason": "Lärare beskriver otillräcklighet, utmattning och våld i arbetsmiljön."},
+  {"id": "vi-156", "keep": true, "reason": "Lyfter sjuktal, utmattning och kollegor som kraschar av arbetsbördan."}
+]

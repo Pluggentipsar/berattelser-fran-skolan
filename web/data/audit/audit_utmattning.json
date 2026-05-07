@@ -1,0 +1,11 @@
+[
+  {"id": "vi-038", "keep": true, "reason": "Beskriver hur läraren går sönder av överbelastning, gick sönder två dagar efter texten."},
+  {"id": "vi-046", "keep": false, "reason": "Handlar om systemkritik och eget val att lämna skolan, ingen tydlig utmattning beskrivs."},
+  {"id": "vi-054", "keep": true, "reason": "Diagnostiserades med arbetsrelaterad utmattningsdepression efter fyra år som lärare."},
+  {"id": "vi-071", "keep": false, "reason": "Beskriver omöjliga arbetsvillkor men nämner inte explicit utmattning eller sjukskrivning."},
+  {"id": "vi-074", "keep": true, "reason": "Återkommande krascher, sjukskrivningar och stressutmattning efter tio år som lärare."},
+  {"id": "vi-078", "keep": true, "reason": "Mamman drabbades av utmattning och var sjukskriven 2,5 år på grund av kampen för dottern."},
+  {"id": "vi-080", "keep": true, "reason": "Läraren har blivit utbränd två gånger, senaste gången med kollaps och blödning i bakhuvudet."},
+  {"id": "vi-120", "keep": true, "reason": "Nyexad lärare sjukskriven efter tre månader på grund av stress-symtom."},
+  {"id": "vi-142", "keep": true, "reason": "Gick in i väggen två gånger, utbrändhet med kognitiva problem, nu sjukskriven."}
+]

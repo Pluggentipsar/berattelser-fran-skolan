@@ -1,0 +1,9 @@
+[
+  {"id": "vi-008", "keep": false, "reason": "Lista med skolreformer (tvålärarsystem m.m.); nämner inte läroplan eller kursplan."},
+  {"id": "vi-033", "keep": false, "reason": "Handlar om elevhälsa och trakasserier; läroplan nämns endast i förbigående."},
+  {"id": "vi-036", "keep": true, "reason": "Efterlyser uttryckligen reviderad läroplan anpassad till barns kognition."},
+  {"id": "vi-088", "keep": true, "reason": "Diskuterar timplan, kursplaner, NP och lärarutbildningens innehåll."},
+  {"id": "vii-134", "keep": true, "reason": "Reflekterar över tre läroplaner och nuvarande betygssystems effekter."},
+  {"id": "vii-149", "keep": true, "reason": "Kritiserar att läroplanen revideras varje mandatperiod efter politiska trender."},
+  {"id": "vii-151", "keep": true, "reason": "Kritisk betraktelse av Lgr 11 och dess bedömningshets och stoffträngsel."}
+]

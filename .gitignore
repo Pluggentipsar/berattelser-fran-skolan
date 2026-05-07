@@ -1,0 +1,24 @@
+node_modules/
+.next/
+out/
+*.log
+.DS_Store
+Thumbs.db
+
+# Original PDFs in repo root — production copies live in web/public/
+/skolan_vol_i_final-v3.pdf
+/Skolan_vol_ii_final-v3.pdf
+
+# Generated artefacts (regenerate with scripts/) — kept out of git, but
+# checked-in JSON files in web/data/ remain (they're the production payload)
+web/data/vol_i.txt
+web/data/vol_ii.txt
+web/data/batches/
+web/data/audit/theme_*.json
+web/data/canonicalization/raw_values.json
+web/data/canonicalization/longtail_*_part*.json
+
+# Local env
+.env
+.env.local
+.env*.local

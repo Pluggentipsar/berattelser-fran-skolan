@@ -1,0 +1,10 @@
+[
+  {"id": "vi-003", "keep": false, "reason": "Handlar om lärarutbildning, elever och vårdnadshavare; lön nämns inte."},
+  {"id": "vi-006", "keep": true, "reason": "Nämner uttryckligen 'usel lön' trots lång universitetsutbildning."},
+  {"id": "vi-061", "keep": true, "reason": "Föreslår att se över löner för att göra läraryrket mer attraktivt."},
+  {"id": "vi-082", "keep": true, "reason": "Detaljerade lönesiffror och förslag på lönetrappa för förskollärare."},
+  {"id": "vi-099", "keep": true, "reason": "Skriver om löneskillnad mot förstelärare och kräver höjda lärarlöner."},
+  {"id": "vi-125", "keep": true, "reason": "Argumenterar för ordentlig löneökning för behöriga lärare."},
+  {"id": "vi-130", "keep": true, "reason": "Kommunen vägrade höja lönen efter legitimation; nya jobbet 50% mer."},
+  {"id": "vi-147", "keep": true, "reason": "Jämför sin lön med broderns dubbla lön utan universitetsutbildning."}
+]

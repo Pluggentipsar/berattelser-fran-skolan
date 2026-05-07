@@ -1,0 +1,2902 @@
+[
+  {
+    "code": "0114",
+    "name": "Upplands Väsby",
+    "official_name": "Upplands Väsby",
+    "full_name": "Upplands Väsby kommun",
+    "region": "Stockholms län",
+    "population": 43891,
+    "lat": 59.51961,
+    "lng": 17.92834
+  },
+  {
+    "code": "0115",
+    "name": "Vallentuna",
+    "official_name": "Vallentuna",
+    "full_name": "Vallentuna kommun",
+    "region": "Stockholms län",
+    "population": 32785,
+    "lat": 59.5302741,
+    "lng": 17.9667112
+  },
+  {
+    "code": "0117",
+    "name": "Österåker",
+    "official_name": "Österåkers",
+    "full_name": "Österåkers kommun",
+    "region": "Stockholms län",
+    "population": 43293,
+    "lat": 59.5000584,
+    "lng": 18.3524853
+  },
+  {
+    "code": "0120",
+    "name": "Värmdö",
+    "official_name": "Värmdö",
+    "full_name": "Värmdö kommun",
+    "region": "Stockholms län",
+    "population": 42000,
+    "lat": 59.333333,
+    "lng": 18.383333
+  },
+  {
+    "code": "0123",
+    "name": "Järfälla",
+    "official_name": "Järfälla",
+    "full_name": "Järfälla kommun",
+    "region": "Stockholms län",
+    "population": 74412,
+    "lat": 59.410065,
+    "lng": 17.836804
+  },
+  {
+    "code": "0125",
+    "name": "Ekerö",
+    "official_name": "Ekerö",
+    "full_name": "Ekerö kommun",
+    "region": "Stockholms län",
+    "population": 27406,
+    "lat": 59.2798338,
+    "lng": 17.7902246
+  },
+  {
+    "code": "0126",
+    "name": "Huddinge",
+    "official_name": "Huddinge",
+    "full_name": "Huddinge kommun",
+    "region": "Stockholms län",
+    "population": 107538,
+    "lat": 59.23633,
+    "lng": 17.9821561
+  },
+  {
+    "code": "0127",
+    "name": "Botkyrka",
+    "official_name": "Botkyrka",
+    "full_name": "Botkyrka kommun",
+    "region": "Stockholms län",
+    "population": 90675,
+    "lat": 59.2459411,
+    "lng": 17.8408583
+  },
+  {
+    "code": "0128",
+    "name": "Salem",
+    "official_name": "Salems",
+    "full_name": "Salems kommun",
+    "region": "Stockholms län",
+    "population": 16615,
+    "lat": 59.2,
+    "lng": 17.766667
+  },
+  {
+    "code": "0136",
+    "name": "Haninge",
+    "official_name": "Haninge",
+    "full_name": "Haninge kommun",
+    "region": "Stockholms län",
+    "population": 85693,
+    "lat": 59.1827236,
+    "lng": 18.1510906
+  },
+  {
+    "code": "0138",
+    "name": "Tyresö",
+    "official_name": "Tyresö",
+    "full_name": "Tyresö kommun",
+    "region": "Stockholms län",
+    "population": 47103,
+    "lat": 59.2425954,
+    "lng": 18.2833919
+  },
+  {
+    "code": "0139",
+    "name": "Upplands-Bro",
+    "official_name": "Upplands-Bro",
+    "full_name": "Upplands-Bro kommun",
+    "region": "Stockholms län",
+    "population": 26755,
+    "lat": 59.5094727,
+    "lng": 17.6144117
+  },
+  {
+    "code": "0140",
+    "name": "Nykvarn",
+    "official_name": "Nykvarns",
+    "full_name": "Nykvarns kommun",
+    "region": "Stockholms län",
+    "population": 10424,
+    "lat": 59.178177,
+    "lng": 17.427816
+  },
+  {
+    "code": "0160",
+    "name": "Täby",
+    "official_name": "Täby",
+    "full_name": "Täby kommun",
+    "region": "Stockholms län",
+    "population": 69386,
+    "lat": 59.4419,
+    "lng": 18.0703299
+  },
+  {
+    "code": "0162",
+    "name": "Danderyd",
+    "official_name": "Danderyds",
+    "full_name": "Danderyds kommun",
+    "region": "Stockholms län",
+    "population": 32653,
+    "lat": 59.4079049,
+    "lng": 18.019075
+  },
+  {
+    "code": "0163",
+    "name": "Sollentuna",
+    "official_name": "Sollentuna",
+    "full_name": "Sollentuna kommun",
+    "region": "Stockholms län",
+    "population": 71023,
+    "lat": 59.43911,
+    "lng": 17.94148
+  },
+  {
+    "code": "0180",
+    "name": "Stockholm",
+    "official_name": "Stockholms",
+    "full_name": "Stockholms kommun",
+    "region": "Stockholms län",
+    "population": 935619,
+    "lat": 59.3293235,
+    "lng": 18.0685808
+  },
+  {
+    "code": "0181",
+    "name": "Södertälje",
+    "official_name": "Södertälje",
+    "full_name": "Södertälje kommun",
+    "region": "Stockholms län",
+    "population": 94631,
+    "lat": 59.195363,
+    "lng": 17.625689
+  },
+  {
+    "code": "0182",
+    "name": "Nacka",
+    "official_name": "Nacka",
+    "full_name": "Nacka kommun",
+    "region": "Stockholms län",
+    "population": 99359,
+    "lat": 59.307903,
+    "lng": 18.156042
+  },
+  {
+    "code": "0183",
+    "name": "Sundbyberg",
+    "official_name": "Sundbybergs",
+    "full_name": "Sundbybergs kommun",
+    "region": "Stockholms län",
+    "population": 47750,
+    "lat": 59.3555208,
+    "lng": 18.0034869
+  },
+  {
+    "code": "0184",
+    "name": "Solna",
+    "official_name": "Solna",
+    "full_name": "Solna kommun",
+    "region": "Stockholms län",
+    "population": 78129,
+    "lat": 59.3688791,
+    "lng": 18.0084334
+  },
+  {
+    "code": "0186",
+    "name": "Lidingö",
+    "official_name": "Lidingö",
+    "full_name": "Lidingö kommun",
+    "region": "Stockholms län",
+    "population": 46853,
+    "lat": 59.36296,
+    "lng": 18.1468
+  },
+  {
+    "code": "0187",
+    "name": "Vaxholm",
+    "official_name": "Vaxholms",
+    "full_name": "Vaxholms kommun",
+    "region": "Stockholms län",
+    "population": 11621,
+    "lat": 59.452788,
+    "lng": 18.183603
+  },
+  {
+    "code": "0188",
+    "name": "Norrtälje",
+    "official_name": "Norrtälje",
+    "full_name": "Norrtälje kommun",
+    "region": "Stockholms län",
+    "population": 59420,
+    "lat": 59.7595841,
+    "lng": 18.7013584
+  },
+  {
+    "code": "0191",
+    "name": "Sigtuna",
+    "official_name": "Sigtuna",
+    "full_name": "Sigtuna kommun",
+    "region": "Stockholms län",
+    "population": 46274,
+    "lat": 59.6191463,
+    "lng": 17.7234191
+  },
+  {
+    "code": "0192",
+    "name": "Nynäshamn",
+    "official_name": "Nynäshamns",
+    "full_name": "Nynäshamns kommun",
+    "region": "Stockholms län",
+    "population": 27752,
+    "lat": 58.902926,
+    "lng": 17.9465289
+  },
+  {
+    "code": "0305",
+    "name": "Håbo",
+    "official_name": "Håbo",
+    "full_name": "Håbo kommun",
+    "region": "Uppsala län",
+    "population": 20737,
+    "lat": 59.8585638,
+    "lng": 17.6389267
+  },
+  {
+    "code": "0319",
+    "name": "Älvkarleby",
+    "official_name": "Älvkarleby",
+    "full_name": "Älvkarleby kommun",
+    "region": "Uppsala län",
+    "population": 9445,
+    "lat": 60.5686067,
+    "lng": 17.4489129
+  },
+  {
+    "code": "0330",
+    "name": "Knivsta",
+    "official_name": "Knivsta",
+    "full_name": "Knivsta kommun",
+    "region": "Uppsala län",
+    "population": 17323,
+    "lat": 59.724971,
+    "lng": 17.800603
+  },
+  {
+    "code": "0331",
+    "name": "Heby",
+    "official_name": "Heby",
+    "full_name": "Heby kommun",
+    "region": "Uppsala län",
+    "population": 13755,
+    "lat": 60.0092262,
+    "lng": 17.2714589
+  },
+  {
+    "code": "0360",
+    "name": "Tierp",
+    "official_name": "Tierps",
+    "full_name": "Tierps kommun",
+    "region": "Uppsala län",
+    "population": 20744,
+    "lat": 60.3458956,
+    "lng": 17.516906
+  },
+  {
+    "code": "0380",
+    "name": "Uppsala",
+    "official_name": "Uppsala",
+    "full_name": "Uppsala kommun",
+    "region": "Uppsala län",
+    "population": 214559,
+    "lat": 59.8585638,
+    "lng": 17.6389267
+  },
+  {
+    "code": "0381",
+    "name": "Enköping",
+    "official_name": "Enköpings",
+    "full_name": "Enköpings kommun",
+    "region": "Uppsala län",
+    "population": 42988,
+    "lat": 59.8496675,
+    "lng": 17.5726536
+  },
+  {
+    "code": "0382",
+    "name": "Östhammar",
+    "official_name": "Östhammars",
+    "full_name": "Östhammars kommun",
+    "region": "Uppsala län",
+    "population": 21822,
+    "lat": 60.2604081,
+    "lng": 18.3710717
+  },
+  {
+    "code": "0428",
+    "name": "Vingåker",
+    "official_name": "Vingåkers",
+    "full_name": "Vingåkers kommun",
+    "region": "Södermanlands län",
+    "population": 9099,
+    "lat": 59.046478,
+    "lng": 15.876965
+  },
+  {
+    "code": "0461",
+    "name": "Gnesta",
+    "official_name": "Gnesta",
+    "full_name": "Gnesta kommun",
+    "region": "Södermanlands län",
+    "population": 10861,
+    "lat": 59.0485314,
+    "lng": 17.3063027
+  },
+  {
+    "code": "0480",
+    "name": "Nyköping",
+    "official_name": "Nyköpings",
+    "full_name": "Nyköpings kommun",
+    "region": "Södermanlands län",
+    "population": 54924,
+    "lat": 58.7526968,
+    "lng": 17.0085668
+  },
+  {
+    "code": "0481",
+    "name": "Oxelösund",
+    "official_name": "Oxelösunds",
+    "full_name": "Oxelösunds kommun",
+    "region": "Södermanlands län",
+    "population": 11921,
+    "lat": 58.671147,
+    "lng": 17.107005
+  },
+  {
+    "code": "0482",
+    "name": "Flen",
+    "official_name": "Flens",
+    "full_name": "Flens kommun",
+    "region": "Södermanlands län",
+    "population": 16830,
+    "lat": 59.0579376,
+    "lng": 16.5879122
+  },
+  {
+    "code": "0483",
+    "name": "Katrineholm",
+    "official_name": "Katrineholms",
+    "full_name": "Katrineholms kommun",
+    "region": "Södermanlands län",
+    "population": 33722,
+    "lat": 58.9955511,
+    "lng": 16.2054756
+  },
+  {
+    "code": "0484",
+    "name": "Eskilstuna",
+    "official_name": "Eskilstuna",
+    "full_name": "Eskilstuna kommun",
+    "region": "Södermanlands län",
+    "population": 103684,
+    "lat": 59.3712486,
+    "lng": 16.5098045
+  },
+  {
+    "code": "0486",
+    "name": "Strängnäs",
+    "official_name": "Strängnäs",
+    "full_name": "Strängnäs kommun",
+    "region": "Södermanlands län",
+    "population": 34609,
+    "lat": 59.3774523,
+    "lng": 17.0321193
+  },
+  {
+    "code": "0488",
+    "name": "Trosa",
+    "official_name": "Trosa",
+    "full_name": "Trosa kommun",
+    "region": "Södermanlands län",
+    "population": 12447,
+    "lat": 58.8985136,
+    "lng": 17.5513527
+  },
+  {
+    "code": "0509",
+    "name": "Ödeshög",
+    "official_name": "Ödeshögs",
+    "full_name": "Ödeshögs kommun",
+    "region": "Östergötlands län",
+    "population": 5335,
+    "lat": 58.2291051,
+    "lng": 14.6530212
+  },
+  {
+    "code": "0512",
+    "name": "Ydre",
+    "official_name": "Ydre",
+    "full_name": "Ydre kommun",
+    "region": "Östergötlands län",
+    "population": 3675,
+    "lat": 57.8595195,
+    "lng": 15.2973458
+  },
+  {
+    "code": "0513",
+    "name": "Kinda",
+    "official_name": "Kinda",
+    "full_name": "Kinda kommun",
+    "region": "Östergötlands län",
+    "population": 9874,
+    "lat": 57.9535789,
+    "lng": 15.8479635
+  },
+  {
+    "code": "0560",
+    "name": "Boxholm",
+    "official_name": "Boxholms",
+    "full_name": "Boxholms kommun",
+    "region": "Östergötlands län",
+    "population": 5373,
+    "lat": 58.1966895,
+    "lng": 15.0474881
+  },
+  {
+    "code": "0561",
+    "name": "Åtvidaberg",
+    "official_name": "Åtvidabergs",
+    "full_name": "Åtvidabergs kommun",
+    "region": "Östergötlands län",
+    "population": 11617,
+    "lat": 58.2021898,
+    "lng": 15.9972698
+  },
+  {
+    "code": "0562",
+    "name": "Finspång",
+    "official_name": "Finspångs",
+    "full_name": "Finspångs kommun",
+    "region": "Östergötlands län",
+    "population": 21526,
+    "lat": 58.7074884,
+    "lng": 15.773595
+  },
+  {
+    "code": "0563",
+    "name": "Valdemarsvik",
+    "official_name": "Valdemarsviks",
+    "full_name": "Valdemarsviks kommun",
+    "region": "Östergötlands län",
+    "population": 7809,
+    "lat": 58.2024514,
+    "lng": 16.6013626
+  },
+  {
+    "code": "0580",
+    "name": "Linköping",
+    "official_name": "Linköpings",
+    "full_name": "Linköpings kommun",
+    "region": "Östergötlands län",
+    "population": 155817,
+    "lat": 58.3941654,
+    "lng": 15.5599638
+  },
+  {
+    "code": "0581",
+    "name": "Norrköping",
+    "official_name": "Norrköpings",
+    "full_name": "Norrköpings kommun",
+    "region": "Östergötlands län",
+    "population": 139363,
+    "lat": 58.7023914,
+    "lng": 15.8071836
+  },
+  {
+    "code": "0582",
+    "name": "Söderköping",
+    "official_name": "Söderköpings",
+    "full_name": "Söderköpings kommun",
+    "region": "Östergötlands län",
+    "population": 14402,
+    "lat": 58.4643957,
+    "lng": 16.3566075
+  },
+  {
+    "code": "0583",
+    "name": "Motala",
+    "official_name": "Motala",
+    "full_name": "Motala kommun",
+    "region": "Östergötlands län",
+    "population": 43258,
+    "lat": 58.5414775,
+    "lng": 15.0105791
+  },
+  {
+    "code": "0584",
+    "name": "Vadstena",
+    "official_name": "Vadstena",
+    "full_name": "Vadstena kommun",
+    "region": "Östergötlands län",
+    "population": 7348,
+    "lat": 58.4521401,
+    "lng": 14.8994742
+  },
+  {
+    "code": "0586",
+    "name": "Mjölby",
+    "official_name": "Mjölby",
+    "full_name": "Mjölby kommun",
+    "region": "Östergötlands län",
+    "population": 26708,
+    "lat": 58.2497209,
+    "lng": 14.6543704
+  },
+  {
+    "code": "0604",
+    "name": "Aneby",
+    "official_name": "Aneby",
+    "full_name": "Aneby kommun",
+    "region": "Jönköpings län",
+    "population": 6603,
+    "lat": 57.838521,
+    "lng": 14.8178021
+  },
+  {
+    "code": "0617",
+    "name": "Gnosjö",
+    "official_name": "Gnosjö",
+    "full_name": "Gnosjö kommun",
+    "region": "Jönköpings län",
+    "population": 9615,
+    "lat": 57.3580398,
+    "lng": 13.7371898
+  },
+  {
+    "code": "0642",
+    "name": "Mullsjö",
+    "official_name": "Mullsjö",
+    "full_name": "Mullsjö kommun",
+    "region": "Jönköpings län",
+    "population": 7226,
+    "lat": 57.9165989,
+    "lng": 13.8773174
+  },
+  {
+    "code": "0643",
+    "name": "Habo",
+    "official_name": "Habo",
+    "full_name": "Habo kommun",
+    "region": "Jönköpings län",
+    "population": 11586,
+    "lat": 57.9093094,
+    "lng": 14.0743665
+  },
+  {
+    "code": "0662",
+    "name": "Gislaved",
+    "official_name": "Gislaveds",
+    "full_name": "Gislaveds kommun",
+    "region": "Jönköpings län",
+    "population": 29478,
+    "lat": 57.2985,
+    "lng": 13.54326
+  },
+  {
+    "code": "0665",
+    "name": "Vaggeryd",
+    "official_name": "Vaggeryds",
+    "full_name": "Vaggeryds kommun",
+    "region": "Jönköpings län",
+    "population": 13644,
+    "lat": 57.498707,
+    "lng": 14.14674
+  },
+  {
+    "code": "0680",
+    "name": "Jönköping",
+    "official_name": "Jönköpings",
+    "full_name": "Jönköpings kommun",
+    "region": "Jönköpings län",
+    "population": 135297,
+    "lat": 57.783795,
+    "lng": 14.161629
+  },
+  {
+    "code": "0682",
+    "name": "Nässjö",
+    "official_name": "Nässjö",
+    "full_name": "Nässjö kommun",
+    "region": "Jönköpings län",
+    "population": 30820,
+    "lat": 57.6526244,
+    "lng": 14.6983398
+  },
+  {
+    "code": "0683",
+    "name": "Värnamo",
+    "official_name": "Värnamo",
+    "full_name": "Värnamo kommun",
+    "region": "Jönköpings län",
+    "population": 33906,
+    "lat": 57.1831605,
+    "lng": 14.0478214
+  },
+  {
+    "code": "0684",
+    "name": "Sävsjö",
+    "official_name": "Sävsjö",
+    "full_name": "Sävsjö kommun",
+    "region": "Jönköpings län",
+    "population": 11396,
+    "lat": 57.3989958,
+    "lng": 14.6658136
+  },
+  {
+    "code": "0685",
+    "name": "Vetlanda",
+    "official_name": "Vetlanda",
+    "full_name": "Vetlanda kommun",
+    "region": "Jönköpings län",
+    "population": 27241,
+    "lat": 57.42746,
+    "lng": 15.08533
+  },
+  {
+    "code": "0686",
+    "name": "Eksjö",
+    "official_name": "Eksjö",
+    "full_name": "Eksjö kommun",
+    "region": "Jönköpings län",
+    "population": 17129,
+    "lat": 57.5909402,
+    "lng": 15.0239091
+  },
+  {
+    "code": "0687",
+    "name": "Tranås",
+    "official_name": "Tranås",
+    "full_name": "Tranås kommun",
+    "region": "Jönköpings län",
+    "population": 18794,
+    "lat": 58.035518,
+    "lng": 14.975696
+  },
+  {
+    "code": "0760",
+    "name": "Uppvidinge",
+    "official_name": "Uppvidinge",
+    "full_name": "Uppvidinge kommun",
+    "region": "Kronobergs län",
+    "population": 9508,
+    "lat": 56.9373436,
+    "lng": 15.4446016
+  },
+  {
+    "code": "0761",
+    "name": "Lessebo",
+    "official_name": "Lessebo",
+    "full_name": "Lessebo kommun",
+    "region": "Kronobergs län",
+    "population": 8760,
+    "lat": 56.7573602,
+    "lng": 15.318206
+  },
+  {
+    "code": "0763",
+    "name": "Tingsryd",
+    "official_name": "Tingsryds",
+    "full_name": "Tingsryds kommun",
+    "region": "Kronobergs län",
+    "population": 12393,
+    "lat": 56.5247452,
+    "lng": 14.9785342
+  },
+  {
+    "code": "0764",
+    "name": "Alvesta",
+    "official_name": "Alvesta",
+    "full_name": "Alvesta kommun",
+    "region": "Kronobergs län",
+    "population": 19850,
+    "lat": 56.8992104,
+    "lng": 14.5560006
+  },
+  {
+    "code": "0765",
+    "name": "Älmhult",
+    "official_name": "Älmhults",
+    "full_name": "Älmhults kommun",
+    "region": "Kronobergs län",
+    "population": 16618,
+    "lat": 56.55097,
+    "lng": 14.139023
+  },
+  {
+    "code": "0767",
+    "name": "Markaryd",
+    "official_name": "Markaryds",
+    "full_name": "Markaryds kommun",
+    "region": "Kronobergs län",
+    "population": 9991,
+    "lat": 56.7183403,
+    "lng": 14.4114674
+  },
+  {
+    "code": "0780",
+    "name": "Växjö",
+    "official_name": "Växjö",
+    "full_name": "Växjö kommun",
+    "region": "Kronobergs län",
+    "population": 89500,
+    "lat": 56.8750413,
+    "lng": 14.6091742
+  },
+  {
+    "code": "0781",
+    "name": "Ljungby",
+    "official_name": "Ljungby",
+    "full_name": "Ljungby kommun",
+    "region": "Kronobergs län",
+    "population": 28008,
+    "lat": 56.8338774,
+    "lng": 13.9410417
+  },
+  {
+    "code": "0821",
+    "name": "Högsby",
+    "official_name": "Högsby",
+    "full_name": "Högsby kommun",
+    "region": "Kalmar län",
+    "population": 6080,
+    "lat": 57.165088,
+    "lng": 16.026229
+  },
+  {
+    "code": "0834",
+    "name": "Torsås",
+    "official_name": "Torsås",
+    "full_name": "Torsås kommun",
+    "region": "Kalmar län",
+    "population": 7063,
+    "lat": 56.4126197,
+    "lng": 15.9987709
+  },
+  {
+    "code": "0840",
+    "name": "Mörbylånga",
+    "official_name": "Mörbylånga",
+    "full_name": "Mörbylånga kommun",
+    "region": "Kalmar län",
+    "population": 14916,
+    "lat": 56.5237566,
+    "lng": 16.3869163
+  },
+  {
+    "code": "0860",
+    "name": "Hultsfred",
+    "official_name": "Hultsfreds",
+    "full_name": "Hultsfreds kommun",
+    "region": "Kalmar län",
+    "population": 14607,
+    "lat": 57.49484,
+    "lng": 15.8416513
+  },
+  {
+    "code": "0861",
+    "name": "Mönsterås",
+    "official_name": "Mönsterås",
+    "full_name": "Mönsterås kommun",
+    "region": "Kalmar län",
+    "population": 13395,
+    "lat": 57.0415797,
+    "lng": 16.44312
+  },
+  {
+    "code": "0862",
+    "name": "Emmaboda",
+    "official_name": "Emmaboda",
+    "full_name": "Emmaboda kommun",
+    "region": "Kalmar län",
+    "population": 9348,
+    "lat": 56.62973,
+    "lng": 15.541259
+  },
+  {
+    "code": "0880",
+    "name": "Kalmar",
+    "official_name": "Kalmar",
+    "full_name": "Kalmar kommun",
+    "region": "Kalmar län",
+    "population": 66571,
+    "lat": 56.6634447,
+    "lng": 16.356779
+  },
+  {
+    "code": "0881",
+    "name": "Nybro",
+    "official_name": "Nybro",
+    "full_name": "Nybro kommun",
+    "region": "Kalmar län",
+    "population": 20311,
+    "lat": 56.745012,
+    "lng": 15.907874
+  },
+  {
+    "code": "0882",
+    "name": "Oskarshamn",
+    "official_name": "Oskarshamns",
+    "full_name": "Oskarshamns kommun",
+    "region": "Kalmar län",
+    "population": 27006,
+    "lat": 57.2656993,
+    "lng": 16.4473984
+  },
+  {
+    "code": "0883",
+    "name": "Västervik",
+    "official_name": "Västerviks",
+    "full_name": "Västerviks kommun",
+    "region": "Kalmar län",
+    "population": 36438,
+    "lat": 57.758265,
+    "lng": 16.630142
+  },
+  {
+    "code": "0884",
+    "name": "Vimmerby",
+    "official_name": "Vimmerby",
+    "full_name": "Vimmerby kommun",
+    "region": "Kalmar län",
+    "population": 15636,
+    "lat": 57.6690339,
+    "lng": 15.858857
+  },
+  {
+    "code": "0885",
+    "name": "Borgholm",
+    "official_name": "Borgholms",
+    "full_name": "Borgholms kommun",
+    "region": "Kalmar län",
+    "population": 10930,
+    "lat": 56.8802297,
+    "lng": 16.6562355
+  },
+  {
+    "code": "0980",
+    "name": "Gotland",
+    "official_name": "Gotlands",
+    "full_name": "Gotlands kommun",
+    "region": "Gotlands län",
+    "population": 58003,
+    "lat": 57.4684121,
+    "lng": 18.4867447
+  },
+  {
+    "code": "1060",
+    "name": "Olofström",
+    "official_name": "Olofströms",
+    "full_name": "Olofströms kommun",
+    "region": "Blekinge län",
+    "population": 13417,
+    "lat": 56.2780674,
+    "lng": 14.5225729
+  },
+  {
+    "code": "1080",
+    "name": "Karlskrona",
+    "official_name": "Karlskrona",
+    "full_name": "Karlskrona kommun",
+    "region": "Blekinge län",
+    "population": 66262,
+    "lat": 56.161224,
+    "lng": 15.5869
+  },
+  {
+    "code": "1081",
+    "name": "Ronneby",
+    "official_name": "Ronneby",
+    "full_name": "Ronneby kommun",
+    "region": "Blekinge län",
+    "population": 29207,
+    "lat": 56.2054368,
+    "lng": 15.6037495
+  },
+  {
+    "code": "1082",
+    "name": "Karlshamn",
+    "official_name": "Karlshamns",
+    "full_name": "Karlshamns kommun",
+    "region": "Blekinge län",
+    "population": 32130,
+    "lat": 56.1640679,
+    "lng": 14.8950264
+  },
+  {
+    "code": "1083",
+    "name": "Sölvesborg",
+    "official_name": "Sölvesborgs",
+    "full_name": "Sölvesborgs kommun",
+    "region": "Blekinge län",
+    "population": 17437,
+    "lat": 56.2783837,
+    "lng": 15.0180058
+  },
+  {
+    "code": "1214",
+    "name": "Svalöv",
+    "official_name": "Svalövs",
+    "full_name": "Svalövs kommun",
+    "region": "Skåne län",
+    "population": 13919,
+    "lat": 55.9129296,
+    "lng": 13.1018168
+  },
+  {
+    "code": "1230",
+    "name": "Staffanstorp",
+    "official_name": "Staffanstorps",
+    "full_name": "Staffanstorps kommun",
+    "region": "Skåne län",
+    "population": 23600,
+    "lat": 55.641065,
+    "lng": 13.212229
+  },
+  {
+    "code": "1231",
+    "name": "Burlöv",
+    "official_name": "Burlövs",
+    "full_name": "Burlövs kommun",
+    "region": "Skåne län",
+    "population": 17646,
+    "lat": 55.6319129,
+    "lng": 13.096379
+  },
+  {
+    "code": "1233",
+    "name": "Vellinge",
+    "official_name": "Vellinge",
+    "full_name": "Vellinge kommun",
+    "region": "Skåne län",
+    "population": 35257,
+    "lat": 55.4708928,
+    "lng": 13.0199899
+  },
+  {
+    "code": "1256",
+    "name": "Östra Göinge",
+    "official_name": "Östra Göinge",
+    "full_name": "Östra Göinge kommun",
+    "region": "Skåne län",
+    "population": 14406,
+    "lat": 56.2378773,
+    "lng": 14.2161662
+  },
+  {
+    "code": "1257",
+    "name": "Örkelljunga",
+    "official_name": "Örkelljunga",
+    "full_name": "Örkelljunga kommun",
+    "region": "Skåne län",
+    "population": 9958,
+    "lat": 56.283635,
+    "lng": 13.278832
+  },
+  {
+    "code": "1260",
+    "name": "Bjuv",
+    "official_name": "Bjuvs",
+    "full_name": "Bjuvs kommun",
+    "region": "Skåne län",
+    "population": 15202,
+    "lat": 56.0848002,
+    "lng": 12.9147936
+  },
+  {
+    "code": "1261",
+    "name": "Kävlinge",
+    "official_name": "Kävlinge",
+    "full_name": "Kävlinge kommun",
+    "region": "Skåne län",
+    "population": 30532,
+    "lat": 55.7939999,
+    "lng": 13.1104293
+  },
+  {
+    "code": "1262",
+    "name": "Lomma",
+    "official_name": "Lomma",
+    "full_name": "Lomma kommun",
+    "region": "Skåne län",
+    "population": 23887,
+    "lat": 55.6706674,
+    "lng": 13.077576
+  },
+  {
+    "code": "1263",
+    "name": "Svedala",
+    "official_name": "Svedala",
+    "full_name": "Svedala kommun",
+    "region": "Skåne län",
+    "population": 20771,
+    "lat": 55.5089084,
+    "lng": 13.2371097
+  },
+  {
+    "code": "1264",
+    "name": "Skurup",
+    "official_name": "Skurups",
+    "full_name": "Skurups kommun",
+    "region": "Skåne län",
+    "population": 15408,
+    "lat": 55.4791989,
+    "lng": 13.5010092
+  },
+  {
+    "code": "1265",
+    "name": "Sjöbo",
+    "official_name": "Sjöbo",
+    "full_name": "Sjöbo kommun",
+    "region": "Skåne län",
+    "population": 18742,
+    "lat": 55.5934072,
+    "lng": 13.6977756
+  },
+  {
+    "code": "1266",
+    "name": "Hörby",
+    "official_name": "Hörby",
+    "full_name": "Hörby kommun",
+    "region": "Skåne län",
+    "population": 15283,
+    "lat": 55.851716,
+    "lng": 13.6619255
+  },
+  {
+    "code": "1267",
+    "name": "Höör",
+    "official_name": "Höörs",
+    "full_name": "Höörs kommun",
+    "region": "Skåne län",
+    "population": 16192,
+    "lat": 55.9320612,
+    "lng": 13.5420342
+  },
+  {
+    "code": "1270",
+    "name": "Tomelilla",
+    "official_name": "Tomelilla",
+    "full_name": "Tomelilla kommun",
+    "region": "Skåne län",
+    "population": 13330,
+    "lat": 55.54355,
+    "lng": 13.95484
+  },
+  {
+    "code": "1272",
+    "name": "Bromölla",
+    "official_name": "Bromölla",
+    "full_name": "Bromölla kommun",
+    "region": "Skåne län",
+    "population": 12625,
+    "lat": 56.0745818,
+    "lng": 14.4700234
+  },
+  {
+    "code": "1273",
+    "name": "Osby",
+    "official_name": "Osby",
+    "full_name": "Osby kommun",
+    "region": "Skåne län",
+    "population": 13149,
+    "lat": 56.3815355,
+    "lng": 13.9929413
+  },
+  {
+    "code": "1275",
+    "name": "Perstorp",
+    "official_name": "Perstorps",
+    "full_name": "Perstorps kommun",
+    "region": "Skåne län",
+    "population": 7338,
+    "lat": 55.4726302,
+    "lng": 13.0232164
+  },
+  {
+    "code": "1276",
+    "name": "Klippan",
+    "official_name": "Klippans",
+    "full_name": "Klippans kommun",
+    "region": "Skåne län",
+    "population": 17219,
+    "lat": 56.1355523,
+    "lng": 13.1279588
+  },
+  {
+    "code": "1277",
+    "name": "Åstorp",
+    "official_name": "Åstorps",
+    "full_name": "Åstorps kommun",
+    "region": "Skåne län",
+    "population": 15528,
+    "lat": 56.134262,
+    "lng": 12.945908
+  },
+  {
+    "code": "1278",
+    "name": "Båstad",
+    "official_name": "Båstads",
+    "full_name": "Båstads kommun",
+    "region": "Skåne län",
+    "population": 14614,
+    "lat": 56.4264178,
+    "lng": 12.8461656
+  },
+  {
+    "code": "1280",
+    "name": "Malmö",
+    "official_name": "Malmö",
+    "full_name": "Malmö kommun",
+    "region": "Skåne län",
+    "population": 328494,
+    "lat": 55.604981,
+    "lng": 13.003822
+  },
+  {
+    "code": "1281",
+    "name": "Lund",
+    "official_name": "Lunds",
+    "full_name": "Lunds kommun",
+    "region": "Skåne län",
+    "population": 118542,
+    "lat": 55.7046601,
+    "lng": 13.1910073
+  },
+  {
+    "code": "1282",
+    "name": "Landskrona",
+    "official_name": "Landskrona",
+    "full_name": "Landskrona kommun",
+    "region": "Skåne län",
+    "population": 44611,
+    "lat": 55.8703477,
+    "lng": 12.8300802
+  },
+  {
+    "code": "1283",
+    "name": "Helsingborg",
+    "official_name": "Helsingborgs",
+    "full_name": "Helsingborgs kommun",
+    "region": "Skåne län",
+    "population": 140547,
+    "lat": 56.2090107,
+    "lng": 12.8557318
+  },
+  {
+    "code": "1284",
+    "name": "Höganäs",
+    "official_name": "Höganäs",
+    "full_name": "Höganäs kommun",
+    "region": "Skåne län",
+    "population": 25847,
+    "lat": 56.2006388,
+    "lng": 12.5553288
+  },
+  {
+    "code": "1285",
+    "name": "Eslöv",
+    "official_name": "Eslövs",
+    "full_name": "Eslövs kommun",
+    "region": "Skåne län",
+    "population": 32878,
+    "lat": 55.8391198,
+    "lng": 13.3033914
+  },
+  {
+    "code": "1286",
+    "name": "Ystad",
+    "official_name": "Ystads",
+    "full_name": "Ystads kommun",
+    "region": "Skåne län",
+    "population": 29448,
+    "lat": 55.5367258,
+    "lng": 13.1726454
+  },
+  {
+    "code": "1287",
+    "name": "Trelleborg",
+    "official_name": "Trelleborgs",
+    "full_name": "Trelleborgs kommun",
+    "region": "Skåne län",
+    "population": 43913,
+    "lat": 55.3735078,
+    "lng": 13.1579755
+  },
+  {
+    "code": "1290",
+    "name": "Kristianstad",
+    "official_name": "Kristianstads",
+    "full_name": "Kristianstads kommun",
+    "region": "Skåne län",
+    "population": 83191,
+    "lat": 55.5606075,
+    "lng": 14.3412722
+  },
+  {
+    "code": "1291",
+    "name": "Simrishamn",
+    "official_name": "Simrishamns",
+    "full_name": "Simrishamns kommun",
+    "region": "Skåne län",
+    "population": 19485,
+    "lat": 55.5573959,
+    "lng": 14.3489651
+  },
+  {
+    "code": "1292",
+    "name": "Ängelholm",
+    "official_name": "Ängelholms",
+    "full_name": "Ängelholms kommun",
+    "region": "Skåne län",
+    "population": 41336,
+    "lat": 56.245748,
+    "lng": 12.863881
+  },
+  {
+    "code": "1293",
+    "name": "Hässleholm",
+    "official_name": "Hässleholms",
+    "full_name": "Hässleholms kommun",
+    "region": "Skåne län",
+    "population": 51667,
+    "lat": 56.1589145,
+    "lng": 13.7667655
+  },
+  {
+    "code": "1315",
+    "name": "Hylte",
+    "official_name": "Hylte",
+    "full_name": "Hylte kommun",
+    "region": "Hallands län",
+    "population": 10954,
+    "lat": 56.9546839,
+    "lng": 13.5284689
+  },
+  {
+    "code": "1380",
+    "name": "Halmstad",
+    "official_name": "Halmstads",
+    "full_name": "Halmstads kommun",
+    "region": "Hallands län",
+    "population": 98538,
+    "lat": 56.6797417,
+    "lng": 12.8838335
+  },
+  {
+    "code": "1381",
+    "name": "Laholm",
+    "official_name": "Laholms",
+    "full_name": "Laholms kommun",
+    "region": "Hallands län",
+    "population": 24664,
+    "lat": 56.5057557,
+    "lng": 13.0456048
+  },
+  {
+    "code": "1382",
+    "name": "Falkenberg",
+    "official_name": "Falkenbergs",
+    "full_name": "Falkenbergs kommun",
+    "region": "Hallands län",
+    "population": 43867,
+    "lat": 56.9027333,
+    "lng": 12.4888013
+  },
+  {
+    "code": "1383",
+    "name": "Varberg",
+    "official_name": "Varbergs",
+    "full_name": "Varbergs kommun",
+    "region": "Hallands län",
+    "population": 61868,
+    "lat": 57.1087906,
+    "lng": 12.2544831
+  },
+  {
+    "code": "1384",
+    "name": "Kungsbacka",
+    "official_name": "Kungsbacka",
+    "full_name": "Kungsbacka kommun",
+    "region": "Hallands län",
+    "population": 80442,
+    "lat": 57.5035562,
+    "lng": 12.0823342
+  },
+  {
+    "code": "1401",
+    "name": "Härryda",
+    "official_name": "Härryda",
+    "full_name": "Härryda kommun",
+    "region": "Västra Götalands län",
+    "population": 37108,
+    "lat": 57.660155,
+    "lng": 12.2915063
+  },
+  {
+    "code": "1402",
+    "name": "Partille",
+    "official_name": "Partille",
+    "full_name": "Partille kommun",
+    "region": "Västra Götalands län",
+    "population": 37316,
+    "lat": 57.7366497,
+    "lng": 12.1251968
+  },
+  {
+    "code": "1407",
+    "name": "Öckerö",
+    "official_name": "Öckerö",
+    "full_name": "Öckerö kommun",
+    "region": "Västra Götalands län",
+    "population": 12773,
+    "lat": 57.711741,
+    "lng": 11.6487886
+  },
+  {
+    "code": "1415",
+    "name": "Stenungsund",
+    "official_name": "Stenungsunds",
+    "full_name": "Stenungsunds kommun",
+    "region": "Västra Götalands län",
+    "population": 25815,
+    "lat": 58.0678388,
+    "lng": 11.8294346
+  },
+  {
+    "code": "1419",
+    "name": "Tjörn",
+    "official_name": "Tjörns",
+    "full_name": "Tjörns kommun",
+    "region": "Västra Götalands län",
+    "population": 15584,
+    "lat": 58.0410195,
+    "lng": 11.6836708
+  },
+  {
+    "code": "1421",
+    "name": "Orust",
+    "official_name": "Orusts",
+    "full_name": "Orusts kommun",
+    "region": "Västra Götalands län",
+    "population": 15093,
+    "lat": 58.1866415,
+    "lng": 11.6069189
+  },
+  {
+    "code": "1427",
+    "name": "Sotenäs",
+    "official_name": "Sotenäs",
+    "full_name": "Sotenäs kommun",
+    "region": "Västra Götalands län",
+    "population": 9065,
+    "lat": 58.4401392,
+    "lng": 11.3614392
+  },
+  {
+    "code": "1430",
+    "name": "Munkedal",
+    "official_name": "Munkedals",
+    "full_name": "Munkedals kommun",
+    "region": "Västra Götalands län",
+    "population": 10361,
+    "lat": 58.4715051,
+    "lng": 11.6801923
+  },
+  {
+    "code": "1435",
+    "name": "Tanum",
+    "official_name": "Tanums",
+    "full_name": "Tanums kommun",
+    "region": "Västra Götalands län",
+    "population": 12606,
+    "lat": 58.7327267,
+    "lng": 11.4578192
+  },
+  {
+    "code": "1438",
+    "name": "Dals-Ed",
+    "official_name": "Dals-Eds",
+    "full_name": "Dals-Eds kommun",
+    "region": "Västra Götalands län",
+    "population": 4777,
+    "lat": 58.9743879,
+    "lng": 11.8651749
+  },
+  {
+    "code": "1439",
+    "name": "Färgelanda",
+    "official_name": "Färgelanda",
+    "full_name": "Färgelanda kommun",
+    "region": "Västra Götalands län",
+    "population": 6627,
+    "lat": 58.6513706,
+    "lng": 12.0548287
+  },
+  {
+    "code": "1440",
+    "name": "Ale",
+    "official_name": "Ale",
+    "full_name": "Ale kommun",
+    "region": "Västra Götalands län",
+    "population": 29549,
+    "lat": 57.988605,
+    "lng": 12.2344546
+  },
+  {
+    "code": "1441",
+    "name": "Lerum",
+    "official_name": "Lerums",
+    "full_name": "Lerums kommun",
+    "region": "Västra Götalands län",
+    "population": 40692,
+    "lat": 57.7697883,
+    "lng": 12.2696504
+  },
+  {
+    "code": "1442",
+    "name": "Vårgårda",
+    "official_name": "Vårgårda",
+    "full_name": "Vårgårda kommun",
+    "region": "Västra Götalands län",
+    "population": 11295,
+    "lat": 58.2527926,
+    "lng": 13.0596425
+  },
+  {
+    "code": "1443",
+    "name": "Bollebygd",
+    "official_name": "Bollebygds",
+    "full_name": "Bollebygds kommun",
+    "region": "Västra Götalands län",
+    "population": 9102,
+    "lat": 57.6005306,
+    "lng": 12.5891024
+  },
+  {
+    "code": "1444",
+    "name": "Grästorp",
+    "official_name": "Grästorps",
+    "full_name": "Grästorps kommun",
+    "region": "Västra Götalands län",
+    "population": 5721,
+    "lat": 58.3340403,
+    "lng": 12.6802177
+  },
+  {
+    "code": "1445",
+    "name": "Essunga",
+    "official_name": "Essunga",
+    "full_name": "Essunga kommun",
+    "region": "Västra Götalands län",
+    "population": 5620,
+    "lat": 58.2527926,
+    "lng": 13.0596425
+  },
+  {
+    "code": "1446",
+    "name": "Karlsborg",
+    "official_name": "Karlsborgs",
+    "full_name": "Karlsborgs kommun",
+    "region": "Västra Götalands län",
+    "population": 6913,
+    "lat": 58.5542194,
+    "lng": 14.013523
+  },
+  {
+    "code": "1447",
+    "name": "Gullspång",
+    "official_name": "Gullspångs",
+    "full_name": "Gullspångs kommun",
+    "region": "Västra Götalands län",
+    "population": 5307,
+    "lat": 58.985467,
+    "lng": 14.096623
+  },
+  {
+    "code": "1452",
+    "name": "Tranemo",
+    "official_name": "Tranemo",
+    "full_name": "Tranemo kommun",
+    "region": "Västra Götalands län",
+    "population": 11776,
+    "lat": 57.4839099,
+    "lng": 13.3507705
+  },
+  {
+    "code": "1460",
+    "name": "Bengtsfors",
+    "official_name": "Bengtsfors",
+    "full_name": "Bengtsfors kommun",
+    "region": "Västra Götalands län",
+    "population": 9940,
+    "lat": 59.028612,
+    "lng": 12.226943
+  },
+  {
+    "code": "1461",
+    "name": "Mellerud",
+    "official_name": "Melleruds",
+    "full_name": "Melleruds kommun",
+    "region": "Västra Götalands län",
+    "population": 9323,
+    "lat": 58.698678,
+    "lng": 12.452479
+  },
+  {
+    "code": "1462",
+    "name": "Lilla Edet",
+    "official_name": "Lilla Edets",
+    "full_name": "Lilla Edets kommun",
+    "region": "Västra Götalands län",
+    "population": 13728,
+    "lat": 58.132158,
+    "lng": 12.1241336
+  },
+  {
+    "code": "1463",
+    "name": "Mark",
+    "official_name": "Marks",
+    "full_name": "Marks kommun",
+    "region": "Västra Götalands län",
+    "population": 34218,
+    "lat": 57.4253176,
+    "lng": 12.5695216
+  },
+  {
+    "code": "1465",
+    "name": "Svenljunga",
+    "official_name": "Svenljunga",
+    "full_name": "Svenljunga kommun",
+    "region": "Västra Götalands län",
+    "population": 10679,
+    "lat": 57.4955715,
+    "lng": 13.1146225
+  },
+  {
+    "code": "1466",
+    "name": "Herrljunga",
+    "official_name": "Herrljunga",
+    "full_name": "Herrljunga kommun",
+    "region": "Västra Götalands län",
+    "population": 9486,
+    "lat": 58.0770678,
+    "lng": 13.0267972
+  },
+  {
+    "code": "1470",
+    "name": "Vara",
+    "official_name": "Vara",
+    "full_name": "Vara kommun",
+    "region": "Västra Götalands län",
+    "population": 15788,
+    "lat": 58.261781,
+    "lng": 12.960194
+  },
+  {
+    "code": "1471",
+    "name": "Götene",
+    "official_name": "Götene",
+    "full_name": "Götene kommun",
+    "region": "Västra Götalands län",
+    "population": 13275,
+    "lat": 58.528002,
+    "lng": 13.491428
+  },
+  {
+    "code": "1472",
+    "name": "Tibro",
+    "official_name": "Tibro",
+    "full_name": "Tibro kommun",
+    "region": "Västra Götalands län",
+    "population": 11070,
+    "lat": 58.424323,
+    "lng": 14.1616418
+  },
+  {
+    "code": "1473",
+    "name": "Töreboda",
+    "official_name": "Töreboda",
+    "full_name": "Töreboda kommun",
+    "region": "Västra Götalands län",
+    "population": 9435,
+    "lat": 58.7055092,
+    "lng": 14.1261468
+  },
+  {
+    "code": "1480",
+    "name": "Göteborg",
+    "official_name": "Göteborgs",
+    "full_name": "Göteborgs kommun",
+    "region": "Västra Götalands län",
+    "population": 556640,
+    "lat": 57.646667,
+    "lng": 11.929444
+  },
+  {
+    "code": "1481",
+    "name": "Mölndal",
+    "official_name": "Mölndals",
+    "full_name": "Mölndals kommun",
+    "region": "Västra Götalands län",
+    "population": 64465,
+    "lat": 57.6841241,
+    "lng": 11.999811
+  },
+  {
+    "code": "1482",
+    "name": "Kungälv",
+    "official_name": "Kungälvs",
+    "full_name": "Kungälvs kommun",
+    "region": "Västra Götalands län",
+    "population": 43289,
+    "lat": 58.2772609,
+    "lng": 12.2596732
+  },
+  {
+    "code": "1484",
+    "name": "Lysekil",
+    "official_name": "Lysekils",
+    "full_name": "Lysekils kommun",
+    "region": "Västra Götalands län",
+    "population": 14570,
+    "lat": 58.275573,
+    "lng": 11.435558
+  },
+  {
+    "code": "1485",
+    "name": "Uddevalla",
+    "official_name": "Uddevalla",
+    "full_name": "Uddevalla kommun",
+    "region": "Västra Götalands län",
+    "population": 55164,
+    "lat": 58.3498003,
+    "lng": 11.935649
+  },
+  {
+    "code": "1486",
+    "name": "Strömstad",
+    "official_name": "Strömstads",
+    "full_name": "Strömstads kommun",
+    "region": "Västra Götalands län",
+    "population": 13079,
+    "lat": 58.3527396,
+    "lng": 11.9242665
+  },
+  {
+    "code": "1487",
+    "name": "Vänersborg",
+    "official_name": "Vänersborgs",
+    "full_name": "Vänersborgs kommun",
+    "region": "Västra Götalands län",
+    "population": 38955,
+    "lat": 58.3117155,
+    "lng": 12.2918706
+  },
+  {
+    "code": "1488",
+    "name": "Trollhättan",
+    "official_name": "Trollhättans",
+    "full_name": "Trollhättans kommun",
+    "region": "Västra Götalands län",
+    "population": 57753,
+    "lat": 58.2834894,
+    "lng": 12.2858206
+  },
+  {
+    "code": "1489",
+    "name": "Alingsås",
+    "official_name": "Alingsås",
+    "full_name": "Alingsås kommun",
+    "region": "Västra Götalands län",
+    "population": 40045,
+    "lat": 57.9799652,
+    "lng": 12.5557707
+  },
+  {
+    "code": "1490",
+    "name": "Borås",
+    "official_name": "Borås",
+    "full_name": "Borås kommun",
+    "region": "Västra Götalands län",
+    "population": 109880,
+    "lat": 57.5044942,
+    "lng": 13.1104746
+  },
+  {
+    "code": "1491",
+    "name": "Ulricehamn",
+    "official_name": "Ulricehamns",
+    "full_name": "Ulricehamns kommun",
+    "region": "Västra Götalands län",
+    "population": 23887,
+    "lat": 58.2527926,
+    "lng": 13.0596425
+  },
+  {
+    "code": "1492",
+    "name": "Åmål",
+    "official_name": "Åmåls",
+    "full_name": "Åmåls kommun",
+    "region": "Västra Götalands län",
+    "population": 12801,
+    "lat": 59.051117,
+    "lng": 12.6977323
+  },
+  {
+    "code": "1493",
+    "name": "Mariestad",
+    "official_name": "Mariestads",
+    "full_name": "Mariestads kommun",
+    "region": "Västra Götalands län",
+    "population": 24215,
+    "lat": 58.7097907,
+    "lng": 13.8217561
+  },
+  {
+    "code": "1494",
+    "name": "Lidköping",
+    "official_name": "Lidköpings",
+    "full_name": "Lidköpings kommun",
+    "region": "Västra Götalands län",
+    "population": 39235,
+    "lat": 58.5035047,
+    "lng": 13.1570768
+  },
+  {
+    "code": "1495",
+    "name": "Skara",
+    "official_name": "Skara",
+    "full_name": "Skara kommun",
+    "region": "Västra Götalands län",
+    "population": 18979,
+    "lat": 58.3873233,
+    "lng": 13.4400612
+  },
+  {
+    "code": "1496",
+    "name": "Skövde",
+    "official_name": "Skövde",
+    "full_name": "Skövde kommun",
+    "region": "Västra Götalands län",
+    "population": 54133,
+    "lat": 58.3902782,
+    "lng": 13.8461208
+  },
+  {
+    "code": "1497",
+    "name": "Hjo",
+    "official_name": "Hjo",
+    "full_name": "Hjo kommun",
+    "region": "Västra Götalands län",
+    "population": 9048,
+    "lat": 58.3984771,
+    "lng": 13.9030062
+  },
+  {
+    "code": "1498",
+    "name": "Tidaholm",
+    "official_name": "Tidaholms",
+    "full_name": "Tidaholms kommun",
+    "region": "Västra Götalands län",
+    "population": 12797,
+    "lat": 57.9191645,
+    "lng": 13.8777292
+  },
+  {
+    "code": "1499",
+    "name": "Falköping",
+    "official_name": "Falköpings",
+    "full_name": "Falköpings kommun",
+    "region": "Västra Götalands län",
+    "population": 32806,
+    "lat": 58.175029,
+    "lng": 13.553217
+  },
+  {
+    "code": "1715",
+    "name": "Kil",
+    "official_name": "Kils",
+    "full_name": "Kils kommun",
+    "region": "Värmlands län",
+    "population": 11800,
+    "lat": 59.5033505,
+    "lng": 13.3175719
+  },
+  {
+    "code": "1730",
+    "name": "Eda",
+    "official_name": "Eda",
+    "full_name": "Eda kommun",
+    "region": "Värmlands län",
+    "population": 8526,
+    "lat": 59.833056,
+    "lng": 12.316667
+  },
+  {
+    "code": "1737",
+    "name": "Torsby",
+    "official_name": "Torsby",
+    "full_name": "Torsby kommun",
+    "region": "Värmlands län",
+    "population": 12169,
+    "lat": 60.1835706,
+    "lng": 12.9319421
+  },
+  {
+    "code": "1760",
+    "name": "Storfors",
+    "official_name": "Storfors",
+    "full_name": "Storfors kommun",
+    "region": "Värmlands län",
+    "population": 4046,
+    "lat": 59.5332079,
+    "lng": 14.2722085
+  },
+  {
+    "code": "1761",
+    "name": "Hammarö",
+    "official_name": "Hammarö",
+    "full_name": "Hammarö kommun",
+    "region": "Värmlands län",
+    "population": 15725,
+    "lat": 59.289306,
+    "lng": 13.5177132
+  },
+  {
+    "code": "1762",
+    "name": "Munkfors",
+    "official_name": "Munkfors",
+    "full_name": "Munkfors kommun",
+    "region": "Värmlands län",
+    "population": 3738,
+    "lat": 59.3827781,
+    "lng": 13.5176245
+  },
+  {
+    "code": "1763",
+    "name": "Forshaga",
+    "official_name": "Forshaga",
+    "full_name": "Forshaga kommun",
+    "region": "Värmlands län",
+    "population": 11451,
+    "lat": 59.5274543,
+    "lng": 13.4892494
+  },
+  {
+    "code": "1764",
+    "name": "Grums",
+    "official_name": "Grums",
+    "full_name": "Grums kommun",
+    "region": "Värmlands län",
+    "population": 9063,
+    "lat": 59.3531787,
+    "lng": 13.1117319
+  },
+  {
+    "code": "1765",
+    "name": "Årjäng",
+    "official_name": "Årjängs",
+    "full_name": "Årjängs kommun",
+    "region": "Värmlands län",
+    "population": 9958,
+    "lat": 59.3891592,
+    "lng": 12.132717
+  },
+  {
+    "code": "1766",
+    "name": "Sunne",
+    "official_name": "Sunne",
+    "full_name": "Sunne kommun",
+    "region": "Värmlands län",
+    "population": 13425,
+    "lat": 59.8365575,
+    "lng": 13.1440464
+  },
+  {
+    "code": "1780",
+    "name": "Karlstad",
+    "official_name": "Karlstads",
+    "full_name": "Karlstads kommun",
+    "region": "Värmlands län",
+    "population": 90198,
+    "lat": 59.3794119,
+    "lng": 13.4955836
+  },
+  {
+    "code": "1781",
+    "name": "Kristinehamn",
+    "official_name": "Kristinehamns",
+    "full_name": "Kristinehamns kommun",
+    "region": "Värmlands län",
+    "population": 24671,
+    "lat": 59.2314721,
+    "lng": 14.1604548
+  },
+  {
+    "code": "1782",
+    "name": "Filipstad",
+    "official_name": "Filipstads",
+    "full_name": "Filipstads kommun",
+    "region": "Värmlands län",
+    "population": 10960,
+    "lat": 59.7139973,
+    "lng": 14.1698445
+  },
+  {
+    "code": "1783",
+    "name": "Hagfors",
+    "official_name": "Hagfors",
+    "full_name": "Hagfors kommun",
+    "region": "Värmlands län",
+    "population": 11917,
+    "lat": 60.0314137,
+    "lng": 13.7021418
+  },
+  {
+    "code": "1784",
+    "name": "Arvika",
+    "official_name": "Arvika",
+    "full_name": "Arvika kommun",
+    "region": "Värmlands län",
+    "population": 26054,
+    "lat": 59.6424649,
+    "lng": 12.4570024
+  },
+  {
+    "code": "1785",
+    "name": "Säffle",
+    "official_name": "Säffle",
+    "full_name": "Säffle kommun",
+    "region": "Värmlands län",
+    "population": 15633,
+    "lat": 59.1915076,
+    "lng": 12.7599042
+  },
+  {
+    "code": "1814",
+    "name": "Lekeberg",
+    "official_name": "Lekebergs",
+    "full_name": "Lekebergs kommun",
+    "region": "Örebro län",
+    "population": 7636,
+    "lat": 59.1653904,
+    "lng": 14.7434068
+  },
+  {
+    "code": "1860",
+    "name": "Laxå",
+    "official_name": "Laxå",
+    "full_name": "Laxå kommun",
+    "region": "Örebro län",
+    "population": 5709,
+    "lat": 58.9896252,
+    "lng": 14.6388738
+  },
+  {
+    "code": "1861",
+    "name": "Hallsberg",
+    "official_name": "Hallsbergs",
+    "full_name": "Hallsbergs kommun",
+    "region": "Örebro län",
+    "population": 15649,
+    "lat": 59.065374,
+    "lng": 15.1050204
+  },
+  {
+    "code": "1862",
+    "name": "Degerfors",
+    "official_name": "Degerfors",
+    "full_name": "Degerfors kommun",
+    "region": "Örebro län",
+    "population": 9609,
+    "lat": 59.2391027,
+    "lng": 14.4339179
+  },
+  {
+    "code": "1863",
+    "name": "Hällefors",
+    "official_name": "Hällefors",
+    "full_name": "Hällefors kommun",
+    "region": "Örebro län",
+    "population": 7138,
+    "lat": 59.783688,
+    "lng": 14.5225692
+  },
+  {
+    "code": "1864",
+    "name": "Ljusnarsberg",
+    "official_name": "Ljusnarsbergs",
+    "full_name": "Ljusnarsbergs kommun",
+    "region": "Örebro län",
+    "population": 5006,
+    "lat": 59.9752934,
+    "lng": 14.8777794
+  },
+  {
+    "code": "1880",
+    "name": "Örebro",
+    "official_name": "Örebro",
+    "full_name": "Örebro kommun",
+    "region": "Örebro län",
+    "population": 146631,
+    "lat": 59.2752626,
+    "lng": 15.2134105
+  },
+  {
+    "code": "1881",
+    "name": "Kumla",
+    "official_name": "Kumla",
+    "full_name": "Kumla kommun",
+    "region": "Örebro län",
+    "population": 21334,
+    "lat": 59.1265359,
+    "lng": 15.1401053
+  },
+  {
+    "code": "1882",
+    "name": "Askersund",
+    "official_name": "Askersunds",
+    "full_name": "Askersunds kommun",
+    "region": "Örebro län",
+    "population": 11282,
+    "lat": 58.8894268,
+    "lng": 14.9109867
+  },
+  {
+    "code": "1883",
+    "name": "Karlskoga",
+    "official_name": "Karlskoga",
+    "full_name": "Karlskoga kommun",
+    "region": "Örebro län",
+    "population": 30538,
+    "lat": 59.328634,
+    "lng": 14.536414
+  },
+  {
+    "code": "1884",
+    "name": "Nora",
+    "official_name": "Nora",
+    "full_name": "Nora kommun",
+    "region": "Örebro län",
+    "population": 10665,
+    "lat": 59.5192064,
+    "lng": 15.0378667
+  },
+  {
+    "code": "1885",
+    "name": "Lindesberg",
+    "official_name": "Lindesbergs",
+    "full_name": "Lindesbergs kommun",
+    "region": "Örebro län",
+    "population": 23744,
+    "lat": 59.59161,
+    "lng": 15.229
+  },
+  {
+    "code": "1904",
+    "name": "Skinnskatteberg",
+    "official_name": "Skinnskattebergs",
+    "full_name": "Skinnskattebergs kommun",
+    "region": "Västmanlands län",
+    "population": 4429,
+    "lat": 59.8303775,
+    "lng": 15.6824285
+  },
+  {
+    "code": "1907",
+    "name": "Surahammar",
+    "official_name": "Surahammars",
+    "full_name": "Surahammars kommun",
+    "region": "Västmanlands län",
+    "population": 10059,
+    "lat": 59.7072262,
+    "lng": 16.2268409
+  },
+  {
+    "code": "1960",
+    "name": "Kungsör",
+    "official_name": "Kungsörs",
+    "full_name": "Kungsörs kommun",
+    "region": "Västmanlands län",
+    "population": 8432,
+    "lat": 59.4226191,
+    "lng": 16.0976359
+  },
+  {
+    "code": "1961",
+    "name": "Hallstahammar",
+    "official_name": "Hallstahammars",
+    "full_name": "Hallstahammars kommun",
+    "region": "Västmanlands län",
+    "population": 15843,
+    "lat": 59.6132041,
+    "lng": 16.2294755
+  },
+  {
+    "code": "1962",
+    "name": "Norberg",
+    "official_name": "Norbergs",
+    "full_name": "Norbergs kommun",
+    "region": "Västmanlands län",
+    "population": 5795,
+    "lat": 60.0653602,
+    "lng": 15.924201
+  },
+  {
+    "code": "1980",
+    "name": "Västerås",
+    "official_name": "Västerås",
+    "full_name": "Västerås kommun",
+    "region": "Västmanlands län",
+    "population": 147420,
+    "lat": 59.6099005,
+    "lng": 16.5448091
+  },
+  {
+    "code": "1981",
+    "name": "Sala",
+    "official_name": "Sala",
+    "full_name": "Sala kommun",
+    "region": "Västmanlands län",
+    "population": 22353,
+    "lat": 59.92024,
+    "lng": 16.606505
+  },
+  {
+    "code": "1982",
+    "name": "Fagersta",
+    "official_name": "Fagersta",
+    "full_name": "Fagersta kommun",
+    "region": "Västmanlands län",
+    "population": 13445,
+    "lat": 59.989144,
+    "lng": 15.8166418
+  },
+  {
+    "code": "1983",
+    "name": "Köping",
+    "official_name": "Köpings",
+    "full_name": "Köpings kommun",
+    "region": "Västmanlands län",
+    "population": 25950,
+    "lat": 59.9770336,
+    "lng": 15.7915677
+  },
+  {
+    "code": "1984",
+    "name": "Arboga",
+    "official_name": "Arboga",
+    "full_name": "Arboga kommun",
+    "region": "Västmanlands län",
+    "population": 13903,
+    "lat": 59.3936883,
+    "lng": 15.8381747
+  },
+  {
+    "code": "2021",
+    "name": "Vansbro",
+    "official_name": "Vansbro",
+    "full_name": "Vansbro kommun",
+    "region": "Dalarnas län",
+    "population": 6884,
+    "lat": 60.51556,
+    "lng": 14.23479
+  },
+  {
+    "code": "2023",
+    "name": "Malung-Sälen",
+    "official_name": "Malung-Sälens",
+    "full_name": "Malung-Sälens kommun",
+    "region": "Dalarnas län",
+    "population": 10091,
+    "lat": 60.6837214,
+    "lng": 13.7152143
+  },
+  {
+    "code": "2026",
+    "name": "Gagnef",
+    "official_name": "Gagnefs",
+    "full_name": "Gagnefs kommun",
+    "region": "Dalarnas län",
+    "population": 10175,
+    "lat": 60.4527768,
+    "lng": 14.8480045
+  },
+  {
+    "code": "2029",
+    "name": "Leksand",
+    "official_name": "Leksands",
+    "full_name": "Leksands kommun",
+    "region": "Dalarnas län",
+    "population": 15507,
+    "lat": 60.50623,
+    "lng": 15.4041053
+  },
+  {
+    "code": "2031",
+    "name": "Rättvik",
+    "official_name": "Rättviks",
+    "full_name": "Rättviks kommun",
+    "region": "Dalarnas län",
+    "population": 10856,
+    "lat": 60.889025,
+    "lng": 15.123373
+  },
+  {
+    "code": "2034",
+    "name": "Orsa",
+    "official_name": "Orsa",
+    "full_name": "Orsa kommun",
+    "region": "Dalarnas län",
+    "population": 6861,
+    "lat": 61.1169365,
+    "lng": 14.6280708
+  },
+  {
+    "code": "2039",
+    "name": "Älvdalen",
+    "official_name": "Älvdalens",
+    "full_name": "Älvdalens kommun",
+    "region": "Dalarnas län",
+    "population": 7039,
+    "lat": 61.9321196,
+    "lng": 12.990459
+  },
+  {
+    "code": "2061",
+    "name": "Smedjebacken",
+    "official_name": "Smedjebackens",
+    "full_name": "Smedjebackens kommun",
+    "region": "Dalarnas län",
+    "population": 10909,
+    "lat": 60.1394371,
+    "lng": 15.4151076
+  },
+  {
+    "code": "2062",
+    "name": "Mora",
+    "official_name": "Mora",
+    "full_name": "Mora kommun",
+    "region": "Dalarnas län",
+    "population": 20279,
+    "lat": 61.0091423,
+    "lng": 14.5459988
+  },
+  {
+    "code": "2080",
+    "name": "Falu",
+    "official_name": "Falu",
+    "full_name": "Falu kommun",
+    "region": "Dalarnas län",
+    "population": 57685,
+    "lat": 60.607755,
+    "lng": 15.629663
+  },
+  {
+    "code": "2081",
+    "name": "Borlänge",
+    "official_name": "Borlänge",
+    "full_name": "Borlänge kommun",
+    "region": "Dalarnas län",
+    "population": 51604,
+    "lat": 60.484304,
+    "lng": 15.433969
+  },
+  {
+    "code": "2082",
+    "name": "Säter",
+    "official_name": "Säters",
+    "full_name": "Säters kommun",
+    "region": "Dalarnas län",
+    "population": 11086,
+    "lat": 60.9135138,
+    "lng": 15.0193019
+  },
+  {
+    "code": "2083",
+    "name": "Hedemora",
+    "official_name": "Hedemora",
+    "full_name": "Hedemora kommun",
+    "region": "Dalarnas län",
+    "population": 15461,
+    "lat": 60.369005,
+    "lng": 16.1508133
+  },
+  {
+    "code": "2084",
+    "name": "Avesta",
+    "official_name": "Avesta",
+    "full_name": "Avesta kommun",
+    "region": "Dalarnas län",
+    "population": 23161,
+    "lat": 61.0917012,
+    "lng": 14.6663653
+  },
+  {
+    "code": "2085",
+    "name": "Ludvika",
+    "official_name": "Ludvika",
+    "full_name": "Ludvika kommun",
+    "region": "Dalarnas län",
+    "population": 26933,
+    "lat": 60.0992705,
+    "lng": 15.2371951
+  },
+  {
+    "code": "2101",
+    "name": "Ockelbo",
+    "official_name": "Ockelbo",
+    "full_name": "Ockelbo kommun",
+    "region": "Gävleborgs län",
+    "population": 5856,
+    "lat": 60.891784,
+    "lng": 16.7201873
+  },
+  {
+    "code": "2104",
+    "name": "Hofors",
+    "official_name": "Hofors",
+    "full_name": "Hofors kommun",
+    "region": "Gävleborgs län",
+    "population": 9564,
+    "lat": 60.54595,
+    "lng": 16.2841
+  },
+  {
+    "code": "2121",
+    "name": "Ovanåker",
+    "official_name": "Ovanåkers",
+    "full_name": "Ovanåkers kommun",
+    "region": "Gävleborgs län",
+    "population": 11631,
+    "lat": 61.349734,
+    "lng": 16.393688
+  },
+  {
+    "code": "2132",
+    "name": "Nordanstig",
+    "official_name": "Nordanstigs",
+    "full_name": "Nordanstigs kommun",
+    "region": "Gävleborgs län",
+    "population": 9511,
+    "lat": 62.0366675,
+    "lng": 17.205249
+  },
+  {
+    "code": "2161",
+    "name": "Ljusdal",
+    "official_name": "Ljusdals",
+    "full_name": "Ljusdals kommun",
+    "region": "Gävleborgs län",
+    "population": 19067,
+    "lat": 61.832709,
+    "lng": 16.1005282
+  },
+  {
+    "code": "2180",
+    "name": "Gävle",
+    "official_name": "Gävle",
+    "full_name": "Gävle kommun",
+    "region": "Gävleborgs län",
+    "population": 99788,
+    "lat": 60.6748796,
+    "lng": 17.1412726
+  },
+  {
+    "code": "2181",
+    "name": "Sandviken",
+    "official_name": "Sandvikens",
+    "full_name": "Sandvikens kommun",
+    "region": "Gävleborgs län",
+    "population": 38949,
+    "lat": 60.621618,
+    "lng": 16.7767312
+  },
+  {
+    "code": "2182",
+    "name": "Söderhamn",
+    "official_name": "Söderhamns",
+    "full_name": "Söderhamns kommun",
+    "region": "Gävleborgs län",
+    "population": 25992,
+    "lat": 61.304795,
+    "lng": 17.052526
+  },
+  {
+    "code": "2183",
+    "name": "Bollnäs",
+    "official_name": "Bollnäs",
+    "full_name": "Bollnäs kommun",
+    "region": "Gävleborgs län",
+    "population": 26929,
+    "lat": 61.3483795,
+    "lng": 16.3942685
+  },
+  {
+    "code": "2184",
+    "name": "Hudiksvall",
+    "official_name": "Hudiksvalls",
+    "full_name": "Hudiksvalls kommun",
+    "region": "Gävleborgs län",
+    "population": 37299,
+    "lat": 61.7273909,
+    "lng": 17.107401
+  },
+  {
+    "code": "2260",
+    "name": "Ånge",
+    "official_name": "Ånge",
+    "full_name": "Ånge kommun",
+    "region": "Västernorrlands län",
+    "population": 9495,
+    "lat": 62.5228738,
+    "lng": 15.6589419
+  },
+  {
+    "code": "2262",
+    "name": "Timrå",
+    "official_name": "Timrå",
+    "full_name": "Timrå kommun",
+    "region": "Västernorrlands län",
+    "population": 17992,
+    "lat": 62.4854563,
+    "lng": 17.3248651
+  },
+  {
+    "code": "2280",
+    "name": "Härnösands",
+    "official_name": "Härnösands",
+    "full_name": "Härnösands kommun",
+    "region": "Västernorrlands län",
+    "population": 25269,
+    "lat": 62.6304399,
+    "lng": 17.9438148
+  },
+  {
+    "code": "2281",
+    "name": "Sundsvall",
+    "official_name": "Sundsvalls",
+    "full_name": "Sundsvalls kommun",
+    "region": "Västernorrlands län",
+    "population": 98325,
+    "lat": 62.390811,
+    "lng": 17.306927
+  },
+  {
+    "code": "2282",
+    "name": "Kramfors",
+    "official_name": "Kramfors",
+    "full_name": "Kramfors kommun",
+    "region": "Västernorrlands län",
+    "population": 18681,
+    "lat": 62.9284332,
+    "lng": 17.7862947
+  },
+  {
+    "code": "2283",
+    "name": "Sollefteå",
+    "official_name": "Sollefteå",
+    "full_name": "Sollefteå kommun",
+    "region": "Västernorrlands län",
+    "population": 19846,
+    "lat": 63.1654065,
+    "lng": 17.277135
+  },
+  {
+    "code": "2284",
+    "name": "Örnsköldsvik",
+    "official_name": "Örnsköldsviks",
+    "full_name": "Örnsköldsviks kommun",
+    "region": "Västernorrlands län",
+    "population": 55964,
+    "lat": 63.2900474,
+    "lng": 18.7166166
+  },
+  {
+    "code": "2303",
+    "name": "Ragunda",
+    "official_name": "Ragunda",
+    "full_name": "Ragunda kommun",
+    "region": "Jämtlands län",
+    "population": 5415,
+    "lat": 63.1246168,
+    "lng": 16.3665889
+  },
+  {
+    "code": "2305",
+    "name": "Bräcke",
+    "official_name": "Bräcke",
+    "full_name": "Bräcke kommun",
+    "region": "Jämtlands län",
+    "population": 6492,
+    "lat": 63.383333,
+    "lng": 14.0
+  },
+  {
+    "code": "2309",
+    "name": "Krokoms",
+    "official_name": "Krokoms",
+    "full_name": "Krokoms kommun",
+    "region": "Jämtlands län",
+    "population": 14843,
+    "lat": 63.1766832,
+    "lng": 14.6360681
+  },
+  {
+    "code": "2313",
+    "name": "Strömsund",
+    "official_name": "Strömsunds",
+    "full_name": "Strömsunds kommun",
+    "region": "Jämtlands län",
+    "population": 11809,
+    "lat": 63.8536621,
+    "lng": 15.5568691
+  },
+  {
+    "code": "2321",
+    "name": "Åre",
+    "official_name": "Åre",
+    "full_name": "Åre kommun",
+    "region": "Jämtlands län",
+    "population": 11088,
+    "lat": 63.3990428,
+    "lng": 13.0815059
+  },
+  {
+    "code": "2326",
+    "name": "Berg",
+    "official_name": "Bergs",
+    "full_name": "Bergs kommun",
+    "region": "Jämtlands län",
+    "population": 7081,
+    "lat": 62.7724812,
+    "lng": 14.1698666
+  },
+  {
+    "code": "2361",
+    "name": "Härjedalen",
+    "official_name": "Härjedalens",
+    "full_name": "Härjedalens kommun",
+    "region": "Jämtlands län",
+    "population": 10200,
+    "lat": 62.2944578,
+    "lng": 13.1942936
+  },
+  {
+    "code": "2380",
+    "name": "Östersund",
+    "official_name": "Östersunds",
+    "full_name": "Östersunds kommun",
+    "region": "Jämtlands län",
+    "population": 61745,
+    "lat": 63.1766832,
+    "lng": 14.6360681
+  },
+  {
+    "code": "2401",
+    "name": "Nordmaling",
+    "official_name": "Nordmalings",
+    "full_name": "Nordmalings kommun",
+    "region": "Västerbottens län",
+    "population": 7132,
+    "lat": 63.566667,
+    "lng": 19.5
+  },
+  {
+    "code": "2403",
+    "name": "Bjurholm",
+    "official_name": "Bjurholms",
+    "full_name": "Bjurholms kommun",
+    "region": "Västerbottens län",
+    "population": 2454,
+    "lat": 63.9304056,
+    "lng": 19.2192125
+  },
+  {
+    "code": "2404",
+    "name": "Vindeln",
+    "official_name": "Vindelns",
+    "full_name": "Vindelns kommun",
+    "region": "Västerbottens län",
+    "population": 5413,
+    "lat": 64.2019041,
+    "lng": 19.7188386
+  },
+  {
+    "code": "2409",
+    "name": "Robertsfors",
+    "official_name": "Robertsfors",
+    "full_name": "Robertsfors kommun",
+    "region": "Västerbottens län",
+    "population": 6784,
+    "lat": 65.3337311,
+    "lng": 16.5161695
+  },
+  {
+    "code": "2417",
+    "name": "Norsjö",
+    "official_name": "Norsjö",
+    "full_name": "Norsjö kommun",
+    "region": "Västerbottens län",
+    "population": 4125,
+    "lat": 64.9135093,
+    "lng": 19.4826413
+  },
+  {
+    "code": "2418",
+    "name": "Malå",
+    "official_name": "Malå",
+    "full_name": "Malå kommun",
+    "region": "Västerbottens län",
+    "population": 3100,
+    "lat": 65.18512,
+    "lng": 18.74907
+  },
+  {
+    "code": "2421",
+    "name": "Storuman",
+    "official_name": "Storumans",
+    "full_name": "Storumans kommun",
+    "region": "Västerbottens län",
+    "population": 5899,
+    "lat": 65.5629922,
+    "lng": 15.2948303
+  },
+  {
+    "code": "2422",
+    "name": "Sorsele",
+    "official_name": "Sorsele",
+    "full_name": "Sorsele kommun",
+    "region": "Västerbottens län",
+    "population": 2535,
+    "lat": 65.5354385,
+    "lng": 17.5272881
+  },
+  {
+    "code": "2425",
+    "name": "Dorotea",
+    "official_name": "Dorotea",
+    "full_name": "Dorotea kommun",
+    "region": "Västerbottens län",
+    "population": 2719,
+    "lat": 64.2617939,
+    "lng": 16.4152338
+  },
+  {
+    "code": "2460",
+    "name": "Vännäs",
+    "official_name": "Vännäs",
+    "full_name": "Vännäs kommun",
+    "region": "Västerbottens län",
+    "population": 8695,
+    "lat": 63.9054631,
+    "lng": 19.7514505
+  },
+  {
+    "code": "2462",
+    "name": "Vilhelmina",
+    "official_name": "Vilhelmina",
+    "full_name": "Vilhelmina kommun",
+    "region": "Västerbottens län",
+    "population": 6805,
+    "lat": 64.1909375,
+    "lng": 17.3430378
+  },
+  {
+    "code": "2463",
+    "name": "Åsele",
+    "official_name": "Åsele",
+    "full_name": "Åsele kommun",
+    "region": "Västerbottens län",
+    "population": 2875,
+    "lat": 64.162402,
+    "lng": 17.3538989
+  },
+  {
+    "code": "2480",
+    "name": "Umeå",
+    "official_name": "Umeå",
+    "full_name": "Umeå kommun",
+    "region": "Västerbottens län",
+    "population": 122892,
+    "lat": 63.8258471,
+    "lng": 20.2630354
+  },
+  {
+    "code": "2481",
+    "name": "Lycksele",
+    "official_name": "Lycksele",
+    "full_name": "Lycksele kommun",
+    "region": "Västerbottens län",
+    "population": 12187,
+    "lat": 64.168142,
+    "lng": 17.3806303
+  },
+  {
+    "code": "2482",
+    "name": "Skellefteå",
+    "official_name": "Skellefteå",
+    "full_name": "Skellefteå kommun",
+    "region": "Västerbottens län",
+    "population": 72266,
+    "lat": 64.7462271,
+    "lng": 20.9573181
+  },
+  {
+    "code": "2505",
+    "name": "Arvidsjaur",
+    "official_name": "Arvidsjaurs",
+    "full_name": "Arvidsjaurs kommun",
+    "region": "Norrbottens län",
+    "population": 6442,
+    "lat": 65.3165601,
+    "lng": 21.3567714
+  },
+  {
+    "code": "2506",
+    "name": "Arjeplog",
+    "official_name": "Arjeplogs",
+    "full_name": "Arjeplogs kommun",
+    "region": "Norrbottens län",
+    "population": 2876,
+    "lat": 66.0515051,
+    "lng": 17.8900543
+  },
+  {
+    "code": "2510",
+    "name": "Jokkmokk",
+    "official_name": "Jokkmokks",
+    "full_name": "Jokkmokks kommun",
+    "region": "Norrbottens län",
+    "population": 5105,
+    "lat": 66.6069609,
+    "lng": 19.8229206
+  },
+  {
+    "code": "2513",
+    "name": "Överkalix",
+    "official_name": "Överkalix",
+    "full_name": "Överkalix kommun",
+    "region": "Norrbottens län",
+    "population": 3378,
+    "lat": 66.8309216,
+    "lng": 20.3991966
+  },
+  {
+    "code": "2514",
+    "name": "Kalix",
+    "official_name": "Kalix",
+    "full_name": "Kalix kommun",
+    "region": "Norrbottens län",
+    "population": 16223,
+    "lat": 65.8556159,
+    "lng": 23.1447989
+  },
+  {
+    "code": "2518",
+    "name": "Övertorneå",
+    "official_name": "Övertorneå",
+    "full_name": "Övertorneå kommun",
+    "region": "Norrbottens län",
+    "population": 4534,
+    "lat": 66.5158379,
+    "lng": 23.5729618
+  },
+  {
+    "code": "2521",
+    "name": "Pajala",
+    "official_name": "Pajala",
+    "full_name": "Pajala kommun",
+    "region": "Norrbottens län",
+    "population": 6116,
+    "lat": 66.8309216,
+    "lng": 20.3991966
+  },
+  {
+    "code": "2523",
+    "name": "Gällivare",
+    "official_name": "Gällivare",
+    "full_name": "Gällivare kommun",
+    "region": "Norrbottens län",
+    "population": 17956,
+    "lat": 67.5021116,
+    "lng": 19.0487443
+  },
+  {
+    "code": "2560",
+    "name": "Älvsbyn",
+    "official_name": "Älvsbyns",
+    "full_name": "Älvsbyns kommun",
+    "region": "Norrbottens län",
+    "population": 8193,
+    "lat": 65.6771363,
+    "lng": 20.9928659
+  },
+  {
+    "code": "2580",
+    "name": "Luleå",
+    "official_name": "Luleå",
+    "full_name": "Luleå kommun",
+    "region": "Norrbottens län",
+    "population": 76770,
+    "lat": 65.584819,
+    "lng": 22.1567026
+  },
+  {
+    "code": "2581",
+    "name": "Piteå",
+    "official_name": "Piteå",
+    "full_name": "Piteå kommun",
+    "region": "Norrbottens län",
+    "population": 41904,
+    "lat": 65.316698,
+    "lng": 21.4800364
+  },
+  {
+    "code": "2582",
+    "name": "Boden",
+    "official_name": "Bodens",
+    "full_name": "Bodens kommun",
+    "region": "Norrbottens län",
+    "population": 28042,
+    "lat": 65.8251188,
+    "lng": 21.6887028
+  },
+  {
+    "code": "2583",
+    "name": "Haparanda",
+    "official_name": "Haparanda",
+    "full_name": "Haparanda kommun",
+    "region": "Norrbottens län",
+    "population": 9864,
+    "lat": 65.621281,
+    "lng": 22.1271203
+  },
+  {
+    "code": "2584",
+    "name": "Kiruna",
+    "official_name": "Kiruna",
+    "full_name": "Kiruna kommun",
+    "region": "Norrbottens län",
+    "population": 23167,
+    "lat": 67.8557995,
+    "lng": 20.2252821
+  }
+]

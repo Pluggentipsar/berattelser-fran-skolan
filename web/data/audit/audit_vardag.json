@@ -1,0 +1,8 @@
+[
+  {"id": "vi-001", "keep": false, "reason": "Förord som introducerar boken; nämner vardag i förbifarten men skildrar den inte konkret."},
+  {"id": "vi-065", "keep": true, "reason": "Beskriver lärarens vardag på golvet, lektion efter lektion, dag ut och dag in."},
+  {"id": "vi-084", "keep": true, "reason": "Detaljerad skildring av en typisk dag med en elev, lektioner, raster och lunch."},
+  {"id": "vi-127", "keep": true, "reason": "Berättar minutiöst om en vanlig måndag från ankomst till lektioner och raster."},
+  {"id": "vi-141", "keep": true, "reason": "Skildrar en helt vanlig dag i förskoleklass minut för minut."},
+  {"id": "vi-151", "keep": true, "reason": "Beskriver en mentors vanliga måndag schemalagt timme för timme."}
+]

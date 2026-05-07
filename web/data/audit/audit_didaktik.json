@@ -1,0 +1,9 @@
+[
+  {"id": "vi-006", "keep": true, "reason": "Konkreta didaktiska metoder: lära namn, humor och glädje som ledstjärnor, relation som grund för ordning."},
+  {"id": "vi-007", "keep": true, "reason": "Diskuterar pedagogiska synsätt, ämnesintegrering och lagarbete som undervisningsmetod."},
+  {"id": "vi-058", "keep": false, "reason": "Handlar om resursbrist och läromedel, inte om hur man undervisar."},
+  {"id": "vi-099", "keep": true, "reason": "Beskriver undervisningsutmaningar med nivåskillnader och planering av arbetsområden."},
+  {"id": "vi-119", "keep": false, "reason": "Fokus på relationsbaserat ledarskap och skolkultur, inte på undervisningsmetodik."},
+  {"id": "vii-122", "keep": true, "reason": "Tydlig didaktik: digital skrivning, kamratrespons och konkret språklig vägledning i klassrum."},
+  {"id": "vii-131", "keep": true, "reason": "Diskuterar katederundervisning, analys/reflektion och sambedömning som undervisningsformer."}
+]

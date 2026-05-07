@@ -1,0 +1,242 @@
+[
+  {
+    "id": "vii-119",
+    "keep": true,
+    "reason": "Beskriver tydligt stress, ångest och psykisk ohälsa hos elever kopplat till skolplikt."
+  },
+  {
+    "id": "vii-120",
+    "keep": true,
+    "reason": "Eleven beskrivs ha mental utmattning, ångest och självhat till följd av skolmiljön."
+  },
+  {
+    "id": "vii-121",
+    "keep": true,
+    "reason": "Lärare beskriver utmattning och känslosmitta; elever mår inte bra i skolan."
+  },
+  {
+    "id": "vii-123",
+    "keep": true,
+    "reason": "Tar upp tilltagande psykisk ohälsa hos elever och lärarens roll i att flagga oro."
+  },
+  {
+    "id": "vii-132",
+    "keep": true,
+    "reason": "Barnet uttrycker hat mot livet, ångest och kräks; tydlig psykisk ohälsa."
+  },
+  {
+    "id": "vii-133",
+    "keep": true,
+    "reason": "Diskuterar oro, ångest och hur skolmiljön orsakar psykisk ohälsa."
+  },
+  {
+    "id": "vii-134",
+    "keep": true,
+    "reason": "Beskriver betygsstress, utbrända femtonåringar och problematisk skolfrånvaro."
+  },
+  {
+    "id": "vii-143",
+    "keep": true,
+    "reason": "Dottern haft ångest, depression; mamman har posttraumatisk stress efter skolåren."
+  },
+  {
+    "id": "vii-145",
+    "keep": true,
+    "reason": "Dottern utvecklade stark skolångest och stress som påverkade måendet."
+  },
+  {
+    "id": "vii-147",
+    "keep": true,
+    "reason": "Pojken har under tre år uttryckt suicidtankar och hög stress i skolmiljön."
+  },
+  {
+    "id": "vii-153",
+    "keep": true,
+    "reason": "Lärare beskriver elever från ohälsa till hälsa och egen utmattning."
+  },
+  {
+    "id": "vii-154",
+    "keep": true,
+    "reason": "Dottern blev deprimerad, isolerad, självskadade och fick panikattacker."
+  },
+  {
+    "id": "vii-156",
+    "keep": true,
+    "reason": "Beskriver försämrad psykisk ohälsa hos elever och hemmasittare."
+  },
+  {
+    "id": "vii-157",
+    "keep": true,
+    "reason": "Sonen mår dåligt, gråter och utvecklas till hemmasittare; psykiskt lidande tydligt."
+  },
+  {
+    "id": "vii-158",
+    "keep": true,
+    "reason": "Dottern har social ångest, panikångest, självskador och ångestmedicinering."
+  },
+  {
+    "id": "vii-162",
+    "keep": true,
+    "reason": "Berättelse om 13-årig pojkes självmord efter utsatthet i skolan."
+  },
+  {
+    "id": "vii-166",
+    "keep": true,
+    "reason": "Tar upp barns välmående, otrygghet och psykisk hälsa kopplat till skolmiljön."
+  },
+  {
+    "id": "vii-170",
+    "keep": true,
+    "reason": "Beskriver trauma, stress och ångest hos barn till följd av skolplikten."
+  },
+  {
+    "id": "vii-171",
+    "keep": false,
+    "reason": "Berättelse om lärarkarriär och förändrade arbetsvillkor; ingen tydlig psykisk ohälsa."
+  },
+  {
+    "id": "vii-172",
+    "keep": false,
+    "reason": "Handlar om sjunkande skolförmågor och behov av tvålärarsystem, ej psykisk ohälsa."
+  },
+  {
+    "id": "vii-173",
+    "keep": true,
+    "reason": "Lärare beskriver eget sammanbrott och stressrelaterad utmattning av yrket."
+  },
+  {
+    "id": "vii-178",
+    "keep": true,
+    "reason": "Förskolepedagog beskriver egen sjukskrivning, sömnsvårigheter och gråtmildhet."
+  },
+  {
+    "id": "vii-182",
+    "keep": false,
+    "reason": "Fokuserar på systemkritik och kränkningsanmälningar; psykisk ohälsa nämns inte tydligt."
+  },
+  {
+    "id": "vii-184",
+    "keep": true,
+    "reason": "Beskriver deprimerad tonåring och låg självkänsla orsakad av skolsystemet."
+  },
+  {
+    "id": "vii-186",
+    "keep": true,
+    "reason": "Kort text uttryckligen om oro, stress och ångest hos unga i skolan."
+  },
+  {
+    "id": "vii-189",
+    "keep": true,
+    "reason": "Dottern utvecklade självskadebeteende, svår ångest och utmattning."
+  },
+  {
+    "id": "vii-190",
+    "keep": true,
+    "reason": "Dottern har ångest, utbrott, låsningar och flera NPF-diagnoser."
+  },
+  {
+    "id": "vii-192",
+    "keep": false,
+    "reason": "Reflektion om elevsyn och pedagogik; psykisk ohälsa hos elev nämns inte tydligt."
+  },
+  {
+    "id": "vii-196",
+    "keep": true,
+    "reason": "Familjen har PTSD, utmattningsdepression, hemmakämpare; tydlig psykisk ohälsa."
+  },
+  {
+    "id": "vii-199",
+    "keep": true,
+    "reason": "Beskriver prestationsångest, krasch och utmattning genom livet med ADHD."
+  },
+  {
+    "id": "vii-200",
+    "keep": true,
+    "reason": "Lärare beskriver hot om utbrändhet och kognitiv försämring; psykisk ohälsa."
+  },
+  {
+    "id": "vii-202",
+    "keep": true,
+    "reason": "Dikt om barnets utmattning och panik orsakad av skolan."
+  },
+  {
+    "id": "vii-206",
+    "keep": true,
+    "reason": "Lärare beskriver stress, hjärtklappning och spända käkar i yrket."
+  },
+  {
+    "id": "vii-207",
+    "keep": true,
+    "reason": "Sonen blev suicidal, utåtagerande och misshandlades i skolan."
+  },
+  {
+    "id": "vii-208",
+    "keep": true,
+    "reason": "Skolsocialt teams arbete med elever som mår dåligt och har skolfrånvaro."
+  },
+  {
+    "id": "vii-209",
+    "keep": true,
+    "reason": "Sonen har psykisk ohälsa, är isolerad, har trauman efter skolan."
+  },
+  {
+    "id": "vii-211",
+    "keep": true,
+    "reason": "Dottern ville ta livet av sig, var hemmasittare i fem år; tydlig psykisk ohälsa."
+  },
+  {
+    "id": "vii-213",
+    "keep": true,
+    "reason": "Beskriver utmattning, frustration och hemmasittande hos särskilt begåvade elever."
+  },
+  {
+    "id": "vii-214",
+    "keep": true,
+    "reason": "Sonen självskadade sig, fick utbrott och stor ångest; mamma gråter över belastningen."
+  },
+  {
+    "id": "vii-215",
+    "keep": true,
+    "reason": "Lärare beskriver hemmasittare och vuxna som skolsystemet skadat."
+  },
+  {
+    "id": "vii-216",
+    "keep": true,
+    "reason": "Förälder beskriver att hen själv håller på att gå sönder; tydlig psykisk belastning."
+  },
+  {
+    "id": "vii-224",
+    "keep": true,
+    "reason": "Tar upp föräldrars psykisk ohälsa, missbruk och barns sjunkande självkänsla."
+  },
+  {
+    "id": "vii-234",
+    "keep": true,
+    "reason": "Barnet mår mycket dåligt; förälder beskriver stress och ohälsa kopplad till skolplikten."
+  },
+  {
+    "id": "vii-236",
+    "keep": true,
+    "reason": "Mellanbarnet sjukskrivet för depression och ångest under skolåren."
+  },
+  {
+    "id": "vii-237",
+    "keep": true,
+    "reason": "Lärare beskriver egen utmattning under skoltiden; sov med kläder på."
+  },
+  {
+    "id": "vii-243",
+    "keep": true,
+    "reason": "Flickan uttrycker att hon inte vill leva, slutar växa, har rädslor; tydlig ohälsa."
+  },
+  {
+    "id": "vii-244",
+    "keep": true,
+    "reason": "Eleven utvecklade psykisk ohälsa som följd av understimulans i skolan."
+  },
+  {
+    "id": "vii-247",
+    "keep": true,
+    "reason": "Avslutningsord som direkt nämner ökad psykisk ohälsa bland unga."
+  }
+]

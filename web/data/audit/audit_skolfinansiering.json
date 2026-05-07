@@ -1,0 +1,8 @@
+[
+  {"id": "vi-027", "keep": true, "reason": "Diskuterar studiebidrag/månadsersättning på IM och kommunala skillnader i finansiering."},
+  {"id": "vi-032", "keep": true, "reason": "Tar upp budgetunderskott, neddragen administration och uteblivna tilläggsbelopp."},
+  {"id": "vi-036", "keep": false, "reason": "Handlar om personlig ekonomi och arbetsförhållanden, inte skolfinansieringssystem."},
+  {"id": "vi-057", "keep": true, "reason": "Diskuterar statligt stöd, kommunal finansiering och resursfördelning friskola/kommunal skola."},
+  {"id": "vi-064", "keep": true, "reason": "Uttalad kritik mot bristande resurstilldelning för stöd till barn med särskilda behov."},
+  {"id": "vi-117", "keep": true, "reason": "Detaljerad genomgång av tilläggsbelopp, inflation och resursbrist i anpassad skola."}
+]

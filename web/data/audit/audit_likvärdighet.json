@@ -1,0 +1,8 @@
+[
+  {"id": "vi-027", "keep": true, "reason": "Lyfter olikheter mellan kommuners hantering av studiebidrag och kräver likvärdighet över hela Sverige."},
+  {"id": "vi-041", "keep": true, "reason": "Diskuterar olika betygssättning mellan skolor och ojämlik skolpengsfördelning mellan villaområden och förort."},
+  {"id": "vi-045", "keep": false, "reason": "Handlar om resursbrist, digitalisering och borttagna traditioner, inte om likvärdighet mellan skolor/kommuner."},
+  {"id": "vi-073", "keep": true, "reason": "Kartlägger ojämlik tillgång till kommunala resursskolor mellan Sveriges kommuner."},
+  {"id": "vi-081", "keep": true, "reason": "Efterlyser att alla elever värderas lika oavsett skola och föreslår statlig skola för likvärdighet."},
+  {"id": "vi-148", "keep": false, "reason": "Fokuserar på arbetsmiljö, stödavslag och lärarbrist, inte på likvärdighet mellan skolor eller kommuner."}
+]

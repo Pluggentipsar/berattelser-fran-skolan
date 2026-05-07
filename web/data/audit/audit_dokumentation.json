@@ -1,0 +1,15 @@
+[
+  {"id": "vi-005", "keep": true, "reason": "Diskuterar åtgärdsprogram och utredningar som administrativ praktik skapad i efterhand."},
+  {"id": "vi-009", "keep": true, "reason": "Lyfter explicit att samverkan, dokumentation och möten tränger undan undervisning."},
+  {"id": "vi-010", "keep": true, "reason": "Punkt 3 kräver begränsning av möten och dokumentationskrav."},
+  {"id": "vi-023", "keep": true, "reason": "Essän tematiserar skolans byråkratiska form och institutionella dokumentationslogik."},
+  {"id": "vi-034", "keep": true, "reason": "Beskriver systematiskt kvalitetsarbete och ordbajsrutor som meningslös dokumentationsbörda."},
+  {"id": "vi-039", "keep": false, "reason": "Skildrar kaotisk klassrumsdag utan fokus på dokumentations- eller pappersbörda."},
+  {"id": "vi-054", "keep": true, "reason": "Räknar upp IUPer, kartläggningar, utredningar och möten som tar över undervisningen."},
+  {"id": "vi-069", "keep": true, "reason": "Rektor talar uttryckligen om dokumentationsbördan och administrativ uppsvällning."},
+  {"id": "vi-125", "keep": true, "reason": "Kräver att dokumentationshysterin upphör och kritiserar extrauppgifterna."},
+  {"id": "vi-129", "keep": true, "reason": "Förskollärare pekar på för mycket dokumentation och möten som problem."},
+  {"id": "vi-140", "keep": true, "reason": "Hela texten kretsar kring paradoxen att dokumentation äter upp tid med eleverna."},
+  {"id": "vi-148", "keep": true, "reason": "Nämner tusen dokument, kartläggningar och bedömningar som börda."},
+  {"id": "vii-103", "keep": true, "reason": "Dikten kritiserar uttryckligen dokumentationsfrosseri och utredningar som jäser."}
+]

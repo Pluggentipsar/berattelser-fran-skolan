@@ -1,0 +1,27 @@
+[
+  {
+    "id": "vi-029",
+    "keep": true,
+    "reason": "Föreslår konkret att SVA omarbetas till att inkludera elever med språkstörning."
+  },
+  {
+    "id": "vi-072",
+    "keep": true,
+    "reason": "Nämner allvarlig språkstörning som diagnos och efterfrågar särskild skolform för dessa barn."
+  },
+  {
+    "id": "vi-089",
+    "keep": false,
+    "reason": "Handlar om bristande resurser och läs- och skrivsvårigheter, men språkstörning som diagnos berörs inte."
+  },
+  {
+    "id": "vi-133",
+    "keep": true,
+    "reason": "Lärare på SPSM-skola för elever med grav språkstörning beskriver sin vardag."
+  },
+  {
+    "id": "vii-130",
+    "keep": true,
+    "reason": "Förälder beskriver dotter med DLD/generell språkstörning och bristen på lämplig skolgång."
+  }
+]

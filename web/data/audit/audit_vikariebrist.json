@@ -1,0 +1,9 @@
+[
+  {"id": "vi-032", "keep": true, "reason": "Beskriver konkret vikariebokning på morgonen och att bokade vikarier inte kommer fram."},
+  {"id": "vi-035", "keep": true, "reason": "Uttrycker explicit att 'vi får inga vikarier' när resurspersonal är sjuk."},
+  {"id": "vi-036", "keep": false, "reason": "Handlar om eget vikarierande och otrygghet, inte om brist på vikarier."},
+  {"id": "vi-039", "keep": false, "reason": "Nämner att vikarie finns, ingen brist på vikarier diskuteras."},
+  {"id": "vi-044", "keep": true, "reason": "Beskriver tydligt att kollegor sjukskrivs och inga vikarier finns."},
+  {"id": "vi-104", "keep": false, "reason": "Handlar om hög personalomsättning och vikariekarusell, inte brist på vikarier."},
+  {"id": "vi-130", "keep": false, "reason": "Personlig berättelse om eget arbete i vikariepool, inte om vikariebrist."}
+]

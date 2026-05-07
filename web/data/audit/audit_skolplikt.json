@@ -1,0 +1,10 @@
+[
+  {"id": "vi-003", "keep": false, "reason": "Berör skolproblem och elevmotivation men tar inte upp skolplikt, viten eller läroplikt på meningsfullt sätt."},
+  {"id": "vi-004", "keep": true, "reason": "Argumenterar uttryckligen för att skolplikt borde ersättas med läroplikt."},
+  {"id": "vi-076", "keep": true, "reason": "Diskuterar skolplikten som tandlös och vårdnadshavares ansvar i samhällskontraktet."},
+  {"id": "vi-096", "keep": true, "reason": "Skildrar konsekvenser av skolplikt: orosanmälan vid hög frånvaro och hemmasittarproblematik."},
+  {"id": "vii-110", "keep": true, "reason": "Titel och innehåll handlar om att avskaffa skolplikten och införa läroplikt."},
+  {"id": "vii-119", "keep": true, "reason": "Föreslår konkret att skolplikten i sin nuvarande form måste förändras i grunden."},
+  {"id": "vii-132", "keep": true, "reason": "Föräldrar hänvisas till skolplikten av skolan och uppmanas använda 'milt våld'."},
+  {"id": "vii-143", "keep": true, "reason": "Avslutar med tydligt krav på att ta bort skolplikten och införa läroplikt istället."}
+]

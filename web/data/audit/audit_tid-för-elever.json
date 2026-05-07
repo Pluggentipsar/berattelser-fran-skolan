@@ -1,0 +1,8 @@
+[
+  {"id": "vi-090", "keep": false, "reason": "Handlar om brist på förskollärarjobb och svårigheter att hitta intervjupersoner, inte om lärares tid för elever."},
+  {"id": "vi-103", "keep": false, "reason": "Handlar om för kort SFI-utbildningstid för eleverna själva, inte om lärares tid per elev."},
+  {"id": "vi-118", "keep": true, "reason": "Beskriver hur stora klasser gör att lärare inte längre har tid för varje elev."},
+  {"id": "vi-139", "keep": true, "reason": "Lärare beskriver explicit att tiden inte räcker till för var och en av de 192 eleverna."},
+  {"id": "vi-140", "keep": true, "reason": "Speciallärare beskriver hur dokumentation tar tid från det direkta arbetet med eleverna."},
+  {"id": "vi-151", "keep": true, "reason": "Lärare hinner inte småprata med eller se eleverna under en stressig arbetsdag."}
+]

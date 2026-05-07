@@ -1,0 +1,12 @@
+[
+  {"id": "vi-019", "keep": false, "reason": "Handlar om förskoleklass och friskolereformen, inte förskolan (1-5 år)."},
+  {"id": "vi-032", "keep": true, "reason": "Vardagsskildring av biträdande rektor i förskolan."},
+  {"id": "vi-045", "keep": true, "reason": "Förälders kritik av resursbrist och digitalisering i förskolan."},
+  {"id": "vi-082", "keep": true, "reason": "Förskollärare beskriver lön, gruppstorlek och villkor i förskolan."},
+  {"id": "vi-111", "keep": true, "reason": "Förskollärare berättar om gruppstorlekar och stress i förskolan."},
+  {"id": "vi-116", "keep": true, "reason": "Tar upp förskolegrupper, personalens sjuktal och förskolans villkor."},
+  {"id": "vi-129", "keep": true, "reason": "Kort vittnesmål direkt om förskolans arbetsbörda och förutsättningar."},
+  {"id": "vi-152", "keep": false, "reason": "Handlar om förskoleklass och 6-åringar, inte förskolan."},
+  {"id": "vi-263", "keep": true, "reason": "Förskollärare om specialpedagogik och behov i förskolan."},
+  {"id": "vi-313", "keep": true, "reason": "Innehåller substantiella reflektioner om förskolans gruppstorlekar och bemanning."}
+]

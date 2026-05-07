@@ -1,0 +1,15 @@
+[
+  {"id": "vi-087", "keep": true, "reason": "Beskriver hot, våld och spott mot lärare i vardagen utan stöd från chef – tydlig arbetsmiljöfråga."},
+  {"id": "vi-093", "keep": true, "reason": "Lärare berättar om mordhot, kränkningar, för stora grupper och utbrändhet – kärnfrågor i arbetsmiljö."},
+  {"id": "vii-100", "keep": true, "reason": "Skildrar specialpedagogens orimliga arbetsbelastning, dåliga lånedator och resursbrist – arbetsvillkor."},
+  {"id": "vii-102", "keep": true, "reason": "Jämför lärartäthet och arbetsförhållanden över decennier; rektorns 'sänk ambitionerna' speglar arbetsmiljön."},
+  {"id": "vii-104", "keep": true, "reason": "Diskuterar uttryckligen lärares psykosociala arbetsmiljö och växande arbetsbörda."},
+  {"id": "vii-106", "keep": true, "reason": "Beskriver för mycket undervisningstid, upphackad planering och dåligt samvete – tydlig arbetsmiljö."},
+  {"id": "vii-108", "keep": true, "reason": "Före detta huvudskyddsombud beskriver fysisk och psykisk miljö för pedagoger."},
+  {"id": "vii-111", "keep": true, "reason": "Tystnadskultur, repressalier och styrning av personal – psykosocial arbetsmiljö i fokus."},
+  {"id": "vii-114", "keep": true, "reason": "Otillräcklighet, väggen-risk, brist på planeringstid och toalettbesök – klassisk arbetsmiljöskildring."},
+  {"id": "vii-118", "keep": false, "reason": "Kort positiv anekdot om rolig arbetsdag utan kritik eller diskussion av arbetsmiljöproblem."},
+  {"id": "vii-121", "keep": true, "reason": "Lärarens utmattning, känslosmitta och slitna verktygslåda – psykisk arbetsmiljö."},
+  {"id": "vii-126", "keep": true, "reason": "Nämner uttryckligen 'arbetsmiljöproblem', härskartekniker, 1100 min undervisning – kärnfråga."},
+  {"id": "vii-144", "keep": true, "reason": "Dagboken visar splittrat fokus, missad samplanering och övermäktig mentorsroll – arbetsvillkor."}
+]

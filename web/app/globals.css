@@ -1,0 +1,134 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --color-paper: 250 246 238;        /* #faf6ee */
+    --color-paper-warm: 243 236 222;   /* #f3ecde */
+    --color-paper-deep: 235 226 207;   /* #ebe2cf */
+    --color-ink: 26 24 20;             /* #1a1814 */
+    --color-ink-soft: 58 52 44;        /* #3a342c */
+    --color-ink-muted: 107 97 85;      /* #6b6155 */
+    --color-ink-faint: 163 153 136;    /* #a39988 */
+    --color-ember: 194 65 12;          /* #c2410c */
+    --color-ember-glow: 251 146 60;    /* #fb923c */
+  }
+  html.dark {
+    --color-paper: 23 22 20;           /* near-black warm */
+    --color-paper-warm: 32 30 27;
+    --color-paper-deep: 41 38 33;
+    --color-ink: 240 232 218;
+    --color-ink-soft: 217 207 189;
+    --color-ink-muted: 162 152 134;
+    --color-ink-faint: 110 102 90;
+    --color-ember: 251 146 60;
+    --color-ember-glow: 251 146 60;
+  }
+
+  html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+  }
+  body {
+    background-color: rgb(var(--color-paper));
+    color: rgb(var(--color-ink));
+    @apply font-serif;
+    font-feature-settings: "kern", "liga", "onum";
+    font-variation-settings: "opsz" 14;
+  }
+  ::selection {
+    background-color: rgb(var(--color-ember) / 0.22);
+    color: rgb(var(--color-ink));
+  }
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-display;
+    font-feature-settings: "kern", "liga", "lnum";
+  }
+  /* Fraunces opsz axis: bloom at display sizes */
+  h1 { font-variation-settings: "opsz" 144, "SOFT" 30; }
+  h2 { font-variation-settings: "opsz" 96, "SOFT" 25; }
+  h3 { font-variation-settings: "opsz" 48, "SOFT" 20; }
+  a { color: inherit; }
+}
+
+@layer components {
+  .prose-story {
+    @apply font-serif text-[1.075rem];
+    line-height: 1.62;
+    color: rgb(var(--color-ink));
+    font-variation-settings: "opsz" 11;
+    text-wrap: pretty;
+  }
+  .prose-story p {
+    @apply mb-5;
+    hyphens: auto;
+    -webkit-hyphens: auto;
+    hanging-punctuation: first last;
+  }
+  /* Modern drop cap via initial-letter; fall back to float for older browsers */
+  .prose-story p:first-of-type::first-letter {
+    @apply font-display;
+    color: rgb(var(--color-ember));
+    font-weight: 600;
+    font-variation-settings: "opsz" 144, "SOFT" 50;
+    /* progressive: float-based fallback */
+    float: left;
+    margin-right: 0.45rem;
+    margin-top: 0.45rem;
+    font-size: 3.6rem;
+    line-height: 0.82;
+    /* modern: drop 3 lines, baseline-aligned */
+    -webkit-initial-letter: 3 2;
+    initial-letter: 3 2;
+  }
+  @supports (initial-letter: 3) or (-webkit-initial-letter: 3) {
+    .prose-story p:first-of-type::first-letter {
+      float: none;
+      margin: 0 0.45rem 0 0;
+      font-size: inherit;
+      line-height: inherit;
+    }
+  }
+  .rule-thin {
+    height: 1px;
+    width: 100%;
+    background-color: rgb(var(--color-ink) / 0.1);
+  }
+  .pill {
+    @apply inline-block px-2.5 py-0.5 rounded-full text-[0.7rem] uppercase tracking-wider font-sans;
+    border: 1px solid rgb(var(--color-ink) / 0.15);
+    color: rgb(var(--color-ink-muted));
+    background-color: rgb(var(--color-paper-warm));
+  }
+  .pill:hover {
+    border-color: rgb(var(--color-ember));
+    color: rgb(var(--color-ember));
+  }
+}
+
+/* Print: optimize for letter-style reading */
+@media print {
+  @page {
+    margin: 22mm 18mm 22mm 18mm;
+  }
+  html, body {
+    background: white !important;
+    color: black !important;
+  }
+  nav, footer, .print\:hidden {
+    display: none !important;
+  }
+  .prose-story {
+    font-size: 11pt;
+    line-height: 1.55;
+  }
+  .prose-story p:first-of-type::first-letter {
+    color: black !important;
+  }
+  a {
+    text-decoration: none !important;
+    color: black !important;
+  }
+}

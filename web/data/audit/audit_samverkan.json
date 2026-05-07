@@ -1,0 +1,8 @@
+[
+  {"id": "vi-021", "keep": true, "reason": "Beskriver samverkan mellan ledarskap, kollegor och elevhälsa i skolan."},
+  {"id": "vi-037", "keep": true, "reason": "Efterlyser uttryckligen samarbete mellan skola, socialtjänst och hälso- och sjukvård."},
+  {"id": "vi-051", "keep": false, "reason": "Handlar om skolmiljö och funktionsnedsättning, inte om samverkan mellan aktörer."},
+  {"id": "vi-123", "keep": true, "reason": "Specialpedagog beskriver nätverksmöten med BUP, habilitering och socialtjänst."},
+  {"id": "vi-133", "keep": true, "reason": "Lyfter samverkan med kollegor, elever och vårdnadshavare som kärnan i yrkesrollen."},
+  {"id": "vi-136", "keep": false, "reason": "Handlar om fritidshemmets status internt i skolan, inte samverkan med externa aktörer."}
+]

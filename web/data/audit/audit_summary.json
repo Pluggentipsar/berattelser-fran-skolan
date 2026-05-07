@@ -1,0 +1,18 @@
+{
+  "total_removed": 2,
+  "by_theme": {
+    "specialpedagog": 2
+  },
+  "examples": [
+    {
+      "id": "vi-223",
+      "theme": "specialpedagog",
+      "reason": "Förälderberättelse; specialpedagog nämns endast i förbifarten."
+    },
+    {
+      "id": "vi-329",
+      "theme": "specialpedagog",
+      "reason": "Allmän lärarklagan; specialpedagoger nämns endast som saknade."
+    }
+  ]
+}

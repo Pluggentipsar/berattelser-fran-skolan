@@ -1,0 +1,7 @@
+[
+  {"id": "vi-016", "keep": false, "reason": "Nämner lärarbehörighet kort i anpassad skola, men huvudfokus är särskiljande och anpassad skolform."},
+  {"id": "vi-088", "keep": true, "reason": "Diskuterar uttryckligen lärarlegitimationsreformen och rektorers förlängning av olegitimerad personal."},
+  {"id": "vi-125", "keep": true, "reason": "Centralt tema är behöriga vs obehöriga lärare, status och anställning av olegitimerade."},
+  {"id": "vi-130", "keep": true, "reason": "Personlig berättelse om vägen till lärarlegitimation, betygsättning utan legitimation och dess värde."},
+  {"id": "vi-133", "keep": true, "reason": "Handlar om legitimation, behörighet och att lägga till specialpedagogkompetens på legitimationen."}
+]

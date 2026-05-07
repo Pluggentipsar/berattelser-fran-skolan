@@ -1,0 +1,20 @@
+[
+  {"id": "vi-002", "keep": true, "reason": "Handlar centralt om en lärares destruktiva relation till elev och förälder."},
+  {"id": "vi-006", "keep": true, "reason": "Betonar uttryckligen vikten av att se eleverna och lära sig deras namn."},
+  {"id": "vi-017", "keep": true, "reason": "Lyfter fram lärares relationsbygge som avgörande för elevens framgång."},
+  {"id": "vi-030", "keep": true, "reason": "Argumenterar för relationell pedagogik framför repressiva åtgärder."},
+  {"id": "vi-047", "keep": true, "reason": "Visar hur rätt lärare som ser barnet förändrar elevens skolgång."},
+  {"id": "vi-048", "keep": true, "reason": "Betonar att människor måste mötas av människor i lärandet."},
+  {"id": "vi-101", "keep": false, "reason": "Fokuserar på resursbrist och sortering, inte primärt på lärar-elevrelationer."},
+  {"id": "vi-109", "keep": true, "reason": "Speciallärare beskriver vikten av att skapa relation till utmanande elever."},
+  {"id": "vi-112", "keep": true, "reason": "Lärarens fokus är uttryckligen tillit och relationer till eleverna."},
+  {"id": "vi-114", "keep": true, "reason": "Handlar om de viktiga samtalen och att hinna möta varje elev."},
+  {"id": "vi-119", "keep": true, "reason": "Rektor beskriver hur allt byggde på goda relationer med eleverna."},
+  {"id": "vi-120", "keep": true, "reason": "Nyexad lärare sörjer att hon inte hinner med relationsbyggandet."},
+  {"id": "vi-127", "keep": true, "reason": "Vardagsskildring full av nära möten och kramar med elever."},
+  {"id": "vi-134", "keep": false, "reason": "Handlar mer om kunskap, resurser och politik än om relationer."},
+  {"id": "vii-118", "keep": true, "reason": "Visar nära relationella möten med många elever under en kort stund."},
+  {"id": "vii-135", "keep": true, "reason": "Beskriver trygghet genom att lärare och elever kände varandra väl."},
+  {"id": "vii-141", "keep": true, "reason": "Djup relation mellan lärare och elev i sorg som blir avgörande."},
+  {"id": "vii-152", "keep": true, "reason": "Förälder framhåller uttryckligen att relation är det enda som fungerar."}
+]

@@ -1,0 +1,9 @@
+[
+  {"id": "vi-001", "keep": true, "reason": "Beskriver skolan som brinnande system där beslut fattas över huvudet på lärare och elever."},
+  {"id": "vi-013", "keep": true, "reason": "Pekar uttryckligen ut systemet som otillräckligt och orsak till problemen."},
+  {"id": "vi-025", "keep": false, "reason": "Personlig mobbningsberättelse utan tydlig systemkritisk inramning."},
+  {"id": "vi-076", "keep": true, "reason": "Lyfter strukturell röta, avskaffat tjänstemannaansvar och tandlös skolplikt som systemfel."},
+  {"id": "vi-100", "keep": true, "reason": "Skildrar hur skolsystemet sviker och blir riskfaktor för barnet."},
+  {"id": "vi-106", "keep": true, "reason": "Använder ordet systemfel uttryckligen och kräver politisk åtgärd."},
+  {"id": "vi-149", "keep": true, "reason": "Direkt kritik mot marknadsskolan som strukturellt systemfel."}
+]

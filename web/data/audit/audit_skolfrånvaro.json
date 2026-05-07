@@ -1,0 +1,42 @@
+[
+  {
+    "id": "vi-011",
+    "keep": true,
+    "reason": "Beskriver omfattande skolfrånvaro orsakad av utmattning och bristande stöd."
+  },
+  {
+    "id": "vi-014",
+    "keep": true,
+    "reason": "Föreslår konkreta åtgärder för att söka upp elever som saknas i skolan."
+  },
+  {
+    "id": "vi-042",
+    "keep": true,
+    "reason": "Diskuterar uttryckligen problematisk skolnärvaro/frånvaro och skolans ansvar."
+  },
+  {
+    "id": "vi-052",
+    "keep": true,
+    "reason": "Skildrar barn som inte kan vara i skolan och nekas alternativ undervisning."
+  },
+  {
+    "id": "vi-122",
+    "keep": true,
+    "reason": "Beskriver återkommande frånvaro och kamp att få barnet till skolan."
+  },
+  {
+    "id": "vi-124",
+    "keep": true,
+    "reason": "Handlar uttryckligen om skolvägran och åtgärder som minskade frånvaron."
+  },
+  {
+    "id": "vi-145",
+    "keep": true,
+    "reason": "Sonen har gått i snitt 6 timmar/vecka, tydlig skolfrånvaroproblematik."
+  },
+  {
+    "id": "vi-156",
+    "keep": true,
+    "reason": "Lyfter uttryckligen problematisk skolfrånvaro som politisk fråga."
+  }
+]

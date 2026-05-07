@@ -1,0 +1,732 @@
+{
+  "diagnoses": [
+    {
+      "canonical": "autism",
+      "merged_from": [
+        [
+          "AST",
+          2
+        ],
+        [
+          "autismspektrum",
+          1
+        ],
+        [
+          "autism nivå 1",
+          1
+        ],
+        [
+          "Autism nivå 1",
+          1
+        ],
+        [
+          "autusm",
+          1
+        ]
+      ],
+      "total": 114
+    },
+    {
+      "canonical": "ADHD",
+      "merged_from": [
+        [
+          "ad(h)d",
+          1
+        ]
+      ],
+      "total": 101
+    },
+    {
+      "canonical": "dyslexi",
+      "merged_from": [
+        [
+          "dyslexsi",
+          1
+        ]
+      ],
+      "total": 31
+    },
+    {
+      "canonical": "språkstörning",
+      "merged_from": [
+        [
+          "DLD",
+          3
+        ],
+        [
+          "verbal dyspraxi",
+          1
+        ],
+        [
+          "semantisk språkstörning",
+          1
+        ],
+        [
+          "expressiv språkstörning",
+          1
+        ]
+      ],
+      "total": 28
+    },
+    {
+      "canonical": "depression",
+      "merged_from": [
+        [
+          "utmattningsdepression",
+          1
+        ],
+        [
+          "kronisk depression",
+          1
+        ]
+      ],
+      "total": 22
+    },
+    {
+      "canonical": "ångest",
+      "merged_from": [
+        [
+          "social fobi",
+          3
+        ],
+        [
+          "panikångest",
+          1
+        ],
+        [
+          "separationsångestsyndrom",
+          1
+        ],
+        [
+          "GAD",
+          1
+        ],
+        [
+          "social ångest",
+          1
+        ]
+      ],
+      "total": 21
+    },
+    {
+      "canonical": "intellektuell funktionsnedsättning",
+      "merged_from": [
+        [
+          "IF",
+          5
+        ]
+      ],
+      "total": 12
+    },
+    {
+      "canonical": "PTSD",
+      "merged_from": [
+        [
+          "CPTSD",
+          1
+        ]
+      ],
+      "total": 6
+    },
+    {
+      "canonical": "OCD",
+      "merged_from": [
+        [
+          "tvång",
+          1
+        ]
+      ],
+      "total": 5
+    },
+    {
+      "canonical": "CP-skada",
+      "merged_from": [
+        [
+          "cp-skador",
+          1
+        ],
+        [
+          "cp-skada",
+          1
+        ]
+      ],
+      "total": 2
+    },
+    {
+      "canonical": "ARFID",
+      "merged_from": [
+        [
+          "AFRID",
+          1
+        ]
+      ],
+      "total": 2
+    },
+    {
+      "canonical": "utmattningssyndrom",
+      "merged_from": [
+        [
+          "utmattning",
+          1
+        ]
+      ],
+      "total": 2
+    },
+    {
+      "canonical": "läs- och skrivsvårigheter",
+      "merged_from": [
+        [
+          "stavningssvårigheter",
+          1
+        ]
+      ],
+      "total": 2
+    }
+  ],
+  "themes": [
+    {
+      "canonical": "resursskola",
+      "merged_from": [
+        [
+          "resursskolor",
+          1
+        ]
+      ],
+      "total": 11
+    },
+    {
+      "canonical": "inkludering",
+      "merged_from": [
+        [
+          "exkludering",
+          2
+        ]
+      ],
+      "total": 9
+    },
+    {
+      "canonical": "förskola",
+      "merged_from": [
+        [
+          "förskolan",
+          1
+        ]
+      ],
+      "total": 8
+    },
+    {
+      "canonical": "skolplikt",
+      "merged_from": [
+        [
+          "skolplikten",
+          1
+        ]
+      ],
+      "total": 6
+    },
+    {
+      "canonical": "friskolor",
+      "merged_from": [
+        [
+          "friskola",
+          1
+        ]
+      ],
+      "total": 2
+    },
+    {
+      "canonical": "elevassistenter",
+      "merged_from": [
+        [
+          "elevassistent",
+          1
+        ]
+      ],
+      "total": 2
+    },
+    {
+      "canonical": "små-grupper",
+      "merged_from": [
+        [
+          "smågrupp",
+          1
+        ]
+      ],
+      "total": 2
+    }
+  ],
+  "system_critique": [
+    {
+      "canonical": "för stora klasser",
+      "merged_from": [
+        [
+          "för-stora-klasser",
+          5
+        ]
+      ],
+      "total": 14
+    },
+    {
+      "canonical": "för stora barngrupper",
+      "merged_from": [
+        [
+          "för stor barngrupp",
+          1
+        ]
+      ],
+      "total": 5
+    },
+    {
+      "canonical": "för höga krav",
+      "merged_from": [
+        [
+          "för-höga-krav",
+          1
+        ]
+      ],
+      "total": 4
+    },
+    {
+      "canonical": "för mycket dokumentation",
+      "merged_from": [
+        [
+          "för-mycket-dokumentation",
+          1
+        ]
+      ],
+      "total": 3
+    },
+    {
+      "canonical": "många vikarier",
+      "merged_from": [
+        [
+          "inga-vikarier",
+          1
+        ],
+        [
+          "inga vikarier",
+          1
+        ]
+      ],
+      "total": 3
+    },
+    {
+      "canonical": "för få vuxna",
+      "merged_from": [
+        [
+          "för-få-vuxna",
+          1
+        ]
+      ],
+      "total": 3
+    },
+    {
+      "canonical": "låga löner",
+      "merged_from": [
+        [
+          "låga-löner",
+          1
+        ],
+        [
+          "låg-lön",
+          1
+        ]
+      ],
+      "total": 3
+    },
+    {
+      "canonical": "ojämlikhet-mellan-kommuner",
+      "merged_from": [
+        [
+          "ojämlikt-mellan-kommuner",
+          1
+        ]
+      ],
+      "total": 2
+    },
+    {
+      "canonical": "ökad undervisningstid",
+      "merged_from": [
+        [
+          "ökad-undervisningstid",
+          1
+        ]
+      ],
+      "total": 2
+    },
+    {
+      "canonical": "lärare utsätts för våld",
+      "merged_from": [
+        [
+          "lärare-utsätts-för-våld",
+          1
+        ]
+      ],
+      "total": 2
+    },
+    {
+      "canonical": "stora barngrupper",
+      "merged_from": [
+        [
+          "stora-barngrupper",
+          1
+        ]
+      ],
+      "total": 2
+    },
+    {
+      "canonical": "för få platser på resursskolor",
+      "merged_from": [
+        [
+          "för få platser på resursskola",
+          1
+        ]
+      ],
+      "total": 2
+    },
+    {
+      "canonical": "anpassningar uteblev",
+      "merged_from": [
+        [
+          "anpassningar uteblir",
+          1
+        ]
+      ],
+      "total": 2
+    },
+    {
+      "canonical": "speciallärartjänster drogs in",
+      "merged_from": [
+        [
+          "speciallärartjänster dras in",
+          1
+        ]
+      ],
+      "total": 2
+    },
+    {
+      "canonical": "budgeten rymmer varken resurslärare eller speciallärare",
+      "merged_from": [
+        [
+          "Budgeten rymmer varken resurslärare eller speciallärare",
+          1
+        ]
+      ],
+      "total": 2
+    }
+  ],
+  "concrete_proposals": [
+    {
+      "canonical": "mindre klasser",
+      "merged_from": [
+        [
+          "mindre-klasser",
+          4
+        ],
+        [
+          "Mindre klasser",
+          2
+        ]
+      ],
+      "total": 22
+    },
+    {
+      "canonical": "fler speciallärare",
+      "merged_from": [
+        [
+          "fler-speciallärare",
+          2
+        ]
+      ],
+      "total": 8
+    },
+    {
+      "canonical": "mindre grupper",
+      "merged_from": [
+        [
+          "mindre-grupper",
+          1
+        ]
+      ],
+      "total": 7
+    },
+    {
+      "canonical": "ta bort betyget F",
+      "merged_from": [
+        [
+          "ta-bort-F-betyget",
+          1
+        ],
+        [
+          "Ta bort F-betyget",
+          1
+        ],
+        [
+          "ta bort F-betyg",
+          1
+        ],
+        [
+          "ta bort betyg",
+          1
+        ]
+      ],
+      "total": 5
+    },
+    {
+      "canonical": "fler vuxna i skolan",
+      "merged_from": [
+        [
+          "fler vuxna på skolan",
+          1
+        ],
+        [
+          "Fler vuxna i skolan",
+          1
+        ]
+      ],
+      "total": 5
+    },
+    {
+      "canonical": "fler-vuxna",
+      "merged_from": [
+        [
+          "fler vuxna",
+          2
+        ]
+      ],
+      "total": 5
+    },
+    {
+      "canonical": "mindre elevgrupper",
+      "merged_from": [
+        [
+          "mindre-elevgrupper",
+          1
+        ],
+        [
+          "Mindre elevgrupper",
+          1
+        ]
+      ],
+      "total": 4
+    },
+    {
+      "canonical": "mer resurser",
+      "merged_from": [
+        [
+          "mer-resurser",
+          1
+        ]
+      ],
+      "total": 4
+    },
+    {
+      "canonical": "tidiga insatser",
+      "merged_from": [
+        [
+          "tidigare insatser",
+          1
+        ]
+      ],
+      "total": 4
+    },
+    {
+      "canonical": "läroplikt istället för skolplikt",
+      "merged_from": [
+        [
+          "läroplikt-istället-för-skolplikt",
+          1
+        ]
+      ],
+      "total": 3
+    },
+    {
+      "canonical": "stärk-elevhälsan",
+      "merged_from": [
+        [
+          "stärkt-elevhälsa",
+          1
+        ],
+        [
+          "stärkt elevhälsa",
+          1
+        ]
+      ],
+      "total": 3
+    },
+    {
+      "canonical": "följ skollagen",
+      "merged_from": [
+        [
+          "följ-skollagen",
+          1
+        ],
+        [
+          "följa skollag",
+          1
+        ]
+      ],
+      "total": 3
+    },
+    {
+      "canonical": "fler vuxna i klassrummet",
+      "merged_from": [
+        [
+          "fler-vuxna-i-klassrummen",
+          1
+        ]
+      ],
+      "total": 3
+    },
+    {
+      "canonical": "tydligare struktur",
+      "merged_from": [
+        [
+          "tydlig struktur",
+          1
+        ]
+      ],
+      "total": 3
+    },
+    {
+      "canonical": "statlig-skola",
+      "merged_from": [
+        [
+          "statlig skola",
+          1
+        ]
+      ],
+      "total": 3
+    },
+    {
+      "canonical": "Återförstatliga skolan",
+      "merged_from": [
+        [
+          "återförstatliga skolan",
+          1
+        ]
+      ],
+      "total": 3
+    },
+    {
+      "canonical": "stärkt-lärarmandat",
+      "merged_from": [
+        [
+          "stärk-lärarmandat",
+          1
+        ]
+      ],
+      "total": 2
+    },
+    {
+      "canonical": "ökad personaltäthet",
+      "merged_from": [
+        [
+          "öka-personaltäthet",
+          1
+        ]
+      ],
+      "total": 2
+    },
+    {
+      "canonical": "fler-KSU-grupper",
+      "merged_from": [
+        [
+          "fler-SU-grupper",
+          1
+        ]
+      ],
+      "total": 2
+    },
+    {
+      "canonical": "höj lönen",
+      "merged_from": [
+        [
+          "höj-löner",
+          1
+        ]
+      ],
+      "total": 2
+    },
+    {
+      "canonical": "relationellt ledarskap",
+      "merged_from": [
+        [
+          "relationellt-ledarskap",
+          1
+        ]
+      ],
+      "total": 2
+    },
+    {
+      "canonical": "fler resursskolor",
+      "merged_from": [
+        [
+          "fler-resursskolor",
+          1
+        ]
+      ],
+      "total": 2
+    },
+    {
+      "canonical": "lyssna på barnen",
+      "merged_from": [
+        [
+          "lyssna-på-barn",
+          1
+        ]
+      ],
+      "total": 2
+    },
+    {
+      "canonical": "max 20 elever per klass",
+      "merged_from": [
+        [
+          "max 24 elever per klass",
+          1
+        ]
+      ],
+      "total": 2
+    },
+    {
+      "canonical": "samarbete med skolan",
+      "merged_from": [
+        [
+          "samarbete med soc",
+          1
+        ]
+      ],
+      "total": 2
+    },
+    {
+      "canonical": "reglera klasstorlekar",
+      "merged_from": [
+        [
+          "reglerad klasstorlek",
+          1
+        ]
+      ],
+      "total": 2
+    },
+    {
+      "canonical": "fler specialpedagoger",
+      "merged_from": [
+        [
+          "fler socialpedagoger",
+          1
+        ]
+      ],
+      "total": 2
+    },
+    {
+      "canonical": "mobilfri-skoldag",
+      "merged_from": [
+        [
+          "mobilfri skola",
+          1
+        ]
+      ],
+      "total": 2
+    }
+  ]
+}

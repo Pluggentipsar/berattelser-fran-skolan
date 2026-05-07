@@ -1,0 +1,13 @@
+[
+  {"id": "vi-022", "keep": true, "reason": "Dottern går på resursskola och berättelsen beskriver hennes upplevelse där."},
+  {"id": "vi-052", "keep": true, "reason": "Sonen går på resursskola, men det fungerar inte – tydligt centralt tema."},
+  {"id": "vi-056", "keep": false, "reason": "Berättelsen handlar om bristande stöd i vanlig skola; ingen resursskola nämns."},
+  {"id": "vi-064", "keep": false, "reason": "Allmän text om bristande resurser för stöd, ingen koppling till resursskola som setting eller behov."},
+  {"id": "vi-073", "keep": true, "reason": "Hela texten är en kartläggning av kommunala resursskolor i Sverige."},
+  {"id": "vi-078", "keep": true, "reason": "Dottern fick plats på resursskola inför åk 7, vilket är centralt i berättelsen."},
+  {"id": "vi-092", "keep": true, "reason": "Barnet går på fristående resursskola och författaren lyfter behovet av sådana."},
+  {"id": "vi-128", "keep": true, "reason": "Två av barnen har plats på kommunens resursskola, vilket beskrivs som avgörande."},
+  {"id": "vi-131", "keep": true, "reason": "Sonen går på kommunens resursskola och berättelsen kretsar kring detta."},
+  {"id": "vii-133", "keep": false, "reason": "Generell text om evidens, lärmiljö och NPF; resursskola nämns inte."},
+  {"id": "vii-135", "keep": true, "reason": "Läraren bytte till att bygga upp en resursskola och beskriver verksamheten där."}
+]

@@ -1,0 +1,6 @@
+anthropic>=0.40.0
+requests>=2.31.0
+# only needed for cluster_themes.py:
+umap-learn>=0.5.5
+hdbscan>=0.8.33
+numpy>=1.26

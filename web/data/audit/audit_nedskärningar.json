@@ -1,0 +1,7 @@
+[
+  {"id": "vi-034", "keep": true, "reason": "Beskriver konkret hur elevers stöd dras in på grund av budget och sparkrav."},
+  {"id": "vi-089", "keep": true, "reason": "Berättar att fyra resurser togs bort vid läsårsstart eftersom budgeten inte gick ihop."},
+  {"id": "vi-116", "keep": true, "reason": "Tar upp anslag som inte följer inflationen och rektorers nedskärningar i landsbygdsskolor."},
+  {"id": "vi-122", "keep": false, "reason": "Handlar om sons ångest och bristande stöd, ingen konkret diskussion om nedskärningar eller sparbeting."},
+  {"id": "vi-144", "keep": true, "reason": "Reflekterar uttryckligen över besparingar i skolan och deras långsiktiga kostnader."}
+]
