@@ -25,7 +25,7 @@ from pathlib import Path
 from typing import Iterable
 
 ROOT = Path(__file__).resolve().parent.parent
-DATA = ROOT / "web" / "data"
+DATA = ROOT / "data"
 
 VOLUMES = [
     {"id": "i",  "label": "Volym I",  "src": "vol_i.txt"},

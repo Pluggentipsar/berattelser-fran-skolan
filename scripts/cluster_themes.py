@@ -19,7 +19,7 @@ import umap  # type: ignore
 from sklearn.cluster import DBSCAN  # type: ignore
 
 ROOT = Path(__file__).resolve().parent.parent
-DATA = ROOT / "web" / "data"
+DATA = ROOT / "data"
 
 
 def main() -> int:

@@ -17,7 +17,7 @@ from collections import Counter
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-DATA = ROOT / "web" / "data"
+DATA = ROOT / "data"
 
 # Swedish stop words — broad list, augmented by frequent corpus tokens we
 # don't want as "thematic" anchors.

@@ -15,7 +15,7 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-DATA = ROOT / "web" / "data"
+DATA = ROOT / "data"
 
 YEAR_RE = re.compile(r"\b(19[7-9]\d|20[0-2]\d|2030)\b")
 CONTEXT_PAD = 70  # chars on each side

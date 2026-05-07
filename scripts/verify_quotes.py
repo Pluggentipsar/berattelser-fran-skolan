@@ -10,7 +10,7 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-STORIES = json.loads((ROOT / "web" / "data" / "stories.json").read_text(encoding="utf-8"))
+STORIES = json.loads((ROOT / "data" / "stories.json").read_text(encoding="utf-8"))
 BY_ID = {s["id"]: s for s in STORIES}
 
 # (id, title_seen, quote_text)
@@ -157,7 +157,7 @@ def main() -> int:
     if failed:
         print(f"FAILED: {failed} quote(s) could not be verified verbatim", file=sys.stderr)
         return 1
-    out_path = ROOT / "web" / "data" / "carousel.json"
+    out_path = ROOT / "data" / "carousel.json"
     out_path.write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"Wrote {len(out)} verified quotes to {out_path.relative_to(ROOT)}", file=sys.stderr)
     return 0

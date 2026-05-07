@@ -25,7 +25,7 @@ from pathlib import Path
 import requests
 
 ROOT = Path(__file__).resolve().parent.parent
-DATA = ROOT / "web" / "data"
+DATA = ROOT / "data"
 SRC = DATA / "stories.json"
 OUT = DATA / "embeddings.json"
 

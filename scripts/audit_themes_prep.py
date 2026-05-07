@@ -18,7 +18,7 @@ from collections import defaultdict
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-DATA = ROOT / "web" / "data"
+DATA = ROOT / "data"
 AUDIT = DATA / "audit"
 
 # Audit themes that have at least this many stories — singletons aren't worth it

@@ -1,8 +1,8 @@
 import { promises as fs } from "node:fs";
 import path from "node:path";
 
-// During `next dev`/`next build`, process.cwd() is the project root (the
-// folder containing package.json, i.e. web/). Data lives at web/data/.
+// Data lives at <repo-root>/data/, alongside package.json. process.cwd() is
+// the project root during both `next dev` and `next build`.
 export const DATA_DIR = path.join(process.cwd(), "data");
 
 const cache = new Map<string, unknown>();

@@ -12,7 +12,7 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-CANON = ROOT / "web" / "data" / "canonicalization"
+CANON = ROOT / "data" / "canonicalization"
 
 
 def merge(name: str, output_basename: str) -> None:

@@ -11,21 +11,20 @@ forskare, journalister, beslutsfattare och en bredare allmänhet faktiskt
 ## Snabbstart
 
 ```bash
-cd web
 npm install
 npm run dev
 # → http://localhost:3000
 ```
 
 Hela sajten fungerar utan API-nycklar — alla enrichment-data (615 berättelser
-× metadata) ligger redan i `web/data/`.
+× metadata) ligger redan i `data/`.
 
 ## Deploy till Vercel
 
 1. Pusha repo till GitHub
 2. Importera till Vercel (vercel.com → New Project → Import Git Repository)
-3. Vercel detekterar Next.js automatiskt. Sätt **root directory** till `web`
-4. Sätt en miljövariabel:
+3. Vercel detekterar Next.js automatiskt — inga inställningar behövs
+4. (Valfritt) Sätt en miljövariabel:
    - `NEXT_PUBLIC_BASE_URL` = din slutliga URL (t.ex. `https://berattelser-fran-skolan.vercel.app`)
 5. Klicka **Deploy**. Klar.
 
@@ -70,8 +69,8 @@ Build-tiden är 2-3 minuter (615 statiska sidor + 117 tema-sidor pre-genereras).
 
 ```bash
 # 0. PDF → text (en gång)
-pdftotext -enc UTF-8 -layout skolan_vol_i_final-v3.pdf  web/data/vol_i.txt
-pdftotext -enc UTF-8 -layout Skolan_vol_ii_final-v3.pdf web/data/vol_ii.txt
+pdftotext -enc UTF-8 -layout skolan_vol_i_final-v3.pdf  data/vol_i.txt
+pdftotext -enc UTF-8 -layout Skolan_vol_ii_final-v3.pdf data/vol_ii.txt
 
 # 1. Strukturerad korpus
 python scripts/parse_stories.py

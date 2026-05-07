@@ -6,7 +6,7 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-CANON = ROOT / "web" / "data" / "canonicalization"
+CANON = ROOT / "data" / "canonicalization"
 
 
 def split(name: str, n: int) -> None:
